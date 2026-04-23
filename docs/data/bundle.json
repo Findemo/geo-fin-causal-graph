@@ -1,0 +1,5473 @@
+{
+  "meta": {
+    "event_count": 40,
+    "narrative_count": 120,
+    "market_chain_count": 40,
+    "generated_from": [
+      "news_data",
+      "stage2",
+      "stage3"
+    ]
+  },
+  "events": [
+    {
+      "event_id": "E001",
+      "title": "US Treasury announces new sanctions on Iran shadow fleet",
+      "datetime": "2026-02-10 date_only",
+      "event_type": "sanction",
+      "location": "Washington D.C., USA",
+      "source": "Reuters",
+      "url": "https://www.state.gov/iran-sanctions",
+      "summary": "美国财政部宣布新一轮对伊制裁，重点打击涉伊石油交易商与“影子舰队”运营网络，意在切断伊朗能源出口融资与离岸结算链条，显著提升战前金融对抗强度。"
+    },
+    {
+      "event_id": "E002",
+      "title": "US disrupts Iran weapons procurement",
+      "datetime": "2026-02-25 date_only",
+      "event_type": "sanction",
+      "location": "Washington D.C., USA",
+      "source": "Bloomberg",
+      "url": "https://www.state.gov/iran-sanctions",
+      "summary": "美国国务院宣布实施精准制裁，旨在瓦解伊朗的武器采购网络并进一步限制其影子舰队运作，加剧了冲突前夕双方在金融与供应链层面的对抗烈度。"
+    },
+    {
+      "event_id": "E003",
+      "title": "US-Iran Geneva nuclear talks fail",
+      "datetime": "2026-02-26 date_only",
+      "event_type": "diplomacy",
+      "location": "Geneva, Switzerland",
+      "source": "Wall Street Journal",
+      "url": "https://understandingwar.org/research/middle-east/iran-update-february-26-2026/",
+      "summary": "美国与伊朗在日内瓦举行的第三轮核谈判未能取得突破。美方要求彻底拆除福尔多和纳坦兹核设施并交出浓缩铀，遭伊朗断然拒绝，直接导致外交斡旋彻底破裂。"
+    },
+    {
+      "event_id": "E004",
+      "title": "Operations Epic Fury & Roaring Lion begin",
+      "datetime": "2026-02-28 06:35",
+      "event_type": "military",
+      "location": "Iran (Nationwide)",
+      "source": "Reuters",
+      "url": "https://en.wikipedia.org/wiki/Timeline_of_the_2026_Iran_war",
+      "summary": "美以军队联合启动代号“史诗狂怒”及“怒吼雄狮”的大规模军事行动。美军战舰发射大量战斧巡航导弹，对伊朗境内的军事设施、防空网络及指挥中心展开全面空袭。"
+    },
+    {
+      "event_id": "E005",
+      "title": "Khamenei killed in Tehran compound strike",
+      "datetime": "2026-02-28 07:30",
+      "event_type": "military",
+      "location": "Tehran, Iran",
+      "source": "Bloomberg",
+      "url": "https://flashpoint.io/blog/escalation-in-the-middle-east-operation-epic-fury/",
+      "summary": "以色列战机对位于德黑兰的伊朗最高领袖官邸实施了高强度精准轰炸，成功完成了针对阿里·哈梅内伊的斩首行动，导致伊朗战时最高指挥层发生剧烈震荡。"
+    },
+    {
+      "event_id": "E006",
+      "title": "Missile strike hits girls' school in Minab",
+      "datetime": "2026-02-28 08:04",
+      "event_type": "military",
+      "location": "Minab, Iran",
+      "source": "Associated Press",
+      "url": "https://www.britannica.com/event/2026-Iran-war",
+      "summary": "联军在打击阿巴斯港海军基地附近目标时，一枚导弹错误击中米纳卜市的一所女子小学，导致近170名平民丧生。该事件引发了严重的平民伤亡及大规模反战抗议。"
+    },
+    {
+      "event_id": "E007",
+      "title": "Iranian missile strikes US Fifth Fleet HQ",
+      "datetime": "2026-02-28 09:26",
+      "event_type": "military",
+      "location": "Manama, Bahrain",
+      "source": "Reuters",
+      "url": "https://en.wikipedia.org/wiki/Timeline_of_the_2026_Iran_war",
+      "summary": "作为对美以空袭的迅速报复，伊朗伊斯兰革命卫队发射弹道导弹，准确击中了位于巴林的美国海军第五舰队服务中心，标志着冲突正式蔓延至海湾盟国境内。"
+    },
+    {
+      "event_id": "E008",
+      "title": "Iran strikes Camp Arifjan and Jebel Ali",
+      "datetime": "2026-02-28 13:30",
+      "event_type": "military",
+      "location": "Kuwait and Dubai, UAE",
+      "source": "Financial Times",
+      "url": "https://flashpoint.io/blog/escalation-in-the-middle-east-operation-epic-fury/",
+      "summary": "伊朗对驻有美军的科威特阿里弗让营地及阿联酋迪拜的杰贝阿里港发动了弹道导弹与无人机协同打击，严重威胁了中东核心商业航运与美军物流枢纽的安全。"
+    },
+    {
+      "event_id": "E009",
+      "title": "Skylight shadow fleet tanker struck near Oman",
+      "datetime": "2026-03-01 date_only",
+      "event_type": "military",
+      "location": "Khasab, Oman",
+      "source": "Reuters",
+      "url": "https://en.wikipedia.org/wiki/List_of_ships_attacked_during_the_2026_Iran_war",
+      "summary": "一艘曾受美国制裁的“影子舰队”油轮Skylight在阿曼海域被不明抛射物击中，造成两名船员死亡，四人受伤。这是海峡危机中首批针对商船的致命袭击。"
+    },
+    {
+      "event_id": "E010",
+      "title": "Hercules Star bunkering tanker attacked",
+      "datetime": "2026-03-01 date_only",
+      "event_type": "military",
+      "location": "Ras Al-Khaimah, UAE",
+      "source": "Bloomberg",
+      "url": "https://www.marinelink.com/news/list-vessels-attacked-start-war-iran-537042",
+      "summary": "悬挂直布罗陀国旗的成品油轮Hercules Star在阿联酋海域遭到来自伊朗的火力打击。袭击导致一人死亡，船只受损后被迫撤退至迪拜锚地寻求庇护。"
+    },
+    {
+      "event_id": "E011",
+      "title": "MKD Vyom oil tanker struck sparking engine fire",
+      "datetime": "2026-03-01 date_only",
+      "event_type": "military",
+      "location": "Mina Saqr, UAE",
+      "source": "Reuters",
+      "url": "https://www.marinelink.com/news/list-vessels-attacked-start-war-iran-537042",
+      "summary": "马绍尔群岛籍原油轮MKD Vyom在阿联酋附近海域遭抛射物击中，导致一名印度籍船员丧生。爆炸在引擎室引发火灾，随后被船员扑灭，加剧了能源运输恐慌。"
+    },
+    {
+      "event_id": "E012",
+      "title": "PMF headquarters in Jurf al-Sakhar struck",
+      "datetime": "2026-03-01 date_only",
+      "event_type": "military",
+      "location": "Jurf al-Sakhar, Iraq",
+      "source": "Associated Press",
+      "url": "https://en.wikipedia.org/wiki/List_of_attacks_during_the_2026_Iran_war",
+      "summary": "美以空军对位于伊拉克巴格达以南的由伊朗支持的武装组织“真主党旅”及人民动员力量（PMF）总部实施了空袭，造成多名武装分子死伤，打击了其区域代理人网络。"
+    },
+    {
+      "event_id": "E013",
+      "title": "US-flagged Stena Imperative struck in Bahrain",
+      "datetime": "2026-03-01 23:00",
+      "event_type": "military",
+      "location": "Muharraq, Bahrain",
+      "source": "Bloomberg",
+      "url": "https://gcaptain.com/us-flagged-tanker-security/",
+      "summary": "悬挂美国国旗的Stena Imperative号油轮在巴林港口停靠时，遭伊朗拦截导弹的碎片击中起火，导致一名港口工人死亡及两人重伤，船员安全撤离。"
+    },
+    {
+      "event_id": "E014",
+      "title": "IRGC officially confirms Hormuz closure",
+      "datetime": "2026-03-02 date_only",
+      "event_type": "blockade",
+      "location": "Strait of Hormuz",
+      "source": "Financial Times",
+      "url": "https://en.wikipedia.org/wiki/2026_Strait_of_Hormuz_crisis",
+      "summary": "伊朗伊斯兰革命卫队高级官员正式向外界证实，霍尔木兹海峡已被全面封锁，并警告任何企图未经允许强行通过的船只都将遭到无情打击，直接导致国际油价飙升。"
+    },
+    {
+      "event_id": "E015",
+      "title": "US and Israel strike Natanz Nuclear Facility",
+      "datetime": "2026-03-02 date_only",
+      "event_type": "military",
+      "location": "Esfahan Province, Iran",
+      "source": "Wall Street Journal",
+      "url": "https://understandingwar.org/research/middle-east/iran-update-evening-special-report-march-2-2026/",
+      "summary": "美以联军出动战机对伊斯法罕省的纳坦兹核设施实施了精准钻地空袭，严重破坏了至少三座核心建筑物。这是全面冲突爆发以来针对伊朗核心核基地的直接重击。"
+    },
+    {
+      "event_id": "E016",
+      "title": "Trump orders Navy to escort tankers in the Gulf",
+      "datetime": "2026-03-03 date_only",
+      "event_type": "politics",
+      "location": "Washington D.C., USA",
+      "source": "Reuters",
+      "url": "https://www.crisisgroup.org/trigger-list/iran-usisrael-trigger-list/flashpoints/strait-hormuz",
+      "summary": "美国总统特朗普宣布，美军将开始在海湾地区为商业油轮提供武装护航。同时指令国际开发金融公司为通过该水域的能源运输提供政治风险保险背书以稳住市场。"
+    },
+    {
+      "event_id": "E017",
+      "title": "Gold Oak bulk carrier hit by projectile",
+      "datetime": "2026-03-03 date_only",
+      "event_type": "military",
+      "location": "Fujairah, UAE",
+      "source": "Bloomberg",
+      "url": "https://www.marinelink.com/news/list-vessels-attacked-start-war-iran-537042",
+      "summary": "巴拿马籍散货船Gold Oak号在阿联酋富查伊拉港以东7海里处遭遇来自伊朗的不明抛射物袭击。船体遭受轻微结构性损伤，所幸无人员伤亡报告。"
+    },
+    {
+      "event_id": "E018",
+      "title": "Safeen Prestige container ship struck and abandoned",
+      "datetime": "2026-03-04 date_only",
+      "event_type": "military",
+      "location": "Strait of Hormuz",
+      "source": "Reuters",
+      "url": "https://www.marinelink.com/news/list-vessels-attacked-start-war-iran-537042",
+      "summary": "马耳他籍集装箱船Safeen Prestige在海峡航行时水线以上部位遭导弹击中，导致引擎室燃起大火，全体船员被迫弃船逃生，失去动力的船只在危险水域持续漂流。"
+    },
+    {
+      "event_id": "E019",
+      "title": "USS Charlotte sinks Iranian frigate IRIS Dena",
+      "datetime": "2026-03-04 23:38",
+      "event_type": "military",
+      "location": "Indian Ocean (off Galle, Sri Lanka)",
+      "source": "Associated Press",
+      "url": "https://apnews.com/article/iran-israel-us-iris-dena-warship-submarine-8789cf718b1ebf8b571cb8ef5d785150",
+      "summary": "美国海军洛杉矶级核潜艇“夏洛特号”在印度洋水域发射Mk-48重型鱼雷，无预警击沉了正结束演习返航的伊朗海军“德纳号”护卫舰，造成87名伊朗水兵阵亡。"
+    },
+    {
+      "event_id": "E020",
+      "title": "Sonangol Namibe tanker attacked by drone boat",
+      "datetime": "2026-03-05 date_only",
+      "event_type": "military",
+      "location": "Khor al Zubair, Iraq",
+      "source": "Reuters",
+      "url": "https://www.marinelink.com/news/list-vessels-attacked-start-war-iran-537042",
+      "summary": "停泊在伊拉克祖拜尔港外海的巴哈马籍原油轮Sonangol Namibe遭到一艘满载炸药的伊朗遥控无人水面艇（USV）撞击，船体受损破裂，展现了伊朗的海上非对称战力。"
+    },
+    {
+      "event_id": "E021",
+      "title": "Azadi Stadium area struck by US and Israel",
+      "datetime": "2026-03-05 date_only",
+      "event_type": "military",
+      "location": "Tehran, Iran",
+      "source": "BBC News",
+      "url": "https://en.wikipedia.org/wiki/List_of_attacks_during_the_2026_Iran_war",
+      "summary": "美以空军扩大了对德黑兰市区的轰炸强度，多枚弹药落入阿扎迪体育场、米拉德塔及伊朗红新月会和平大楼附近区域，引发巨大的连环爆炸，震慑了伊朗首都市区。"
+    },
+    {
+      "event_id": "E022",
+      "title": "Mussafah 2 tugboat destroyed during rescue",
+      "datetime": "2026-03-06 date_only",
+      "event_type": "military",
+      "location": "Strait of Hormuz",
+      "source": "Reuters",
+      "url": "https://www.marinelink.com/news/list-vessels-attacked-start-war-iran-537042",
+      "summary": "阿联酋拖船Mussafah 2号在试图救援此前遇袭漂流的Safeen Prestige号货轮时，遭到伊朗军队的致命炮击，导致4名船员遇难、3人重伤，加剧了海域救援风险。"
+    },
+    {
+      "event_id": "E023",
+      "title": "Mojtaba Khamenei appointed Supreme Leader",
+      "datetime": "2026-03-08 date_only",
+      "event_type": "politics",
+      "location": "Tehran, Iran",
+      "source": "Wall Street Journal",
+      "url": "https://www.cfr.org/global-conflict-tracker/conflict/confrontation-between-united-states-and-iran",
+      "summary": "在阿里·哈梅内伊于美军斩首空袭中丧生后，伊朗专家会议紧急任命其子莫吉塔巴·哈梅内伊为新一任最高领袖。这一政权交接暂时稳住了战时伊朗的内部指挥结构。"
+    },
+    {
+      "event_id": "E024",
+      "title": "Mayuree Naree bulk carrier shelled for ignoring warnings",
+      "datetime": "2026-03-10 date_only",
+      "event_type": "military",
+      "location": "Gulf of Oman",
+      "source": "Al Jazeera",
+      "url": "https://en.wikipedia.org/wiki/List_of_ships_attacked_during_the_2026_Iran_war",
+      "summary": "泰国籍散货船Mayuree Naree因无视革命卫队关于禁航霍尔木兹海峡的无线电警告，遭到伊朗海军实弹炮击。虽然多数船员撤离，但仍有3名船员下落不明。"
+    },
+    {
+      "event_id": "E025",
+      "title": "US and Israel submit Article 51 letters to UN",
+      "datetime": "2026-03-10 date_only",
+      "event_type": "diplomacy",
+      "location": "New York, USA",
+      "source": "Reuters",
+      "url": "https://researchbriefings.files.parliament.uk/documents/CBP-10521/CBP-10521.pdf",
+      "summary": "美国与以色列正式向联合国安理会提交了外交信函，援引《联合国宪章》第51条，为其联合发动的对伊朗境内的全面空袭提供先发制人及自卫合法性辩护。"
+    },
+    {
+      "event_id": "E026",
+      "title": "One Majesty container ship struck by projectile",
+      "datetime": "2026-03-11 11:00",
+      "event_type": "military",
+      "location": "Dubai, UAE",
+      "source": "Bloomberg",
+      "url": "https://www.lloydslist.com/hot-topics/strait-of-hormuz-crisis/map-and-list-of-attacks",
+      "summary": "日本集装箱船One Majesty在迪拜以北约50海里处遭伊朗发射的抛射物击中。虽然船体仅遭受轻微损坏，但标志着海湾地区核心商业航运安全网的进一步恶化。"
+    },
+    {
+      "event_id": "E027",
+      "title": "US helicopter fires on Iranian vessel near carrier",
+      "datetime": "2026-03-12 22:58",
+      "event_type": "military",
+      "location": "Persian Gulf",
+      "source": "Reuters",
+      "url": "https://flashpoint.io/blog/escalation-in-the-middle-east-operation-epic-fury/",
+      "summary": "一架美军武装直升机在波斯湾水域向一艘高速逼近“亚伯拉罕·林肯”号航空母舰的伊朗水面舰艇发射了多枚地狱火导弹，成功挫败了潜在的非对称自杀式袭击企图。"
+    },
+    {
+      "event_id": "E028",
+      "title": "Islamic Resistance downs US KC-135 aircraft",
+      "datetime": "2026-03-13 00:38",
+      "event_type": "military",
+      "location": "Iraq",
+      "source": "Associated Press",
+      "url": "https://flashpoint.io/blog/escalation-in-the-middle-east-operation-epic-fury/",
+      "summary": "受伊朗支持的伊拉克伊斯兰抵抗组织公开发布声明，声称使用防空火力在伊拉克领空成功击落了一架为美军战机提供后勤补给支援的KC-135空中加油机。"
+    },
+    {
+      "event_id": "E029",
+      "title": "US strikes Kharg Island military infrastructure",
+      "datetime": "2026-03-13 date_only",
+      "event_type": "military",
+      "location": "Kharg Island, Iran",
+      "source": "Wall Street Journal",
+      "url": "https://understandingwar.org/research/middle-east/iran-update-special-report-march-14-2026/",
+      "summary": "为削弱伊朗在霍尔木兹海峡的布雷与封锁能力，美军中央司令部机群对布什尔省哈尔克岛的军事基础设施实施了大规模精准打击，摧毁了多处水雷及导弹仓库。"
+    },
+    {
+      "event_id": "E030",
+      "title": "Israel bombs South Pars gas field facilities",
+      "datetime": "2026-03-18 date_only",
+      "event_type": "military",
+      "location": "South Pars, Iran",
+      "source": "Reuters",
+      "url": "https://www.investing.com/news/commodities-news/factboxenergy-facilities-and-shipping-hit-during-usisraeli-war-on-iran-4601106",
+      "summary": "以色列战机突破防空网，对伊朗至关重要的南帕尔斯天然气田实施了猛烈轰炸。袭击导致多处天然气开采及处理单元严重受损停产，推升了区域能源危机。"
+    },
+    {
+      "event_id": "E031",
+      "title": "Iran strikes Ras Laffan LNG complex in Qatar",
+      "datetime": "2026-03-18 date_only",
+      "event_type": "military",
+      "location": "Ras Laffan, Qatar",
+      "source": "Bloomberg",
+      "url": "https://www.washingtonpost.com/business/2026/04/12/iran-war-global-economy/",
+      "summary": "作为对南帕尔斯气田遇袭的对等报复，伊朗发射导弹命中了卡塔尔拉斯拉凡工业城，摧毁了部分液化处理设施，致使卡塔尔LNG出口能力锐减17%，推高气价。"
+    },
+    {
+      "event_id": "E032",
+      "title": "Iran launches missiles at US base on Diego Garcia",
+      "datetime": "2026-03-20 date_only",
+      "event_type": "military",
+      "location": "Diego Garcia, British Indian Ocean Territory",
+      "source": "BBC News",
+      "url": "https://researchbriefings.files.parliament.uk/documents/CBP-10521/CBP-10521.pdf",
+      "summary": "伊朗发射了两枚超远程弹道导弹，直接瞄准距离超过2500英里的美英迭戈加西亚联合军事基地。其中一枚被拦截，另一枚在空中解体，展现了其极端远打意图。"
+    },
+    {
+      "event_id": "E033",
+      "title": "Houthis conduct ballistic missile attack on Israel",
+      "datetime": "2026-03-27 date_only",
+      "event_type": "military",
+      "location": "Southern Israel",
+      "source": "Wall Street Journal",
+      "url": "https://understandingwar.org/research/middle-east/iran-update-special-report-march-28-2026/",
+      "summary": "也门胡塞武装为策应伊朗，首次向以色列南部发射了弹道导弹及巡航导弹群。这一代理人势力的实质性介入，标志着战火正式向红海和黎凡特南部地区蔓延。"
+    },
+    {
+      "event_id": "E034",
+      "title": "Iranian missile damages US E-3 Sentry AWACS",
+      "datetime": "2026-03-29 date_only",
+      "event_type": "military",
+      "location": "Prince Sultan Air Base, Saudi Arabia",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/3/29/iran-hits-us-awacs-air-tankers-what-else-has-it-targeted-in-past-month",
+      "summary": "伊朗的导弹和无人机群成功突破了沙特的防空火力网，击中苏丹王子空军基地。一架高价值的美军E-3“望楼”预警机被严重炸毁，大幅削弱了美军态势感知能力。"
+    },
+    {
+      "event_id": "E035",
+      "title": "Al Salmi tanker attacked by drone in Dubai",
+      "datetime": "2026-03-30 date_only",
+      "event_type": "military",
+      "location": "Port of Dubai, UAE",
+      "source": "Reuters",
+      "url": "https://en.wikipedia.org/wiki/List_of_ships_attacked_during_the_2026_Iran_war",
+      "summary": "科威特籍油轮Al Salmi号在迪拜核心港口内靠泊时，遭到疑似来自伊朗的自杀式无人机精准打击。此事件表明伊朗的打击能力已完全覆盖海湾国家的腹地港口。"
+    },
+    {
+      "event_id": "E036",
+      "title": "QatarEnergy Aqua 1 tanker attacked by projectiles",
+      "datetime": "2026-04-01 date_only",
+      "event_type": "military",
+      "location": "North of Doha, Qatar",
+      "source": "Bloomberg",
+      "url": "https://en.wikipedia.org/wiki/2026_Strait_of_Hormuz_crisis",
+      "summary": "隶属于卡塔尔能源公司（QatarEnergy）的油轮Aqua 1号在多哈以北海域航行时遭遇两枚抛射物袭击引发火灾。伊朗随后声称该轮具有以色列隐蔽资本背景。"
+    },
+    {
+      "event_id": "E037",
+      "title": "US and Iran agree to two-week ceasefire",
+      "datetime": "2026-04-07 date_only",
+      "event_type": "diplomacy",
+      "location": "Washington / Tehran",
+      "source": "Financial Times",
+      "url": "https://www.crisisgroup.org/trigger-list/iran-usisrael-trigger-list/flashpoints/strait-hormuz",
+      "summary": "在全球通胀高企与原油飙升的巨大压力下，美国与伊朗勉强接受了由巴基斯坦居中斡旋的为期两周的临时停火协议，为后续的直接外交谈判换取了短暂的窗口期。"
+    },
+    {
+      "event_id": "E038",
+      "title": "Islamabad peace talks collapse without agreement",
+      "datetime": "2026-04-12 01:30",
+      "event_type": "diplomacy",
+      "location": "Islamabad, Pakistan",
+      "source": "Wall Street Journal",
+      "url": "https://www.washingtonpost.com/world/2026/04/11/us-iran-islamabad-hormuz-ceasefire/",
+      "summary": "经过21小时的多边接触，美伊在伊斯兰堡的和平谈判宣告破裂。美国副总统万斯确认未达成协议，核心分歧在于伊朗拒绝终止浓缩铀项目，美方代表团随即撤离。"
+    },
+    {
+      "event_id": "E039",
+      "title": "Brent crude breaks $100 barrier following blockade news",
+      "datetime": "2026-04-13 02:29",
+      "event_type": "sanction",
+      "location": "Global Markets",
+      "source": "Financial Times",
+      "url": "https://www.theguardian.com/world/live/2026/apr/13/iran-war-live-news-ceasefire-peace-talks-us-trump-strait-hormuz-blockade-middle-east-crisis-latest-updates",
+      "summary": "受伊斯兰堡和谈破裂及美国即将实施反向封锁的消息刺激，布伦特及WTI原油在开盘后暴涨逾7%，双双击穿100美元/桶的心理防线，引发资本市场剧烈抛售。"
+    },
+    {
+      "event_id": "E040",
+      "title": "US CENTCOM begins naval blockade of Iranian Gulf ports",
+      "datetime": "2026-04-13 14:00",
+      "event_type": "blockade",
+      "location": "Arabian Gulf and Gulf of Oman",
+      "source": "Bloomberg",
+      "url": "https://www.theguardian.com/world/live/2026/apr/13/iran-war-live-news-ceasefire-peace-talks-us-trump-strait-hormuz-blockade-middle-east-crisis-latest-updates",
+      "summary": "遵照美国总统命令，中央司令部（CENTCOM）正式启动对伊朗港口及沿海的全面海上封锁。美海军被授权拦截并登船查扣任何向伊朗支付海峡通行费的国际商船。"
+    }
+  ],
+  "narratives": [
+    {
+      "narrative_id": "N001-1",
+      "event_id": "E001",
+      "type": "report",
+      "source": "Reuters",
+      "date": "2026-02-10",
+      "content": "美国财政部在华盛顿宣布新一轮对伊朗制裁，重点锁定参与伊朗原油交易的中间商、航运与保险相关实体，以及被指用于规避监管的“影子舰队”运营网络。制裁措施旨在切断伊朗能源出口的融资渠道与离岸结算链条，并通过冻结在美资产、限制美元清算与对第三方的合规压力，抬高相关交易成本。市场参与者关注该举措是否会影响伊朗原油的实际流向与运费、保险费率，并评估后续执法强度与追加名单的可能性。",
+      "tags": [
+        "美国财政部",
+        "对伊制裁",
+        "影子舰队",
+        "伊朗原油"
+      ],
+      "stance": null,
+      "confidence": null
+    },
+    {
+      "narrative_id": "N001-2",
+      "event_id": "E001",
+      "type": "report",
+      "source": "BBC News",
+      "date": "2026-02-10",
+      "content": "围绕美国宣布针对伊朗“影子舰队”和涉油交易网络的新制裁，航运与大宗商品市场迅速评估潜在扰动。业内人士指出，若更多船舶、经纪与支付通道被列入限制名单，相关货运可能转向更隐蔽的船对船转运、改旗与复杂的贸易融资结构，从而推高运输周期与合规审查成本。部分炼厂与贸易商也在重新核对供应链文件与保险覆盖范围，以避免触发二级制裁风险。伊朗方面预计将否认指控并寻求维持出口与结算安排。",
+      "tags": [
+        "制裁执行",
+        "二级制裁",
+        "贸易融资",
+        "船对船转运"
+      ],
+      "stance": null,
+      "confidence": null
+    },
+    {
+      "narrative_id": "N001-3",
+      "event_id": "E001",
+      "type": "prediction",
+      "source": "Bloomberg",
+      "date": "2026-02-10",
+      "content": "事件发生后，针对影子舰队与交易商的制裁将通过更严格的合规审查与支付清算限制，增加伊朗原油外运与结算的不确定性，形成“事件→供应与金融通道受限→市场风险溢价上升”的因果链。若执法力度提升导致部分船舶退出或保险与运费显著上行，短期可用现货供应的边际收紧将推升油价风险溢价，并带动能源板块相对走强；同时地缘金融对抗升级可能压制风险偏好，促使部分资金转向避险资产。整体看，油价更偏上行。",
+      "tags": [],
+      "stance": "oil_up",
+      "confidence": "medium"
+    },
+    {
+      "narrative_id": "N002-1",
+      "event_id": "E002",
+      "type": "report",
+      "source": "Bloomberg",
+      "date": "2026-02-25",
+      "content": "美国国务院在华盛顿宣布对与伊朗武器采购相关的个人、实体及其支持网络实施精准制裁，称此举旨在切断伊朗获取关键军民两用物项与资金结算渠道，并进一步限制其“影子舰队”在航运、保险与港口服务环节的运作空间。消息公布后，市场关注点集中在二级制裁风险、航运合规成本上升以及中东局势在冲突前夕的金融对抗升级。",
+      "tags": [
+        "美国制裁",
+        "伊朗",
+        "武器采购网络",
+        "影子舰队"
+      ],
+      "stance": null,
+      "confidence": null
+    },
+    {
+      "narrative_id": "N002-2",
+      "event_id": "E002",
+      "type": "report",
+      "source": "Reuters",
+      "date": "2026-02-25",
+      "content": "多名熟悉制裁执行的人士表示，美国此次措施将重点锁定为伊朗采购网络提供中介、物流与支付支持的节点，意在通过金融机构尽调、船舶识别与贸易文件审查来提高交易摩擦，并对相关第三方发出合规警示。业内人士称，影子船队若面临更严格的保险与靠港限制，可能被迫改变航线、转运方式或提高折价销售力度，从而加剧供应链不确定性。",
+      "tags": [
+        "制裁执行",
+        "金融尽调",
+        "贸易融资",
+        "船舶识别"
+      ],
+      "stance": null,
+      "confidence": null
+    },
+    {
+      "narrative_id": "N002-3",
+      "event_id": "E002",
+      "type": "prediction",
+      "source": "Financial Times",
+      "date": "2026-02-25",
+      "content": "事件发生后，制裁升级将通过“限制影子舰队与支付通道→提高伊朗相关货物流转摩擦与保险成本→市场对中东供应中断与二级制裁外溢的担忧上升”的因果链，推升风险溢价并强化避险情绪。若航运与结算环节出现更明显的延迟或折价扩大，原油期货更可能上行，同时全球股市与高收益信用面临短线压力，资金偏向美元与黄金等避险资产。",
+      "tags": [],
+      "stance": "risk_off",
+      "confidence": "medium"
+    },
+    {
+      "narrative_id": "N004-1",
+      "event_id": "E004",
+      "type": "report",
+      "source": "Reuters",
+      "date": "2026-02-28",
+      "content": "据路透报道，美以军队在“史诗狂怒”和“怒吼雄狮”行动框架下对伊朗境内多处目标展开大规模打击，美军战舰发射大量“战斧”巡航导弹，重点指向军事设施、防空网络与指挥控制节点。多名地区官员称，袭击覆盖范围广、节奏密集，意在削弱伊朗防空与指挥体系并压制后续反击能力。市场方面，交易员迅速上调对中东局势外溢的评估，能源与航运相关风险溢价被重新定价。",
+      "tags": [
+        "美以联合行动",
+        "战斧巡航导弹",
+        "伊朗防空",
+        "指挥中心"
+      ],
+      "stance": null,
+      "confidence": null
+    },
+    {
+      "narrative_id": "N004-2",
+      "event_id": "E004",
+      "type": "report",
+      "source": "BBC News",
+      "date": "2026-02-28",
+      "content": "BBC报道称，美以对伊朗全国范围内的军事与防空目标发动空袭后，伊朗方面启动全国防空警戒并对外表示将作出回应，地区多国同时提高军事戒备并加强关键基础设施防护。分析人士指出，打击指向防空与指挥节点，可能意味着行动并非一次性示威，而是为持续空中压制创造条件。金融市场即时反应集中在避险资产与能源链条，投资者关注霍尔木兹海峡与地区油气设施的潜在连锁影响。",
+      "tags": [
+        "空袭升级",
+        "伊朗回应",
+        "地区戒备",
+        "霍尔木兹海峡"
+      ],
+      "stance": null,
+      "confidence": null
+    },
+    {
+      "narrative_id": "N004-3",
+      "event_id": "E004",
+      "type": "prediction",
+      "source": "Financial Times",
+      "date": "2026-02-28",
+      "content": "若美以对伊朗的持续打击引发伊朗报复或代理力量在海上与能源设施周边加大行动，事件将通过“军事升级→航运与保险成本上升、供应中断风险抬升、风险厌恶情绪扩散→原油风险溢价走阔、股市承压、避险资产走强”的链条传导。短期内布伦特原油更可能上行并伴随波动率抬升，全球权益市场偏防御，资金或流向美元与黄金等避险标的，直至冲突边界与海上通道安全得到更清晰的信号。",
+      "tags": [],
+      "stance": "risk_off",
+      "confidence": "medium"
+    },
+    {
+      "narrative_id": "N005-1",
+      "event_id": "E005",
+      "type": "report",
+      "source": "Bloomberg",
+      "date": "2026-02-28",
+      "content": "彭博援引地区与安全官员称，以色列战机对德黑兰一处被指为伊朗最高领袖官邸的复合设施实施高强度精准打击，阿里·哈梅内伊在袭击中身亡。报道指出，伊朗战时指挥链出现短期真空，革命卫队与国家安全机构进入最高戒备并启动继任与应急机制。多国政府紧急评估驻中东人员与航运风险，市场参与者关注伊朗可能采取的报复方式及其对能源运输通道的影响。",
+      "tags": [
+        "以色列-伊朗冲突",
+        "斩首行动",
+        "德黑兰",
+        "领导层震荡"
+      ],
+      "stance": null,
+      "confidence": null
+    },
+    {
+      "narrative_id": "N005-2",
+      "event_id": "E005",
+      "type": "report",
+      "source": "Reuters",
+      "date": "2026-02-28",
+      "content": "路透综合多方消息称，伊朗首都德黑兰发生针对高价值目标的空袭事件，伊朗方面确认最高层遭受重大损失并宣布进入战时状态，首都与关键军事设施周边加强防空与交通管制。以色列方面未就具体目标作出公开确认，但多名地区官员表示此次行动显著提高了伊朗对以色列及其盟友实施报复的概率。外交层面，多国呼吁克制并启动危机热线，航运与航空公司开始调整中东航线以降低暴露。",
+      "tags": [
+        "空袭",
+        "战时状态",
+        "报复风险",
+        "航运与航空改线"
+      ],
+      "stance": null,
+      "confidence": null
+    },
+    {
+      "narrative_id": "N005-3",
+      "event_id": "E005",
+      "type": "prediction",
+      "source": "Financial Times",
+      "date": "2026-02-28",
+      "content": "事件导致伊朗最高决策与指挥体系短期震荡，继任不确定性与报复压力上升将推高地区冲突外溢风险；风险上升会直接抬升对霍尔木兹周边航运、保险与能源基础设施的供给担忧，并迅速恶化全球风险情绪。由此市场可能出现典型避险交易：原油风险溢价上行、黄金与美元需求增强，而全球股市与高收益信用承压，波动率走高，资金向防御板块与短久期资产集中。",
+      "tags": [],
+      "stance": "risk_off",
+      "confidence": "high"
+    },
+    {
+      "narrative_id": "N007-1",
+      "event_id": "E007",
+      "type": "report",
+      "source": "Reuters",
+      "date": "2026-02-28",
+      "content": "伊朗伊斯兰革命卫队在当地时间2月28日向巴林麦纳麦附近目标发射弹道导弹，击中美国海军第五舰队相关服务中心。伊方称此举是对先前美以空袭的“迅速报复”，并警告海湾地区为美军提供基地的盟国将面临更高风险。美国与巴林方面启动应急处置与设施评估，海湾多国提高防空戒备，市场关注冲突是否进一步外溢至关键航运与能源基础设施。",
+      "tags": [
+        "伊朗",
+        "美国第五舰队",
+        "巴林",
+        "导弹袭击"
+      ],
+      "stance": null,
+      "confidence": null
+    },
+    {
+      "narrative_id": "N007-2",
+      "event_id": "E007",
+      "type": "report",
+      "source": "BBC News",
+      "date": "2026-02-28",
+      "content": "巴林首都麦纳麦传出爆炸与防空拦截声后，伊朗宣布其导弹打击了驻巴林的美军设施，称行动针对美军指挥与保障节点。巴林作为美国第五舰队驻地之一，此次被直接波及引发地区盟友对基地安全与报复循环的担忧。多家航运与保险机构开始重新评估海湾港口靠泊与人员风险，部分企业要求船舶提高警戒等级并准备绕行方案，地区紧张情绪明显升温。",
+      "tags": [
+        "巴林",
+        "美军基地",
+        "地区盟友",
+        "航运保险"
+      ],
+      "stance": null,
+      "confidence": null
+    },
+    {
+      "narrative_id": "N007-3",
+      "event_id": "E007",
+      "type": "prediction",
+      "source": "Bloomberg",
+      "date": "2026-02-28",
+      "content": "导弹击中美国第五舰队相关设施意味着冲突从对外空袭报复升级为对海湾盟国境内美军节点的直接打击，事件将通过提高地区军事风险与航运安全担忧，推升保险费率与潜在绕行成本，并强化对霍尔木兹周边供应中断的预期。风险溢价上升与避险情绪扩散可能带来油价上行、黄金走强，同时压制全球股市与高收益资产表现，短期市场更偏向风险规避。",
+      "tags": [],
+      "stance": "risk_off",
+      "confidence": "medium"
+    },
+    {
+      "narrative_id": "N008-1",
+      "event_id": "E008",
+      "type": "report",
+      "source": "Financial Times",
+      "date": "2026-02-28",
+      "content": "据报道，伊朗对科威特境内驻有美军的阿里弗让营地以及阿联酋迪拜的杰贝阿里港实施弹道导弹与无人机协同打击，令美军在海湾地区的后勤节点与区域商业航运枢纽面临直接威胁。科威特与阿联酋方面启动应急处置并加强防空与港区安保，美方评估人员与设施损失并提升基地警戒等级。市场参与者关注袭击是否导致港口装卸、燃料补给与军用物资转运受阻，从而放大地区冲突外溢风险。",
+      "tags": [
+        "伊朗",
+        "美军基地",
+        "杰贝阿里港",
+        "弹道导弹"
+      ],
+      "stance": null,
+      "confidence": null
+    },
+    {
+      "narrative_id": "N008-2",
+      "event_id": "E008",
+      "type": "report",
+      "source": "Reuters",
+      "date": "2026-02-28",
+      "content": "多方消息称，伊朗对科威特阿里弗让营地与迪拜杰贝阿里港的袭击引发地区政府与企业对供应链连续性的紧急评估，航运公司与保险机构开始重新核算进入海湾港口的风险溢价与战争险费率。港口运营与物流企业检查码头、仓储与关键设备运行状态，并对船舶靠泊与货物通关节奏进行临时调整。美国与海湾盟友就防空拦截、基地防护与海上通道安全展开协调，投资者密切观察是否出现进一步报复或连锁打击。",
+      "tags": [
+        "路透",
+        "航运保险",
+        "战争险",
+        "港口运营"
+      ],
+      "stance": null,
+      "confidence": null
+    },
+    {
+      "narrative_id": "N008-3",
+      "event_id": "E008",
+      "type": "prediction",
+      "source": "Bloomberg",
+      "date": "2026-02-28",
+      "content": "此次伊朗对阿里弗让营地与杰贝阿里港的打击将事件风险从“边缘摩擦”推向“关键节点受袭”，事件→海湾港口与美军物流枢纽安全受损、航运与保险成本上升、市场避险情绪抬头→原油风险溢价扩大、黄金与美元需求走强、全球股市与高收益信用承压。若后续出现针对港口或基地的追加打击或报复行动，油价上行弹性将更大；若各方迅速降温并恢复港口作业，风险溢价可能回吐但短期仍偏高。",
+      "tags": [],
+      "stance": "risk_off",
+      "confidence": "medium"
+    },
+    {
+      "narrative_id": "N009-1",
+      "event_id": "E009",
+      "type": "report",
+      "source": "Reuters",
+      "date": "2026-03-01",
+      "content": "路透社报道，一艘曾被美国制裁、被外界归类为“影子舰队”的油轮Skylight在阿曼北部靠近海峡航道的海域遭不明抛射物击中，造成两名船员死亡、四人受伤。事件发生在阿曼海域、靠近哈萨卜一带的关键航运通道，被视为海峡危机中首批对商船造成致命伤亡的袭击之一。航运与保险市场随即关注该区域的航行风险上升、船舶改道与保费变化。",
+      "tags": [
+        "阿曼海域",
+        "影子舰队",
+        "油轮遇袭",
+        "海峡危机"
+      ],
+      "stance": null,
+      "confidence": null
+    },
+    {
+      "narrative_id": "N009-2",
+      "event_id": "E009",
+      "type": "report",
+      "source": "BBC News",
+      "date": "2026-03-01",
+      "content": "BBC报道称，Skylight号油轮在阿曼附近海域遭袭并出现人员伤亡，引发对商船在海峡周边航行安全的担忧。由于该船与既往制裁背景相关，外界同时讨论“影子舰队”在高风险水域运营的脆弱性，以及袭击可能促使更多船东临时调整航线、提高警戒或暂停靠近敏感海域的航次。地区当局与航运界重点评估事件对通行秩序、救援与后续调查的影响。",
+      "tags": [
+        "商船安全",
+        "人员伤亡",
+        "航线调整",
+        "海上风险"
+      ],
+      "stance": null,
+      "confidence": null
+    },
+    {
+      "narrative_id": "N009-3",
+      "event_id": "E009",
+      "type": "prediction",
+      "source": "Bloomberg",
+      "date": "2026-03-01",
+      "content": "彭博社市场解读认为，Skylight在阿曼海域遭致命袭击这一事件将通过“事件→风险/供给/情绪→市场结果”的链条传导：致命袭击提升海峡周边航运与保险风险，促使部分油轮改道、延误或减少进入高风险水域，从而收紧短期可用运力并放大对原油供应中断的担忧；风险溢价上升将推高原油期货与近月价差，同时带动市场情绪转向避险，能源相关波动率上行。",
+      "tags": [],
+      "stance": "oil_up",
+      "confidence": "medium"
+    },
+    {
+      "narrative_id": "N011-1",
+      "event_id": "E011",
+      "type": "report",
+      "source": "Reuters",
+      "date": "2026-03-01",
+      "content": "一艘马绍尔群岛籍原油轮MKD Vyom在阿联酋米纳萨克尔附近海域遭抛射物击中，爆炸在引擎室引发火灾并造成一名印度籍船员死亡。船员随后控制并扑灭火势，船舶未被报告沉没，但事件迅速引发航运与能源市场对海湾航道安全的担忧。多家航运公司与保险机构开始评估风险敞口，部分船东讨论调整航线、提高警戒与安保配置，地区港口与海事部门也加强通报与巡查。",
+      "tags": [
+        "油轮遇袭",
+        "阿联酋近海",
+        "引擎室火灾",
+        "船员死亡"
+      ],
+      "stance": null,
+      "confidence": null
+    },
+    {
+      "narrative_id": "N011-2",
+      "event_id": "E011",
+      "type": "report",
+      "source": "BBC News",
+      "date": "2026-03-01",
+      "content": "MKD Vyom油轮在阿联酋附近海域遭到疑似抛射物袭击并发生引擎室火灾的消息，令外界重新聚焦霍尔木兹周边航运脆弱性。尽管火势被船员扑灭，但人员伤亡使事件性质更为严重，航运业者担心类似袭击会促使船舶在进入海湾港口前延长等待、提高护航与安保成本。市场参与者同时关注地区国家是否会加强海上巡逻与通行管制，以及这类事件对原油与成品油装卸节奏、船期可靠性和运费的即时影响。",
+      "tags": [
+        "海上安全",
+        "霍尔木兹周边",
+        "航运成本上升",
+        "运费波动"
+      ],
+      "stance": null,
+      "confidence": null
+    },
+    {
+      "narrative_id": "N011-3",
+      "event_id": "E011",
+      "type": "prediction",
+      "source": "Bloomberg",
+      "date": "2026-03-01",
+      "content": "油轮MKD Vyom在阿联酋近海遇袭并造成人员死亡，将把“事件”直接转化为对海湾航道的安全风险定价：事件升级→航运公司提高警戒、部分船舶绕行或延迟进港、保险与战争险溢价上调→短期有效运力收缩与交付不确定性上升→原油现货升水与近月期货风险溢价扩大，油价更易上行并带动市场情绪转向避险。若后续出现更多袭击或官方警报升级，风险溢价可能进一步抬升；若迅速确认通航安全并恢复常态，涨幅可能回吐。",
+      "tags": [],
+      "stance": "oil_up",
+      "confidence": "medium"
+    },
+    {
+      "narrative_id": "N012-1",
+      "event_id": "E012",
+      "type": "report",
+      "source": "Associated Press",
+      "date": "2026-03-01",
+      "content": "据美联社报道，美以空军对伊拉克巴格达以南朱尔夫·萨赫尔的人民动员力量（PMF）相关设施实施空袭，目标被描述为由伊朗支持的武装组织“真主党旅”及PMF的总部与指挥节点。袭击造成多名武装分子死伤，并对其在伊拉克境内的后勤与指挥体系形成冲击。伊拉克安全与政治圈对主权与报复风险表达担忧，地区紧张度随之上升。",
+      "tags": [
+        "Iraq",
+        "Jurf al-Sakhar",
+        "PMF",
+        "Kataib Hezbollah"
+      ],
+      "stance": null,
+      "confidence": null
+    },
+    {
+      "narrative_id": "N012-2",
+      "event_id": "E012",
+      "type": "report",
+      "source": "Reuters",
+      "date": "2026-03-01",
+      "content": "路透社援引地区安全人士与伊拉克官员称，朱尔夫·萨赫尔遭到空中打击后，伊朗支持的武装网络正在评估损失并调整人员与装备分散部署，以降低后续打击的脆弱性。伊拉克政府内部出现要求调查与加强防空、同时避免卷入更大规模对抗的声音；亲伊朗阵营则强调将保留回应选项。市场参与者关注此类打击是否引发对驻伊美方目标或能源基础设施的连锁报复。",
+      "tags": [
+        "Iraq politics",
+        "proxy forces",
+        "retaliation risk",
+        "security"
+      ],
+      "stance": null,
+      "confidence": null
+    },
+    {
+      "narrative_id": "N012-3",
+      "event_id": "E012",
+      "type": "prediction",
+      "source": "Bloomberg",
+      "date": "2026-03-01",
+      "content": "该空袭事件→提升伊朗支持武装对美以与伊拉克境内目标报复的风险，并加剧市场对伊拉克安全与潜在供应中断的担忧→风险溢价上升、交易情绪转向防御。若后续出现针对交通线、管线或油田服务承包商的袭扰，原油期货可能先行计入更高地缘溢价，黄金与美元需求同步走强，而中东相关资产与全球股指短线承压，整体呈现风险偏好下降的格局。",
+      "tags": [],
+      "stance": "risk_off",
+      "confidence": "medium"
+    },
+    {
+      "narrative_id": "N014-1",
+      "event_id": "E014",
+      "type": "report",
+      "source": "Financial Times",
+      "date": "2026-03-02",
+      "content": "伊朗伊斯兰革命卫队高级官员对外正式证实霍尔木兹海峡已被全面封锁，并公开警告任何未经允许试图强行通过的船只将遭到“无情打击”。消息发布后，市场迅速将其解读为对全球关键能源通道的直接中断风险，国际油价在盘中大幅跳升，航运与保险相关成本预期同步上调，交易员加大对中东供应受限情景的定价。",
+      "tags": [
+        "霍尔木兹海峡",
+        "伊朗",
+        "IRGC",
+        "封锁"
+      ],
+      "stance": null,
+      "confidence": null
+    },
+    {
+      "narrative_id": "N014-2",
+      "event_id": "E014",
+      "type": "report",
+      "source": "Reuters",
+      "date": "2026-03-02",
+      "content": "在伊朗革命卫队确认封锁霍尔木兹海峡并发出对过航船只的军事威胁后，能源与航运市场出现连锁反应。多家航运与能源企业评估改道与延迟装运的可行性，部分买家开始询价替代供应与短期现货以对冲交付不确定性。交易层面，原油期货与相关波动率指标走高，市场关注各国是否将采取护航、制裁或外交降温措施以恢复通行。",
+      "tags": [
+        "原油期货",
+        "供应中断",
+        "航运保险",
+        "改道"
+      ],
+      "stance": null,
+      "confidence": null
+    },
+    {
+      "narrative_id": "N014-3",
+      "event_id": "E014",
+      "type": "prediction",
+      "source": "Bloomberg",
+      "date": "2026-03-02",
+      "content": "封锁确认这一事件将通过“通行受阻→实物供应与运输能力收缩→风险溢价与恐慌情绪上升”的链条传导到市场：若封锁持续或出现擦枪走火，海湾原油外运受限将推高现货升水与期货曲线的近月溢价，资金可能进一步涌入能源与避险资产并压制风险资产表现。除非出现明确的护航安排或快速外交缓和，否则油价大概率维持上行并伴随高波动。",
+      "tags": [],
+      "stance": "oil_up",
+      "confidence": "high"
+    },
+    {
+      "narrative_id": "N015-1",
+      "event_id": "E015",
+      "type": "report",
+      "source": "Wall Street Journal",
+      "date": "2026-03-02",
+      "content": "据《华尔街日报》报道，美国与以色列出动战机对伊朗伊斯法罕省纳坦兹核设施实施精准钻地空袭，至少三座核心建筑物遭到严重破坏。报道援引地区与安全消息人士称，此次打击是全面冲突爆发以来对伊朗关键核基地的最直接重击之一，意在削弱伊朗核计划的关键环节。伊朗方面随后指责美以升级冲突并保留反制权利，地区国家则对冲突外溢与能源运输安全表达担忧。",
+      "tags": [
+        "美以空袭",
+        "纳坦兹",
+        "伊朗核设施",
+        "钻地弹"
+      ],
+      "stance": null,
+      "confidence": null
+    },
+    {
+      "narrative_id": "N015-2",
+      "event_id": "E015",
+      "type": "report",
+      "source": "Reuters",
+      "date": "2026-03-02",
+      "content": "路透社援引多名地区官员与市场人士称，美以对纳坦兹核设施的空袭引发投资者对伊朗报复与海湾航运风险的重新定价，能源与航运相关资产波动加剧。多家交易机构表示，市场关注点集中在伊朗是否会通过导弹与无人机袭击、或以更强硬方式影响霍尔木兹海峡周边安全来回应。部分海运与保险从业者称，若紧张升级，保费与绕航成本可能上升，进而推高到岸能源与大宗商品价格的不确定性。",
+      "tags": [
+        "路透",
+        "市场波动",
+        "航运保险",
+        "霍尔木兹海峡"
+      ],
+      "stance": null,
+      "confidence": null
+    },
+    {
+      "narrative_id": "N015-3",
+      "event_id": "E015",
+      "type": "prediction",
+      "source": "Bloomberg",
+      "date": "2026-03-03",
+      "content": "彭博社市场专栏认为，美以空袭纳坦兹这一事件将通过“军事升级→伊朗报复与海湾航运受扰风险上升→原油供应中断概率与风险溢价抬升→油价上行、风险资产承压”的链条影响市场。若伊朗采取针对能源基础设施或海上通道的行动，短期布伦特可能出现跳涨并带动通胀预期回升，全球股市与高收益信用利差可能扩大；若报复克制且未触及运输要道，涨幅可能回吐但风险偏好仍偏谨慎。",
+      "tags": [],
+      "stance": "risk_off",
+      "confidence": "medium"
+    },
+    {
+      "narrative_id": "N016-1",
+      "event_id": "E016",
+      "type": "report",
+      "source": "Reuters",
+      "date": "2026-03-03",
+      "content": "美国总统特朗普在华盛顿宣布，已下令美国海军在海湾水域为商业油轮提供武装护航，以降低航运在紧张局势下遭遇袭扰的风险。他同时指示美国国际开发金融公司为经由该水域的能源运输提供政治风险保险背书，意在稳定承保与融资预期、缓解运费与保险费上行压力。消息公布后，航运与能源交易员重点关注护航规则、适用航线范围以及与盟友海军协调机制。",
+      "tags": [
+        "海湾护航",
+        "霍尔木兹风险",
+        "政治风险保险",
+        "油轮航运"
+      ],
+      "stance": null,
+      "confidence": null
+    },
+    {
+      "narrative_id": "N016-2",
+      "event_id": "E016",
+      "type": "report",
+      "source": "Bloomberg",
+      "date": "2026-03-03",
+      "content": "市场人士称，美国宣布在海湾为油轮护航并以官方机构为政治风险保险提供背书，短期内可能改变保险公司对战区附加费与承保额度的定价方式。多家航运经纪与保险从业者表示，若护航覆盖主要出入口并形成常态化编队，部分航次的延误与绕行需求或下降，但也可能因军事存在上升而提高误判与摩擦概率。能源买家与炼厂则评估该安排对装船窗口、到港节奏及现货溢价的影响。",
+      "tags": [
+        "航运保险",
+        "战区附加费",
+        "能源运输",
+        "市场稳定措施"
+      ],
+      "stance": null,
+      "confidence": null
+    },
+    {
+      "narrative_id": "N016-3",
+      "event_id": "E016",
+      "type": "prediction",
+      "source": "Financial Times",
+      "date": "2026-03-03",
+      "content": "该事件通过“护航与保险背书”直接作用于海湾航运的中断风险：特朗普下令海军护航并动用官方政治风险保险背书→市场对油轮遭袭与无法投保的尾部风险下降、供应链可预期性上升、风险情绪从恐慌转向观望→原油风险溢价与即期运费的上行压力可能缓和，油价更可能回吐部分地缘溢价并转为区间震荡，同时避险需求降温使黄金相对承压，全球股市风险偏好边际改善。",
+      "tags": [],
+      "stance": "oil_down",
+      "confidence": "medium"
+    },
+    {
+      "narrative_id": "N017-1",
+      "event_id": "E017",
+      "type": "report",
+      "source": "Bloomberg",
+      "date": "2026-03-03",
+      "content": "据彭博援引航运与海事安全信息称，巴拿马籍散货船Gold Oak号在阿联酋富查伊拉港以东约7海里海域遭不明抛射物击中，相关通报将袭击来源指向伊朗。船体出现轻微结构性损伤，但未报告人员伤亡，船舶仍具备航行与自救能力。事件发生在霍尔木兹海峡外缘的关键补给与加注区域附近，引发对区域航运安全与保险成本的即时关注。",
+      "tags": [
+        "富查伊拉",
+        "散货船",
+        "抛射物袭击",
+        "伊朗"
+      ],
+      "stance": null,
+      "confidence": null
+    },
+    {
+      "narrative_id": "N017-2",
+      "event_id": "E017",
+      "type": "report",
+      "source": "Reuters",
+      "date": "2026-03-03",
+      "content": "路透根据海事通报与业内人士说法报道，Gold Oak号在靠近阿联酋富查伊拉的海域遭到抛射物袭击后仅造成轻微损伤且无人伤亡，港口运营与主要航道未被宣布关闭。航运经纪与保险人士表示，尽管事件未导致溢油或人员伤害，但在富查伊拉这一重要燃料补给与转运节点附近发生袭击，可能促使部分船东提高警戒等级、调整靠港与航线，并推动战争险附加费与安保支出上行。",
+      "tags": [
+        "路透",
+        "战争险",
+        "航线调整",
+        "港口补给"
+      ],
+      "stance": null,
+      "confidence": null
+    },
+    {
+      "narrative_id": "N017-3",
+      "event_id": "E017",
+      "type": "prediction",
+      "source": "Financial Times",
+      "date": "2026-03-03",
+      "content": "该船在富查伊拉近海遭袭事件→市场将其解读为霍尔木兹周边海上风险上升并可能外溢至关键补给港→航运公司提高警戒、保险费率与绕行概率上升，带来交付不确定性与风险溢价，同时加剧投资者避险情绪→短期内原油与成品油的地缘溢价更易抬升，黄金受避险买盘支撑走强，而高贝塔权益资产面临风险偏好回落带来的压力。",
+      "tags": [],
+      "stance": "risk_off",
+      "confidence": "medium"
+    },
+    {
+      "narrative_id": "N018-1",
+      "event_id": "E018",
+      "type": "report",
+      "source": "Reuters",
+      "date": "2026-03-04",
+      "content": "据路透报道，马耳他籍集装箱船Safeen Prestige在霍尔木兹海峡航行时遭导弹击中，命中位置在水线以上，随后引擎室起火并迅速蔓延。船员在火势与失去动力的情况下被迫弃船撤离，船只在狭窄且航运密集的危险水域持续漂流。事件发生后，航运安全机构与地区海事部门对过往船舶发布风险提示，部分船东与承运人开始评估是否调整航线与通行时段。",
+      "tags": [
+        "霍尔木兹海峡",
+        "商船遇袭",
+        "导弹袭击",
+        "航运安全"
+      ],
+      "stance": null,
+      "confidence": null
+    },
+    {
+      "narrative_id": "N018-2",
+      "event_id": "E018",
+      "type": "report",
+      "source": "BBC News",
+      "date": "2026-03-04",
+      "content": "BBC报道称，霍尔木兹海峡发生针对商船的严重安全事件，集装箱船Safeen Prestige被击中后引擎室起火，船员全部撤离并等待救援与后续处置。由于该海峡是全球能源与货物运输关键通道，事件引发航运公司、保险机构与港口运营方对通行风险的重新评估，包括提高警戒等级、加强护航沟通以及可能上调战争险与附加保费。多方关注漂流船体对航道安全与二次事故的潜在影响。",
+      "tags": [
+        "海上安全",
+        "战争险",
+        "航道风险",
+        "保险费率"
+      ],
+      "stance": null,
+      "confidence": null
+    },
+    {
+      "narrative_id": "N018-3",
+      "event_id": "E018",
+      "type": "prediction",
+      "source": "Bloomberg",
+      "date": "2026-03-04",
+      "content": "彭博预期，Safeen Prestige在霍尔木兹海峡遇袭并弃船的事件将通过“事件升级→航运风险与保险成本上升、部分船舶延迟或绕行→短期供应链与能源运输不确定性上升、市场避险情绪走强→油价风险溢价抬升、黄金受益、全球股市承压”的链条传导。若后续出现更多袭击或临时交通管制，风险溢价可能进一步扩大；若快速救援并恢复通行秩序，市场反应或趋于收敛。",
+      "tags": [],
+      "stance": "risk_off",
+      "confidence": "medium"
+    },
+    {
+      "narrative_id": "N019-1",
+      "event_id": "E019",
+      "type": "report",
+      "source": "Associated Press",
+      "date": "2026-03-04",
+      "content": "据美联社报道，美国海军洛杉矶级核潜艇“夏洛特号”在斯里兰卡加勒外海的印度洋水域发射Mk-48重型鱼雷，无预警击沉伊朗海军“德纳号”护卫舰。该舰据称正结束演习返航，事件造成87名伊朗水兵阵亡。伊朗方面随后对外确认舰艇损失与人员伤亡，并要求对袭击性质与交战规则作出解释；美国军方则在初步声明中强调行动与海上安全态势相关，未披露更多交战细节。",
+      "tags": [
+        "美伊冲突",
+        "印度洋",
+        "潜艇",
+        "鱼雷"
+      ],
+      "stance": null,
+      "confidence": null
+    },
+    {
+      "narrative_id": "N019-2",
+      "event_id": "E019",
+      "type": "report",
+      "source": "BBC News",
+      "date": "2026-03-05",
+      "content": "BBC报道称，“夏洛特号”击沉“德纳号”的地点位于印度洋关键航道附近，引发外界对海上误判与报复升级的担忧。地区航运与保险相关机构开始评估印度洋部分航线的风险溢价，市场参与者关注伊朗是否会以无人机、导弹或海上拦截等方式回应。多国外交渠道呼吁克制并要求建立沟通机制，以避免冲突外溢至更广泛的海上交通与能源运输网络。",
+      "tags": [
+        "航运风险",
+        "保险费率",
+        "地缘政治",
+        "军事升级"
+      ],
+      "stance": null,
+      "confidence": null
+    },
+    {
+      "narrative_id": "N019-3",
+      "event_id": "E019",
+      "type": "prediction",
+      "source": "Reuters",
+      "date": "2026-03-05",
+      "content": "该事件若被伊朗界定为蓄意袭击并触发报复，事件→海上安全风险上升与航运保险、绕航成本抬升→市场对印度洋与周边能源运输中断的担忧加剧，风险情绪转向谨慎。短期内原油可能因地缘溢价上行，避险资金或流向黄金与美元，同时全球股市与高收益信用面临回撤压力；若双方迅速建立沟通并限制行动范围，上述溢价可能回吐。",
+      "tags": [],
+      "stance": "risk_off",
+      "confidence": "medium"
+    },
+    {
+      "narrative_id": "N020-1",
+      "event_id": "E020",
+      "type": "report",
+      "source": "Reuters",
+      "date": "2026-03-05",
+      "content": "路透援引航运与港口安全人士称，一艘巴哈马籍原油轮Sonangol Namibe在伊拉克祖拜尔港外海锚泊期间，遭一艘装载爆炸物的遥控无人水面艇撞击，导致船体受损并出现破裂。消息称该无人艇被指与伊朗有关，事件凸显以低成本平台对港口外锚地与商船实施打击的能力，相关海域警戒随即提升，部分船舶延后靠泊与装卸安排。",
+      "tags": [
+        "Iraq",
+        "Khor al Zubair",
+        "tanker",
+        "USV"
+      ],
+      "stance": null,
+      "confidence": null
+    },
+    {
+      "narrative_id": "N020-2",
+      "event_id": "E020",
+      "type": "report",
+      "source": "BBC News",
+      "date": "2026-03-05",
+      "content": "BBC报道称，伊拉克南部祖拜尔附近海域发生针对油轮的无人艇袭击后，港口与海事部门对进出港船舶实施更严格的识别与巡逻措施，并要求船东加强锚地值守与反无人机/无人艇观察。报道指出，袭击发生在关键能源物流节点周边，尽管未立即出现大规模溢油或人员伤亡的公开确认，但市场与航运界关注的是此类非对称手段对保险费率、航线选择以及港口作业连续性的冲击。",
+      "tags": [
+        "Iraq",
+        "Basra",
+        "Khor al Zubair",
+        "energy logistics"
+      ],
+      "stance": null,
+      "confidence": null
+    },
+    {
+      "narrative_id": "N020-3",
+      "event_id": "E020",
+      "type": "prediction",
+      "source": "Bloomberg",
+      "date": "2026-03-05",
+      "content": "彭博分析认为，此次祖拜尔港外油轮遭无人水面艇撞击的事件→将抬升对伊拉克南部港口外锚地与近岸航道的安全风险评估，并通过更高的战争险保费、船舶等待时间与改道概率影响短期有效供给与交付节奏→在情绪层面强化“海上能源通道脆弱性”的风险溢价，推动近月原油期货与相关裂解价差走强，同时压制部分航运与炼化企业股价表现，整体偏向风险规避。",
+      "tags": [],
+      "stance": "oil_up",
+      "confidence": "medium"
+    },
+    {
+      "narrative_id": "N021-1",
+      "event_id": "E021",
+      "type": "report",
+      "source": "BBC News",
+      "date": "2026-03-05",
+      "content": "BBC News报道，美军与以色列空军在3月5日扩大对德黑兰市区的打击强度，多枚弹药落入阿扎迪体育场、米拉德塔及伊朗红新月会和平大楼附近区域，现场出现连续爆炸与大范围震动。德黑兰多区传出防空拦截与警报声，交通与通信受到干扰，市民紧急避险。伊朗方面指责袭击升级并强调将作出回应，外界关注首都核心区遭打击对冲突门槛与后续报复节奏的影响。",
+      "tags": [
+        "Iran",
+        "Tehran",
+        "Azadi Stadium",
+        "airstrikes"
+      ],
+      "stance": null,
+      "confidence": null
+    },
+    {
+      "narrative_id": "N021-2",
+      "event_id": "E021",
+      "type": "report",
+      "source": "Reuters",
+      "date": "2026-03-05",
+      "content": "路透援引地区官员与目击者称，德黑兰西部与市中心在夜间遭到更密集空袭，阿扎迪体育场周边与米拉德塔附近出现多次爆炸，部分道路被临时封控，急救车辆在爆炸点周边穿行。伊朗官方媒体称袭击波及红新月会相关设施附近区域，强调民用目标风险上升；美国与以色列方面未就具体落点作即时细节说明。市场参与者将首都遭打击视为冲突升级信号，密切观察伊朗是否扩大报复范围。",
+      "tags": [
+        "Reuters",
+        "Tehran",
+        "civilian_risk",
+        "retaliation_risk"
+      ],
+      "stance": null,
+      "confidence": null
+    },
+    {
+      "narrative_id": "N021-3",
+      "event_id": "E021",
+      "type": "prediction",
+      "source": "Financial Times",
+      "date": "2026-03-05",
+      "content": "该事件显示美以对德黑兰核心城区的打击强度上升，事件→伊朗报复与误判风险增加、地区安全供给不确定性上升、投资者情绪转向避险→市场结果更可能表现为原油风险溢价抬升、航运与保险成本上行并压制全球股指风险偏好。若伊朗随后以导弹或代理人行动扩大打击半径，油价上行弹性将进一步放大；若冲突迅速降温，则涨幅可能回吐。",
+      "tags": [],
+      "stance": "risk_off",
+      "confidence": "medium"
+    },
+    {
+      "narrative_id": "N022-1",
+      "event_id": "E022",
+      "type": "report",
+      "source": "Reuters",
+      "date": "2026-03-06",
+      "content": "据路透报道，阿联酋拖船“Mussafah 2”号在霍尔木兹海峡附近试图救援此前遇袭后漂流的“Safeen Prestige”号货轮时，遭伊朗军队炮击并被摧毁，造成4名船员死亡、3人重伤。事件使本已紧张的海域安全形势进一步恶化，航运公司与保险机构对救援行动本身的风险重新评估，部分船东开始讨论临时调整航线与靠港安排。",
+      "tags": [
+        "霍尔木兹海峡",
+        "伊朗",
+        "阿联酋",
+        "航运安全"
+      ],
+      "stance": null,
+      "confidence": null
+    },
+    {
+      "narrative_id": "N022-2",
+      "event_id": "E022",
+      "type": "report",
+      "source": "BBC News",
+      "date": "2026-03-06",
+      "content": "BBC报道称，阿联酋方面表示拖船在执行人道救援任务时遭到致命火力打击，强调救援船只与商船在该水域面临更高的不确定性。报道援引航运业内人士称，若救援与拖带能力受威胁，遇险船舶处置时间将拉长，碰撞、搁浅与二次事故概率上升，港口调度与船期也会被迫延后，区域海上交通管理压力随之加大。",
+      "tags": [
+        "海上救援",
+        "商船风险",
+        "保险费率",
+        "航线调整"
+      ],
+      "stance": null,
+      "confidence": null
+    },
+    {
+      "narrative_id": "N022-3",
+      "event_id": "E022",
+      "type": "prediction",
+      "source": "Bloomberg",
+      "date": "2026-03-06",
+      "content": "彭博预期该事件将通过“冲突升级→救援与通行风险上升→航运与保险成本抬升、部分船舶绕行或延迟装运→市场担忧原油与成品油供应链受扰”这条链条传导至资产价格。若后续再出现针对商船或救援船的袭击，风险溢价可能迅速回到能源与航运相关合约中，推动油价上行并带动市场进入更明显的避险交易。",
+      "tags": [],
+      "stance": "oil_up",
+      "confidence": "medium"
+    },
+    {
+      "narrative_id": "N023-1",
+      "event_id": "E023",
+      "type": "report",
+      "source": "Wall Street Journal",
+      "date": "2026-03-08",
+      "content": "据报道，在阿里·哈梅内伊于美军斩首空袭中丧生后，伊朗专家会议在德黑兰紧急召开会议，任命其子莫吉塔巴·哈梅内伊为新一任最高领袖。伊朗官方与接近决策层人士称，此举旨在迅速填补最高权力真空，确保战时指挥链、革命卫队与安全机构的统一调度不被打断。市场与外交界将该任命视为短期稳定信号，但也关注其合法性争议与对外报复风险是否上升。",
+      "tags": [
+        "伊朗",
+        "最高领袖",
+        "权力交接",
+        "斩首行动"
+      ],
+      "stance": null,
+      "confidence": null
+    },
+    {
+      "narrative_id": "N023-2",
+      "event_id": "E023",
+      "type": "report",
+      "source": "Reuters",
+      "date": "2026-03-08",
+      "content": "多名地区外交官与能源交易人士表示，伊朗在最高领袖遇袭身亡后迅速完成继任任命，短线缓解了外界对德黑兰出现指挥失序、内部派系争斗升级的担忧。与此同时，西方官员称将密切观察新最高领袖对核政策、地区代理人行动以及对美以目标的回应口径。交易员指出，继任决定本身降低了“政权真空”溢价，但并未消除冲突外溢到霍尔木兹海峡与海湾航运的风险定价。",
+      "tags": [
+        "德黑兰",
+        "继任",
+        "地缘冲突",
+        "霍尔木兹海峡"
+      ],
+      "stance": null,
+      "confidence": null
+    },
+    {
+      "narrative_id": "N023-3",
+      "event_id": "E023",
+      "type": "prediction",
+      "source": "Bloomberg",
+      "date": "2026-03-08",
+      "content": "事件中伊朗在最高领袖遇袭后迅速任命莫吉塔巴·哈梅内伊，短期减少了权力真空带来的不确定性，但也可能强化强硬派在战时的集中决策。该事件→市场将重新评估报复行动与海湾航运中断的风险、以及对伊朗原油出口与保险成本的供给冲击预期→风险情绪转向防御，原油风险溢价上行、避险资金流入黄金与美元，全球股市尤其是航运与航空板块承压。",
+      "tags": [],
+      "stance": "risk_off",
+      "confidence": "medium"
+    },
+    {
+      "narrative_id": "N024-1",
+      "event_id": "E024",
+      "type": "report",
+      "source": "Al Jazeera",
+      "date": "2026-03-10",
+      "content": "据半岛电视台报道，泰国籍散货船“Mayuree Naree”在阿曼湾航行时，被指未理会伊朗伊斯兰革命卫队通过无线电发出的禁航霍尔木兹海峡警告，随后遭伊朗海军以实弹炮击。报道援引航运与救援信息称，多数船员已撤离并获救，但仍有3名船员下落不明，相关海域的商船通行风险与保险成本随之上升。",
+      "tags": [
+        "阿曼湾",
+        "霍尔木兹海峡",
+        "伊朗革命卫队",
+        "商船遇袭"
+      ],
+      "stance": null,
+      "confidence": null
+    },
+    {
+      "narrative_id": "N024-2",
+      "event_id": "E024",
+      "type": "report",
+      "source": "Reuters",
+      "date": "2026-03-10",
+      "content": "路透社援引航运业人士与海事安全通报称，一艘泰国籍散货船在阿曼湾遭到伊朗方面炮击，起因是该船被指无视有关避开霍尔木兹海峡附近航线的无线电警告。消息人士表示，事件发生后部分船员弃船撤离，仍有3人失联，救援与搜寻在复杂海况下持续进行。多家船东与经纪机构称，船舶改道与延误风险上升，战区附加费与保费报价趋紧。",
+      "tags": [
+        "路透",
+        "海事安全",
+        "炮击",
+        "改道"
+      ],
+      "stance": null,
+      "confidence": null
+    },
+    {
+      "narrative_id": "N024-3",
+      "event_id": "E024",
+      "type": "prediction",
+      "source": "Financial Times",
+      "date": "2026-03-10",
+      "content": "该船在阿曼湾因无视警告而遭炮击，事件→市场对霍尔木兹海峡周边通行受限与误判升级的担忧上升→航运保险与运费走高、部分油轮与商船可能选择绕行或减速等待，从而带来短期供给与交付节奏的不确定性→能源与风险资产将出现典型的避险定价，原油风险溢价抬升、黄金受益，而股市与高收益信用可能承压。",
+      "tags": [],
+      "stance": "risk_off",
+      "confidence": "medium"
+    },
+    {
+      "narrative_id": "N025-1",
+      "event_id": "E025",
+      "type": "report",
+      "source": "Reuters",
+      "date": "2026-03-10",
+      "content": "据路透报道，美国与以色列向联合国安理会提交援引《联合国宪章》第51条的外交信函，主张其对伊朗境内目标实施的联合全面空袭属于先发制人自卫与集体自卫范畴。信函意在为军事行动提供国际法层面的正当性叙事，并在安理会框架内预置对外沟通口径。多国代表在纽约就“自卫”适用条件、必要性与比例性展开程序性讨论，安理会内部对是否形成统一表述分歧明显。",
+      "tags": [
+        "UNSC",
+        "Article51",
+        "US-Israel",
+        "Iran"
+      ],
+      "stance": null,
+      "confidence": null
+    },
+    {
+      "narrative_id": "N025-2",
+      "event_id": "E025",
+      "type": "report",
+      "source": "BBC News",
+      "date": "2026-03-10",
+      "content": "BBC报道称，美以向安理会递交第51条信函后，联合国系统内围绕“自卫权”边界的争论升温。报道指出，相关信函通常用于在军事行动后向安理会通报并阐明法律依据，此次强调先发制人性质，使部分成员国担忧其可能被解读为扩大武力使用门槛。外交人士称，安理会可能出现要求停火、呼吁克制或要求提供证据的不同草案方向，但短期内达成一致文本的难度较高。",
+      "tags": [
+        "UN",
+        "Article51",
+        "preemptive_self_defense",
+        "diplomatic_letters"
+      ],
+      "stance": null,
+      "confidence": null
+    },
+    {
+      "narrative_id": "N025-3",
+      "event_id": "E025",
+      "type": "prediction",
+      "source": "Bloomberg",
+      "date": "2026-03-10",
+      "content": "彭博预期，美以提交第51条信函将把对伊朗空袭从“战术事件”推向“可持续冲突框架”的法律与外交对抗，事件→市场对冲突延宕与报复升级的风险评估上调、对中东供应链与航运保险成本的担忧加深、风险情绪转弱→资金更可能流向避险资产并压制风险资产估值。若后续出现针对能源基础设施或关键航道的威胁表述，原油风险溢价可能进一步抬升，同时全球股指与高收益信用面临更明显的风险溢价扩张。",
+      "tags": [],
+      "stance": "risk_off",
+      "confidence": "medium"
+    },
+    {
+      "narrative_id": "N026-1",
+      "event_id": "E026",
+      "type": "report",
+      "source": "Bloomberg",
+      "date": "2026-03-11",
+      "content": "据报道，日本籍集装箱船“One Majesty”在阿联酋迪拜以北约50海里海域航行时遭到来自伊朗方向的抛射物击中，船体出现轻微损坏但未报告人员伤亡或失去动力。事件发生在海湾核心商贸航道附近，引发航运公司与货主对区域航行安全的再评估，部分市场参与者关注保险费率、绕航安排与港口靠泊计划是否需要调整。",
+      "tags": [
+        "海湾航运安全",
+        "集装箱航运",
+        "伊朗",
+        "日本"
+      ],
+      "stance": null,
+      "confidence": null
+    },
+    {
+      "narrative_id": "N026-2",
+      "event_id": "E026",
+      "type": "report",
+      "source": "Reuters",
+      "date": "2026-03-11",
+      "content": "航运与安全消息人士称，一艘日本集装箱船在迪拜附近海域遭抛射物击中后仅受轻微损伤，但该事件被视为海湾商业航运风险上升的又一信号。业内人士表示，若类似袭击频率增加，船东可能提高风险附加费并要求更高的战争险覆盖，港口与海事机构也可能加强通报与护航协调，从而推高区域航运成本并扰动准班率。",
+      "tags": [
+        "战争险",
+        "风险附加费",
+        "航运成本",
+        "海事安全"
+      ],
+      "stance": null,
+      "confidence": null
+    },
+    {
+      "narrative_id": "N026-3",
+      "event_id": "E026",
+      "type": "prediction",
+      "source": "Financial Times",
+      "date": "2026-03-11",
+      "content": "该船在迪拜近海遭抛射物击中这一事件→强化市场对海湾航道安全网恶化的认知，带来航运保险与运费上行、潜在绕航与延误的供给侧摩擦，同时推升地缘不确定性情绪→短期内更可能触发风险偏好下降与避险需求上升，资金流向黄金与美元等防御资产，并对与航运、航空燃油及进口成本敏感的股票板块形成压力。",
+      "tags": [],
+      "stance": "risk_off",
+      "confidence": "medium"
+    },
+    {
+      "narrative_id": "N027-1",
+      "event_id": "E027",
+      "type": "report",
+      "source": "Reuters",
+      "date": "2026-03-12",
+      "content": "据路透报道，一架美军武装直升机在波斯湾水域对一艘高速逼近“亚伯拉罕·林肯”号航空母舰的伊朗水面舰艇发射多枚“地狱火”导弹并将其拦截，称此举挫败了可能的非对称自杀式袭击企图。美方强调行动属于航母编队自卫与航行安全措施，事件发生后编队提高警戒并加强近距离海空监视。伊朗方面尚未就损失与意图作出同等细节回应，但该交火迅速推升市场对海上误判与升级的担忧。",
+      "tags": [
+        "波斯湾",
+        "美伊冲突",
+        "航母",
+        "直升机"
+      ],
+      "stance": null,
+      "confidence": null
+    },
+    {
+      "narrative_id": "N027-2",
+      "event_id": "E027",
+      "type": "report",
+      "source": "BBC News",
+      "date": "2026-03-13",
+      "content": "BBC报道称，美军表示其武装直升机在波斯湾对一艘接近航母的伊朗舰艇实施打击，理由是该目标以高速逼近并构成迫近威胁。报道指出，事件发生在地区紧张背景下，外界担忧类似近距离接触可能引发连锁反应，包括更多护航、临时航行警告以及商业船舶改道。多名航运与保险业内人士对媒体表示，任何涉及航母的交火都会放大对霍尔木兹周边风险的定价，短期内可能推高战争险附加费并影响油轮排班与到港节奏。",
+      "tags": [
+        "霍尔木兹",
+        "航运保险",
+        "战争险",
+        "商业航运"
+      ],
+      "stance": null,
+      "confidence": null
+    },
+    {
+      "narrative_id": "N027-3",
+      "event_id": "E027",
+      "type": "prediction",
+      "source": "Bloomberg",
+      "date": "2026-03-13",
+      "content": "该事件显示美伊在波斯湾的近距离对抗已从警告驱离升级到实弹交火，事件→市场对霍尔木兹周边供应中断与航运受阻的风险溢价上升、交易情绪转向避险→原油期货更可能出现跳涨并带动期限结构走强，同时海运与炼化链条的风险对冲需求增加。若后续出现伊朗报复性骚扰或更多护航行动，风险溢价可能进一步扩大；若双方迅速降温并恢复沟通，涨幅可能回吐。",
+      "tags": [],
+      "stance": "oil_up",
+      "confidence": "medium"
+    },
+    {
+      "narrative_id": "N028-1",
+      "event_id": "E028",
+      "type": "report",
+      "source": "Associated Press",
+      "date": "2026-03-13",
+      "content": "受伊朗支持的“伊拉克伊斯兰抵抗组织”发布声明称，其在伊拉克领空使用防空火力击落一架美军KC-135空中加油机，称该机为美军战机提供后勤补给支援。该组织将行动描述为对美军在地区行动的回应，并暗示将继续针对美方空中与后勤节点。美方尚未立即公开确认损失细节，但事件本身被视为对美军空中加油与持续出动能力的直接挑战，令地区安全风险上升。",
+      "tags": [
+        "Iraq",
+        "Islamic Resistance in Iraq",
+        "KC-135",
+        "US military"
+      ],
+      "stance": null,
+      "confidence": null
+    },
+    {
+      "narrative_id": "N028-2",
+      "event_id": "E028",
+      "type": "report",
+      "source": "Reuters",
+      "date": "2026-03-13",
+      "content": "一支与伊朗结盟的伊拉克武装组织宣称击落美军KC-135空中加油机后，市场与安全分析人士关注美军在伊拉克及周边空域的行动规则是否将收紧。若该说法属实，空中加油平台作为高价值、低机动的支援资产遭袭，将迫使美军调整航线、提高护航与防空压制强度，并可能减少部分任务的出动频率。地区官员担忧此类袭击会引发报复性打击与连锁升级，增加误判与跨境冲突的概率。",
+      "tags": [
+        "Reuters",
+        "Middle East",
+        "air operations",
+        "logistics"
+      ],
+      "stance": null,
+      "confidence": null
+    },
+    {
+      "narrative_id": "N028-3",
+      "event_id": "E028",
+      "type": "prediction",
+      "source": "Bloomberg",
+      "date": "2026-03-13",
+      "content": "该组织宣称击落KC-135这一高价值支援平台，事件→抬升对美军报复与地区升级的风险预期、并强化对伊拉克及周边空域安全与能源运输脆弱性的担忧→风险溢价与避险情绪上升，资金更可能流向黄金与美元等避险资产，同时对中东相关风险敞口的股票与高收益信用形成压力。若后续出现美方确认损失或报复性打击，风险偏好可能进一步走弱并推高波动率。",
+      "tags": [],
+      "stance": "risk_off",
+      "confidence": "medium"
+    },
+    {
+      "narrative_id": "N029-1",
+      "event_id": "E029",
+      "type": "report",
+      "source": "Wall Street Journal",
+      "date": "2026-03-13",
+      "content": "据《华尔街日报》援引美方与地区官员信息称，美军中央司令部出动机群对伊朗布什尔省哈尔克岛的军事基础设施实施大规模精准打击，目标指向与霍尔木兹海峡布雷、封锁相关的能力节点。报道指多处水雷储存点与导弹仓库被摧毁或严重受损，美方称行动旨在削弱伊朗对航运通道的威胁并降低未来封锁风险。伊朗方面随后谴责袭击并警告将作出回应，地区航运与能源市场参与者密切评估事态升级可能性。",
+      "tags": [
+        "美国",
+        "伊朗",
+        "哈尔克岛",
+        "空袭"
+      ],
+      "stance": null,
+      "confidence": null
+    },
+    {
+      "narrative_id": "N029-2",
+      "event_id": "E029",
+      "type": "report",
+      "source": "Reuters",
+      "date": "2026-03-13",
+      "content": "路透社报道称，美国对伊朗哈尔克岛军事设施的打击引发海湾地区紧张升温，市场与航运公司迅速进入风险评估状态。多名航运与保险业内人士表示，若伊朗以袭扰商船、布雷或导弹威胁回应，霍尔木兹海峡通行成本可能上升，船舶可能选择提高警戒、调整航线或延长等待时间。报道同时提到，交易员关注伊朗是否会将报复范围扩大至海上目标以及美国是否会追加行动，短期内能源与运费相关资产波动加大。",
+      "tags": [
+        "路透",
+        "海湾局势",
+        "航运保险",
+        "运费"
+      ],
+      "stance": null,
+      "confidence": null
+    },
+    {
+      "narrative_id": "N029-3",
+      "event_id": "E029",
+      "type": "prediction",
+      "source": "Bloomberg",
+      "date": "2026-03-13",
+      "content": "彭博社市场观察认为，此次美军打击哈尔克岛军事基础设施的事件将通过“事件→风险/供给/情绪→市场结果”的链条影响资产价格：空袭本身提高了伊朗报复与海上冲突升级风险，即使部分布雷与导弹仓库被摧毁，短期不确定性仍会推升霍尔木兹海峡的地缘风险溢价与航运保险成本，市场对原油供应中断的担忧上升并带动避险情绪。由此原油价格更可能上行，风险资产承压、资金偏向防御与避险配置。",
+      "tags": [],
+      "stance": "oil_up",
+      "confidence": "medium"
+    },
+    {
+      "narrative_id": "N030-1",
+      "event_id": "E030",
+      "type": "report",
+      "source": "Reuters",
+      "date": "2026-03-18",
+      "content": "据路透报道，以色列战机在突破伊朗防空体系后，对伊朗南帕尔斯天然气田的多处开采与处理设施实施空袭。现场多套关键装置受损并被迫停产，伊朗方面启动应急处置与火情控制，同时评估对国内供气与工业用气的影响。市场参与者将该事件视为对中东能源基础设施的重大升级，区域能源紧张预期随之上升。",
+      "tags": [
+        "以色列",
+        "伊朗",
+        "南帕尔斯",
+        "天然气田"
+      ],
+      "stance": null,
+      "confidence": null
+    },
+    {
+      "narrative_id": "N030-2",
+      "event_id": "E030",
+      "type": "report",
+      "source": "BBC News",
+      "date": "2026-03-18",
+      "content": "BBC报道称，南帕尔斯作为伊朗最重要的天然气生产基地之一，其设施遭到轰炸后，多处处理单元出现严重损毁并暂停运行。伊朗官员指责袭击将加剧地区能源危机，并警告可能引发进一步报复与更广泛的安全风险。地区国家与能源企业密切关注气源稳定性、潜在的供应缺口以及对周边电力与化工链条的连锁冲击，相关保险与航运风险评估也随之趋严。",
+      "tags": [
+        "南帕尔斯",
+        "天然气供应",
+        "地区能源危机",
+        "报复风险"
+      ],
+      "stance": null,
+      "confidence": null
+    },
+    {
+      "narrative_id": "N030-3",
+      "event_id": "E030",
+      "type": "prediction",
+      "source": "Bloomberg",
+      "date": "2026-03-18",
+      "content": "彭博预计，南帕尔斯设施遭袭这一事件将通过“事件→供给与安全风险上升→市场风险溢价抬升”的链条传导：空袭导致部分产能停摆并提高后续再度打击的概率，市场将上调中东能源基础设施的地缘风险溢价，带动原油与欧洲天然气相关价格波动加大，同时推升避险情绪。若伊朗采取报复或冲突外溢至运输与港口环节，风险偏好将进一步下降，股市承压、黄金受益的概率上升。",
+      "tags": [],
+      "stance": "risk_off",
+      "confidence": "medium"
+    },
+    {
+      "narrative_id": "N031-1",
+      "event_id": "E031",
+      "type": "report",
+      "source": "Bloomberg",
+      "date": "2026-03-18",
+      "content": "伊朗称为回应南帕尔斯气田遇袭而实施“对等报复”，向卡塔尔拉斯拉凡工业城发射导弹并命中部分液化处理设施。卡塔尔方面通报称，拉斯拉凡LNG链条中的若干关键单元受损，短期内出口能力下滑约17%，港口与装船作业被迫调整。消息传出后，现货与近月天然气价格迅速走高，航运与保险报价同步上调，市场开始重新评估海湾地区能源基础设施的安全溢价。",
+      "tags": [
+        "Iran",
+        "Qatar",
+        "Ras Laffan",
+        "LNG"
+      ],
+      "stance": null,
+      "confidence": null
+    },
+    {
+      "narrative_id": "N031-2",
+      "event_id": "E031",
+      "type": "report",
+      "source": "Reuters",
+      "date": "2026-03-18",
+      "content": "多名交易与航运人士表示，伊朗导弹打击卡塔尔拉斯拉凡后，买家紧急询问可替代货源与交付窗口，部分原定装船计划被重新排期。卡塔尔能源相关机构启动应急检修与产线切换，优先保障长期合同履约，并评估受损液化单元的修复周期。市场参与者称，17%的出口能力缺口在短期内难以完全由其他产地填补，区域气价与运费、保险费率出现联动上行。",
+      "tags": [
+        "Reuters",
+        "Qatar LNG",
+        "export capacity",
+        "spot market"
+      ],
+      "stance": null,
+      "confidence": null
+    },
+    {
+      "narrative_id": "N031-3",
+      "event_id": "E031",
+      "type": "prediction",
+      "source": "Financial Times",
+      "date": "2026-03-18",
+      "content": "事件导致卡塔尔拉斯拉凡部分液化设施受损并使LNG出口能力骤降17%，将直接收紧可交付供给；供给收缩叠加海湾能源设施遭袭的安全风险上升，会推高航运与保险成本并恶化市场情绪，促使买家提前锁定货源与对冲。由此，近月天然气与LNG相关价格曲线大概率上移，欧洲与亚洲气价波动率上升，能源密集型行业与相关股指承压，整体风险偏好趋于谨慎。",
+      "tags": [],
+      "stance": "risk_off",
+      "confidence": "medium"
+    },
+    {
+      "narrative_id": "N032-1",
+      "event_id": "E032",
+      "type": "report",
+      "source": "BBC News",
+      "date": "2026-03-20",
+      "content": "伊朗向位于英属印度洋领地的迭戈加西亚美英联合军事基地发射两枚超远程弹道导弹，显示其具备对2500英里以上目标实施打击的意图与能力展示。美方通报其中一枚导弹被防空系统拦截，另一枚在飞行中空中解体并未造成地面破坏。美国与英国随即提升基地戒备等级并评估后续防护与反制选项，地区盟友对冲突外溢与航运安全表达关切。",
+      "tags": [
+        "伊朗",
+        "美国",
+        "英国",
+        "迭戈加西亚"
+      ],
+      "stance": null,
+      "confidence": null
+    },
+    {
+      "narrative_id": "N032-2",
+      "event_id": "E032",
+      "type": "report",
+      "source": "Reuters",
+      "date": "2026-03-20",
+      "content": "据多方安全与政府消息人士称，伊朗对迭戈加西亚基地的导弹发射虽未造成实质损失，但被视为对美英远程投送与指挥节点的象征性施压。美国国防部门表示将与英国协调加强反导与预警部署，并对伊朗的远程打击企图作出“适当回应”。市场参与者关注该基地与印度洋航线、空中加油与战略轰炸机行动的关联，担忧后续报复循环可能推高地区军事风险溢价。",
+      "tags": [
+        "路透",
+        "远程打击",
+        "反导",
+        "预警"
+      ],
+      "stance": null,
+      "confidence": null
+    },
+    {
+      "narrative_id": "N032-3",
+      "event_id": "E032",
+      "type": "prediction",
+      "source": "Bloomberg",
+      "date": "2026-03-20",
+      "content": "事件发生后，伊朗对迭戈加西亚的远程导弹示威将通过“冲突升级预期→航运与军事设施风险上升→风险偏好下降”的链条影响资产定价。即便本次未造成破坏，投资者仍可能上调对印度洋航线与中东相关能源供应链的尾部风险评估，推动避险情绪升温。市场结果上，短期更可能出现风险资产承压、波动率抬升与避险资产受益的组合表现，能源与航运相关板块的风险溢价也可能扩大。",
+      "tags": [],
+      "stance": "risk_off",
+      "confidence": "medium"
+    },
+    {
+      "narrative_id": "N033-1",
+      "event_id": "E033",
+      "type": "report",
+      "source": "Wall Street Journal",
+      "date": "2026-03-27",
+      "content": "据《华尔街日报》援引地区安全官员与以方通报称，也门胡塞武装在当日对以色列南部发动远程打击，发射弹道导弹并配合巡航导弹实施饱和攻击。以色列防空系统在南部多地拉响警报并拦截来袭目标，部分残骸坠落引发局部损毁与人员轻伤的初步报告。报道指出，此次行动被以方视为与伊朗相关的代理人升级，意味着冲突外溢至红海—黎凡特南缘的风险显著上升。",
+      "tags": [
+        "胡塞武装",
+        "以色列",
+        "弹道导弹",
+        "巡航导弹"
+      ],
+      "stance": null,
+      "confidence": null
+    },
+    {
+      "narrative_id": "N033-2",
+      "event_id": "E033",
+      "type": "report",
+      "source": "Reuters",
+      "date": "2026-03-27",
+      "content": "路透社报道称，以色列军方表示其在南部方向侦测到来自也门方向的导弹与无人机/巡航导弹威胁并实施拦截，南部城市与军事设施周边短时进入应急状态。以方官员称将评估是否对发射方及其支持网络采取进一步行动，并与美国及地区伙伴就红海与以南空域的防空协同进行沟通。市场与航运界人士同时关注该事件对红海航线保险费率、船舶绕行与港口作业节奏的潜在影响。",
+      "tags": [
+        "路透",
+        "以色列国防军",
+        "红海航运",
+        "保险费率"
+      ],
+      "stance": null,
+      "confidence": null
+    },
+    {
+      "narrative_id": "N033-3",
+      "event_id": "E033",
+      "type": "prediction",
+      "source": "Bloomberg",
+      "date": "2026-03-27",
+      "content": "彭博社市场专栏认为，胡塞首次以弹道导弹与巡航导弹群打击以色列南部这一事件→将抬升投资者对红海航运中断、以色列报复扩大以及伊朗相关代理人链式介入的地缘风险预期→风险溢价上升会推高原油与航运相关成本预期，同时压制全球股市风险偏好并带动避险资产需求。若以方采取跨域反击或红海再现航运受扰，油价短线更易上行，黄金与美元可能同步走强，权益市场偏向回撤。",
+      "tags": [],
+      "stance": "risk_off",
+      "confidence": "medium"
+    },
+    {
+      "narrative_id": "N034-1",
+      "event_id": "E034",
+      "type": "report",
+      "source": "Al Jazeera",
+      "date": "2026-03-29",
+      "content": "半岛电视台报道，伊朗发射的导弹与无人机群突破沙特防空火力网，击中位于沙特的苏丹王子空军基地，造成一架美军E-3“望楼”预警机严重受损。报道援引地区安全消息称，此次打击针对高价值空中指挥与预警资产，可能削弱美军在海湾与红海方向的态势感知与空中指挥链路。沙特与美方随后加强基地防空与戒备，并评估后续部署与飞行任务调整。",
+      "tags": [
+        "伊朗",
+        "美国",
+        "沙特",
+        "导弹无人机"
+      ],
+      "stance": null,
+      "confidence": null
+    },
+    {
+      "narrative_id": "N034-2",
+      "event_id": "E034",
+      "type": "report",
+      "source": "Reuters",
+      "date": "2026-03-29",
+      "content": "路透社称，地区紧张局势在伊朗导弹与无人机袭击沙特境内美军相关设施后进一步升温，苏丹王子空军基地一架E-3预警机受损引发市场与安全部门关注。多名分析人士指出，E-3属于稀缺的空中预警与指挥平台，其受损可能迫使美军临时调整空中巡逻、加油与预警覆盖方式，并增加盟友对防空拦截能力与基地防护的投入。消息传出后，海湾航线与能源设施的风险溢价讨论升温。",
+      "tags": [
+        "路透",
+        "军事打击",
+        "美军资产",
+        "预警指挥"
+      ],
+      "stance": null,
+      "confidence": null
+    },
+    {
+      "narrative_id": "N034-3",
+      "event_id": "E034",
+      "type": "prediction",
+      "source": "Financial Times",
+      "date": "2026-03-29",
+      "content": "该事件显示伊朗具备穿透区域防空并打击高价值美军平台的能力，事件→地区冲突升级与误判风险上升、海湾与红海周边安全供给受扰预期增强、投资者情绪转向防御→能源运输与产供担忧推升油价风险溢价，同时避险需求抬升黄金并压制风险资产表现。若美方强化报复或扩大部署，市场将进一步定价更高的地缘溢价；若各方快速降温，涨幅可能回吐。",
+      "tags": [],
+      "stance": "risk_off",
+      "confidence": "medium"
+    },
+    {
+      "narrative_id": "N035-1",
+      "event_id": "E035",
+      "type": "report",
+      "source": "Reuters",
+      "date": "2026-03-30",
+      "content": "据路透社报道，科威特籍油轮Al Salmi号在阿联酋迪拜港核心泊位靠泊期间遭到自杀式无人机袭击，现场出现爆炸与起火迹象，港口一度加强警戒并对部分作业实施临时管制。阿联酋方面启动港区安全与事故调查程序，科威特相关机构与船东核实船员安全与货损情况。多名地区安全消息人士称袭击特征与伊朗系无人机战术相符，但责任归属仍待官方确认。",
+      "tags": [
+        "Dubai Port",
+        "tanker attack",
+        "drone strike",
+        "Kuwait"
+      ],
+      "stance": null,
+      "confidence": null
+    },
+    {
+      "narrative_id": "N035-2",
+      "event_id": "E035",
+      "type": "report",
+      "source": "BBC News",
+      "date": "2026-03-30",
+      "content": "BBC报道称，Al Salmi号在迪拜港内遭无人机精准打击引发外界对海湾腹地港口安全的担忧，航运与保险业人士表示将重新评估停靠迪拜及周边港口的风险定价。港口运营方强调关键航道仍保持通行，但部分船舶在靠泊与补给环节延长等待时间。地区观察人士指出，若袭击被证实与伊朗有关，将意味着打击半径覆盖到海湾国家核心物流节点，可能促使各国强化防空与港区反无人机部署。",
+      "tags": [
+        "port security",
+        "insurance",
+        "shipping risk",
+        "Gulf"
+      ],
+      "stance": null,
+      "confidence": null
+    },
+    {
+      "narrative_id": "N035-3",
+      "event_id": "E035",
+      "type": "prediction",
+      "source": "Financial Times",
+      "date": "2026-03-30",
+      "content": "该事件发生在迪拜核心港口内，意味着冲突外溢到关键能源与航运枢纽：袭击事件→市场对海湾港口与油轮靠泊安全的担忧上升、保险费率与绕航意愿增加并抬升潜在供给中断风险→短期内原油风险溢价走阔、近月合约更易走强，同时全球股市与高收益资产承压、避险需求推升黄金与美元。若后续出现更多港口或油轮目标，风险偏好将进一步转向防御。",
+      "tags": [],
+      "stance": "risk_off",
+      "confidence": "medium"
+    },
+    {
+      "narrative_id": "N036-1",
+      "event_id": "E036",
+      "type": "report",
+      "source": "Bloomberg",
+      "date": "2026-04-01",
+      "content": "据报道，隶属卡塔尔能源公司的油轮Aqua 1号在多哈以北海域航行时遭两枚抛射物击中并引发火灾，船上应急处置随即展开，航运安全警报被上调。伊朗方面随后公开声称该船存在“以色列隐蔽资本背景”，将事件置于地区对抗叙事之中。市场参与者关注该袭击是否会扩散至更广泛的海上交通线，尤其是对卡塔尔能源出口与周边航道通行的潜在影响。",
+      "tags": [
+        "QatarEnergy",
+        "tanker_attack",
+        "Doha",
+        "Iran_claim"
+      ],
+      "stance": null,
+      "confidence": null
+    },
+    {
+      "narrative_id": "N036-2",
+      "event_id": "E036",
+      "type": "report",
+      "source": "Reuters",
+      "date": "2026-04-01",
+      "content": "多家航运与保险相关人士在事件后评估称，Aqua 1号遇袭并起火将促使部分船东重新审视在卡塔尔近海的航行安排，可能出现临时绕行、提高护航与安保投入以及上调战争险费率的情况。伊朗将目标与以色列资本联系起来的说法，增加了事件被解读为“选择性打击”的可能性，也令地区国家对误判与报复循环的担忧升温。卡塔尔方面的后续调查与通报将成为判断风险是否外溢的关键。",
+      "tags": [
+        "war_risk_insurance",
+        "shipping_rates",
+        "Gulf_security",
+        "Qatar"
+      ],
+      "stance": null,
+      "confidence": null
+    },
+    {
+      "narrative_id": "N036-3",
+      "event_id": "E036",
+      "type": "prediction",
+      "source": "Financial Times",
+      "date": "2026-04-01",
+      "content": "Aqua 1号在卡塔尔近海遭抛射物袭击并起火这一事件，若被市场视为海上袭击升级的信号，将通过“事件→航运与保险风险上升、部分运力趋于谨慎→现货供应预期收紧与风险溢价抬升”的因果链，推动原油与液化天然气相关价格的短期上行，并压制高风险资产情绪。若后续出现更多针对商船的袭击或各方强硬表态，风险溢价可能进一步扩大；反之若迅速澄清并恢复通行，涨幅或回吐。",
+      "tags": [],
+      "stance": "oil_up",
+      "confidence": "medium"
+    },
+    {
+      "narrative_id": "N037-1",
+      "event_id": "E037",
+      "type": "report",
+      "source": "Financial Times",
+      "date": "2026-04-07",
+      "content": "在通胀压力与油价快速上行引发的政治与经济成本上升背景下，美国与伊朗同意接受由巴基斯坦居中斡旋的为期两周临时停火安排。双方将停火描述为为后续直接外交谈判争取时间的“窗口期”，重点在于降低误判与冲突外溢风险，并为围绕地区安全与航运通道稳定的沟通创造条件。市场参与者将该协议视为短期缓和信号，但也强调其期限短、执行与监督细节有限，后续谈判进展仍是关键变量。",
+      "tags": [
+        "美伊停火",
+        "巴基斯坦斡旋",
+        "两周窗口期",
+        "地缘风险"
+      ],
+      "stance": null,
+      "confidence": null
+    },
+    {
+      "narrative_id": "N037-2",
+      "event_id": "E037",
+      "type": "report",
+      "source": "Reuters",
+      "date": "2026-04-07",
+      "content": "多名地区与外交消息人士称，美国与伊朗在巴基斯坦推动下达成两周停火，以缓解近期紧张局势对能源与航运的冲击，并为直接对话铺路。交易员与分析师表示，停火消息令市场对供应中断的担忧暂时降温，部分避险仓位出现回吐，但由于协议为临时性质、且双方互信不足，任何零星摩擦都可能迅速推高风险溢价。航运与保险相关机构同时关注停火期间的执行情况，认为其将影响运费、保费与交割节奏。",
+      "tags": [
+        "停火协议",
+        "能源供应担忧",
+        "风险溢价",
+        "航运与保险"
+      ],
+      "stance": null,
+      "confidence": null
+    },
+    {
+      "narrative_id": "N037-3",
+      "event_id": "E037",
+      "type": "prediction",
+      "source": "Bloomberg",
+      "date": "2026-04-07",
+      "content": "事件层面，美伊接受巴基斯坦斡旋的两周停火将直接降低短期军事升级概率；风险链条上，冲突降温会压缩原油的地缘风险溢价、缓解对供应与航运中断的担忧，并带动市场情绪从防御转向观望偏积极；市场结果上，油价更可能出现阶段性回落或高位震荡，黄金与美元的避险需求边际走弱，全球股市与高收益信用或获得短线支撑。但由于停火期限短且执行不确定，若谈判无进展，风险溢价可能迅速回补。",
+      "tags": [],
+      "stance": "risk_on",
+      "confidence": "medium"
+    },
+    {
+      "narrative_id": "N038-1",
+      "event_id": "E038",
+      "type": "report",
+      "source": "Wall Street Journal",
+      "date": "2026-04-12",
+      "content": "据《华尔街日报》报道，在巴基斯坦伊斯兰堡持续约21小时的多边接触后，美伊和平谈判未能达成任何协议并宣告破裂。美国副总统万斯对外确认双方未能缩小关键分歧，核心争议集中在伊朗拒绝终止其浓缩铀项目及相关核活动安排。消息称美方代表团在会谈结束后随即撤离，巴方作为东道主试图促成继续对话但未能挽回局面。",
+      "tags": [
+        "美伊谈判",
+        "伊斯兰堡",
+        "核问题",
+        "外交破裂"
+      ],
+      "stance": null,
+      "confidence": null
+    },
+    {
+      "narrative_id": "N038-2",
+      "event_id": "E038",
+      "type": "report",
+      "source": "Reuters",
+      "date": "2026-04-12",
+      "content": "路透社援引多方外交消息称，美伊在伊斯兰堡举行的会谈以无协议告终后，市场与地区官员迅速评估对海湾安全与能源运输的潜在外溢影响。美国方面强调伊朗在浓缩铀问题上立场强硬导致谈判破裂，伊朗则重申其核计划属于主权与安全范畴。巴基斯坦官员表示将继续与各方保持沟通，但短期内重启同一框架谈判的可能性下降。",
+      "tags": [
+        "路透",
+        "地区安全",
+        "霍尔木兹风险",
+        "核谈判"
+      ],
+      "stance": null,
+      "confidence": null
+    },
+    {
+      "narrative_id": "N038-3",
+      "event_id": "E038",
+      "type": "prediction",
+      "source": "Bloomberg",
+      "date": "2026-04-12",
+      "content": "谈判破裂这一事件将通过“外交降温→制裁与对抗预期上升→海湾航运与供应中断风险溢价抬升→风险情绪转弱”的链条影响市场。若投资者将其解读为后续更强硬政策与地区摩擦概率上升，原油可能因地缘风险溢价而走高，同时避险需求推升黄金并压制高贝塔股与新兴市场资产；若随后出现重启对话信号，上述溢价可能部分回吐。",
+      "tags": [],
+      "stance": "risk_off",
+      "confidence": "medium"
+    },
+    {
+      "narrative_id": "N039-1",
+      "event_id": "E039",
+      "type": "report",
+      "source": "Financial Times",
+      "date": "2026-04-13",
+      "content": "在伊斯兰堡和谈破裂、市场传出美国即将对相关航运实施“反向封锁”措施后，布伦特与WTI原油在周一开盘迅速拉升，涨幅一度超过7%，并双双突破100美元/桶的心理关口。交易员称，价格跳涨主要由地缘政治风险溢价与对中东关键通道潜在受阻的担忧驱动，能源股短线走强，但更广泛的股市与高收益信用出现抛售，避险情绪升温。",
+      "tags": [
+        "布伦特原油",
+        "WTI",
+        "100美元",
+        "封锁消息"
+      ],
+      "stance": null,
+      "confidence": null
+    },
+    {
+      "narrative_id": "N039-2",
+      "event_id": "E039",
+      "type": "report",
+      "source": "Reuters",
+      "date": "2026-04-13",
+      "content": "消息人士与市场数据指出，围绕美国与伊朗相关紧张局势升级的报道引发亚洲早盘能源合约剧烈波动，布伦特与WTI在流动性较薄时段出现跳空上行并触发多档止损与追涨买盘。多家投行交易台表示，期权隐含波动率上升、近月合约升水扩大，反映市场对短期供应中断的定价加速；与此同时，主要股指期货走弱、VIX相关指标上行，资金转向美元与国债等避险资产。",
+      "tags": [
+        "路透",
+        "期权波动率",
+        "近月升水",
+        "供应中断担忧"
+      ],
+      "stance": null,
+      "confidence": null
+    },
+    {
+      "narrative_id": "N039-3",
+      "event_id": "E039",
+      "type": "prediction",
+      "source": "Bloomberg",
+      "date": "2026-04-13",
+      "content": "若“反向封锁”预期继续发酵并伴随更多执行细节披露，事件将通过抬升中东航运与保险成本、加剧对现货供应与库存补充的担忧，进一步推高风险溢价与市场情绪的紧张度，从而推动油价在高位维持并可能再度上冲。事件→供应与运输风险上升/避险情绪增强→原油远近月结构更趋紧、全球股市承压与风险偏好下降的链条，短期内更可能主导交易。",
+      "tags": [],
+      "stance": "risk_off",
+      "confidence": "medium"
+    },
+    {
+      "narrative_id": "N040-1",
+      "event_id": "E040",
+      "type": "report",
+      "source": "Bloomberg",
+      "date": "2026-04-13",
+      "content": "据报道，遵照美国总统命令，美国中央司令部已在阿拉伯湾及阿曼湾启动对伊朗港口与沿海的全面海上封锁，美海军获得拦截、登船检查并查扣船只的授权，重点针对被认定向伊朗支付海峡通行费的国际商船。航运公司与保险机构随即评估航线与保费调整，部分承运人讨论绕行或暂停靠港安排，市场关注封锁对区域航运秩序与能源运输连续性的即时冲击。",
+      "tags": [
+        "CENTCOM",
+        "naval_blockade",
+        "Iran_ports",
+        "shipping"
+      ],
+      "stance": null,
+      "confidence": null
+    },
+    {
+      "narrative_id": "N040-2",
+      "event_id": "E040",
+      "type": "report",
+      "source": "Reuters",
+      "date": "2026-04-13",
+      "content": "多名航运与安全业内人士表示，美国对伊朗海湾港口实施海上封锁并授权登检扣押，将显著抬升商船在霍尔木兹周边的合规与执法风险，船东可能面临延误、改道与额外文件审查。地区港口代理与货主开始重新核对装卸计划与付款路径，以避免被认定涉及通行费支付而触发扣押。分析人士称，任何误判或对抗升级都可能迅速传导至运费、保险费率与交付周期。",
+      "tags": [
+        "Reuters",
+        "Hormuz",
+        "boarding",
+        "seizure_risk"
+      ],
+      "stance": null,
+      "confidence": null
+    },
+    {
+      "narrative_id": "N040-3",
+      "event_id": "E040",
+      "type": "prediction",
+      "source": "Financial Times",
+      "date": "2026-04-13",
+      "content": "事件发生后，海上封锁与登检扣押授权将直接提高霍尔木兹周边的通行不确定性与法律合规成本，进而带来航运供给收缩、保险与运费上升以及交付延迟的风险预期；风险与供给担忧会推升能源与航运相关的风险溢价，并压制全球风险偏好。若封锁持续且出现扣押案例，市场更可能出现避险情绪升温、股市承压与资金流向防御资产的结果。",
+      "tags": [],
+      "stance": "risk_off",
+      "confidence": "medium"
+    },
+    {
+      "narrative_id": "NE003-1",
+      "event_id": "E003",
+      "type": "report",
+      "source": "Wall Street Journal",
+      "date": "2026-02-26",
+      "content": "据报道，美国与伊朗在瑞士日内瓦举行的第三轮核谈判未能取得突破并宣告破裂。美方在会谈中提出伊朗必须彻底拆除福尔多与纳坦兹核设施并交出既有浓缩铀库存，作为继续谈判与潜在制裁缓和的前提；伊朗方面断然拒绝，认为该要求等同于单方面解除其核能力与谈判筹码。双方在关键议题上立场对立，导致外交斡旋无法继续推进。",
+      "tags": [
+        "美伊关系",
+        "核谈判",
+        "日内瓦",
+        "福尔多"
+      ],
+      "stance": null,
+      "confidence": null
+    },
+    {
+      "narrative_id": "NE003-2",
+      "event_id": "E003",
+      "type": "report",
+      "source": "Reuters",
+      "date": "2026-02-26",
+      "content": "多名外交消息人士称，日内瓦核谈判失败后，市场与政策圈迅速重新评估伊朗相关制裁与地区风险的路径。谈判破裂意味着短期内通过外交渠道换取伊朗核限制与制裁松动的可能性下降，围绕伊朗原油出口、金融结算与航运保险的不确定性上升。分析人士指出，双方在“拆除设施与移交库存”这一高门槛条件上缺乏折中空间，使后续接触更可能转向更强硬的施压与反制循环。",
+      "tags": [
+        "制裁预期",
+        "原油出口",
+        "航运保险",
+        "地缘风险"
+      ],
+      "stance": null,
+      "confidence": null
+    },
+    {
+      "narrative_id": "NE003-3",
+      "event_id": "E003",
+      "type": "prediction",
+      "source": "Bloomberg",
+      "date": "2026-02-26",
+      "content": "谈判破裂这一事件将通过“外交渠道关闭→制裁缓和概率下降与地区摩擦风险上升→风险溢价回归”的链条影响市场。若投资者认为伊朗原油增量回归被推迟，且霍尔木兹周边安全与航运成本存在上行尾部风险，能源供给预期将趋紧并推升油价风险溢价；同时风险情绪转弱可能带动避险需求上升、权益资产承压。综合来看，短期更可能出现风险偏好下降与能源价格偏强的组合。",
+      "tags": [],
+      "stance": "risk_off",
+      "confidence": "medium"
+    },
+    {
+      "narrative_id": "NE006-1",
+      "event_id": "E006",
+      "type": "report",
+      "source": "Associated Press",
+      "date": "2026-02-28",
+      "content": "据美联社报道，联军在对阿巴斯港附近海军基地相关目标实施打击时，一枚导弹偏离预定轨迹，击中伊朗米纳卜市一所女子小学，造成约170名平民死亡并引发广泛震动。伊朗方面指责袭击方在情报与目标识别上存在严重失误，要求展开国际调查并追究责任。事件发生后，米纳卜及周边城市出现大规模反战与悼念集会，医院与救援系统承受巨大压力，地区紧张局势进一步升温。",
+      "tags": [
+        "伊朗",
+        "米纳卜",
+        "导弹误击",
+        "平民伤亡"
+      ],
+      "stance": null,
+      "confidence": null
+    },
+    {
+      "narrative_id": "NE006-2",
+      "event_id": "E006",
+      "type": "report",
+      "source": "BBC News",
+      "date": "2026-02-28",
+      "content": "BBC报道称，米纳卜女子小学遭导弹击中后，伊朗国内舆论迅速聚焦于“误击”责任与后续赔偿问题，政府部门宣布进入紧急状态并加强关键设施周边安保。多地出现反战示威与对外部军事行动的强烈谴责，部分抗议者要求停止空袭并保护民用设施。与此同时，外界关注该事件是否会促使伊朗采取报复性行动或调整对海峡周边的安全部署，市场与航运企业也在评估霍尔木兹海峡附近风险上升对运输与保险成本的影响。",
+      "tags": [
+        "BBC",
+        "民用设施",
+        "抗议",
+        "报复风险"
+      ],
+      "stance": null,
+      "confidence": null
+    },
+    {
+      "narrative_id": "NE006-3",
+      "event_id": "E006",
+      "type": "prediction",
+      "source": "Reuters",
+      "date": "2026-02-28",
+      "content": "该次误击造成大规模平民伤亡并触发反战抗议，事件本身将通过“政治压力上升→报复与升级风险增加→霍尔木兹海峡周边供给与运输不确定性上升→风险溢价抬升”的链条影响市场。若伊朗以军事或非对称手段回应、或强化海峡周边管控，原油将因潜在供应中断与航运成本上行而获得支撑，同时全球资产情绪可能转向避险，资金更偏向防御性配置并压制风险资产表现。",
+      "tags": [],
+      "stance": "risk_off",
+      "confidence": "medium"
+    },
+    {
+      "narrative_id": "NE010-1",
+      "event_id": "E010",
+      "type": "report",
+      "source": "Bloomberg",
+      "date": "2026-03-01",
+      "content": "据彭博报道，悬挂直布罗陀国旗的成品油轮兼加油船Hercules Star在阿联酋拉斯海马附近海域遭到来自伊朗方向的火力打击，造成一名船员死亡并导致船体受损。该船随后中止航行并撤退至迪拜锚地寻求庇护，相关海事通报与航运安全机构同步更新风险提示。事件发生在阿联酋近海关键航道附近，引发对区域航运安全与保险成本上升的关注。",
+      "tags": [
+        "阿联酋近海",
+        "油轮遇袭",
+        "伊朗",
+        "航运安全"
+      ],
+      "stance": null,
+      "confidence": null
+    },
+    {
+      "narrative_id": "NE010-2",
+      "event_id": "E010",
+      "type": "report",
+      "source": "Reuters",
+      "date": "2026-03-01",
+      "content": "路透援引航运与保险业人士称，Hercules Star在阿联酋海域遭袭并出现人员伤亡后，部分船东与租家开始重新评估在阿联酋北部沿岸及通往迪拜锚地周边的航行安排，优先考虑提高警戒、调整靠泊窗口或临时等待护航信息。市场参与者表示，若袭击被进一步证实与伊朗有关，战争险附加费与船舶安保支出可能上调，短期内影响成品油补给与加油服务的可用性与价格谈判。",
+      "tags": [
+        "路透",
+        "战争险",
+        "船东",
+        "租家"
+      ],
+      "stance": null,
+      "confidence": null
+    },
+    {
+      "narrative_id": "NE010-3",
+      "event_id": "E010",
+      "type": "prediction",
+      "source": "Financial Times",
+      "date": "2026-03-01",
+      "content": "该油轮在阿联酋海域遇袭并造成人员死亡的事件，可能通过“事件升级→航运风险上升与保险/安保成本抬升→区域成品油与船用燃料供给链更紧、市场情绪转向避险”的链条传导至资产价格。若后续出现更多针对商船的袭击或航运公司减少在相关海域作业，油品现货溢价与运费可能走高，带动原油与成品油价格风险溢价上升，同时推动资金偏好转向避险资产并压制高风险权益表现。",
+      "tags": [],
+      "stance": "risk_off",
+      "confidence": "medium"
+    },
+    {
+      "narrative_id": "NE013-1",
+      "event_id": "E013",
+      "type": "report",
+      "source": "Bloomberg",
+      "date": "2026-03-01",
+      "content": "据彭博报道，悬挂美国国旗的油轮Stena Imperative在巴林穆哈拉格附近港口停靠期间，被称为伊朗拦截导弹的碎片击中并引发火情，造成一名港口工人死亡、两人重伤。船员已按港口应急程序撤离，火势在港口消防与船方协同下得到控制。事件发生后，巴林方面加强港区警戒并启动事故调查，美国与伊朗相关方的表态与责任归属成为外界关注焦点。",
+      "tags": [
+        "巴林",
+        "油轮",
+        "美国国旗船舶",
+        "导弹碎片"
+      ],
+      "stance": null,
+      "confidence": null
+    },
+    {
+      "narrative_id": "NE013-2",
+      "event_id": "E013",
+      "type": "report",
+      "source": "Reuters",
+      "date": "2026-03-02",
+      "content": "路透援引航运与港口消息人士称，Stena Imperative在巴林港区起火后，港口短时收紧进出港管制并对靠泊船舶实施额外安检，部分船舶被要求延后靠泊或改用外锚地等待。保险与经纪机构表示，尽管事故发生在港内且未出现船员伤亡，但“美国旗”与“伊朗拦截导弹碎片”两项要素叠加，可能促使承保人重新评估海湾港口风险附加费与战争险条款，航运公司也在评估是否调整航线与靠港计划。",
+      "tags": [
+        "路透",
+        "航运保险",
+        "战争险",
+        "港口管制"
+      ],
+      "stance": null,
+      "confidence": null
+    },
+    {
+      "narrative_id": "NE013-3",
+      "event_id": "E013",
+      "type": "prediction",
+      "source": "Financial Times",
+      "date": "2026-03-02",
+      "content": "该事件发生在巴林港内且涉及悬挂美国国旗的油轮，事件→市场对海湾港口与航运保险成本上升的担忧加剧，并放大对误判升级与后续报复的情绪→短期内原油风险溢价可能抬升，尤其是近月合约与中东相关基准更易受影响；同时风险偏好可能走弱，资金更倾向防御资产。若后续调查确认仅为碎片误击且未引发进一步军事行动，溢价可能回吐，但在信息不确定期油价更偏上行。",
+      "tags": [],
+      "stance": "oil_up",
+      "confidence": "medium"
+    }
+  ],
+  "marketChains": [
+    {
+      "event_id": "E001",
+      "impact_id": "M001",
+      "type": "explicit",
+      "time_lag": "short",
+      "chain": [
+        "对影子舰队与交易商的制裁触发更严格合规审查与支付清算限制",
+        "伊朗原油外运与结算不确定性上升且部分船舶退出、保险与运费上行",
+        "短期可用现货供应边际收紧并推升市场风险溢价",
+        "油价风险溢价上升推动油价走高"
+      ],
+      "chain_steps": [
+        {
+          "step_id": "M001-S1",
+          "index": 1,
+          "text": "对影子舰队与交易商的制裁触发更严格合规审查与支付清算限制"
+        },
+        {
+          "step_id": "M001-S2",
+          "index": 2,
+          "text": "伊朗原油外运与结算不确定性上升且部分船舶退出、保险与运费上行"
+        },
+        {
+          "step_id": "M001-S3",
+          "index": 3,
+          "text": "短期可用现货供应边际收紧并推升市场风险溢价"
+        },
+        {
+          "step_id": "M001-S4",
+          "index": 4,
+          "text": "油价风险溢价上升推动油价走高"
+        }
+      ],
+      "assets": [
+        "oil"
+      ],
+      "direction": "up"
+    },
+    {
+      "event_id": "E002",
+      "impact_id": "M002",
+      "type": "explicit",
+      "time_lag": "short",
+      "chain": [
+        "制裁升级限制影子舰队与支付通道",
+        "伊朗相关货物流转摩擦与保险成本上升",
+        "市场对中东供应中断与二级制裁外溢的担忧上升并推升风险溢价",
+        "原油期货上行"
+      ],
+      "chain_steps": [
+        {
+          "step_id": "M002-S1",
+          "index": 1,
+          "text": "制裁升级限制影子舰队与支付通道"
+        },
+        {
+          "step_id": "M002-S2",
+          "index": 2,
+          "text": "伊朗相关货物流转摩擦与保险成本上升"
+        },
+        {
+          "step_id": "M002-S3",
+          "index": 3,
+          "text": "市场对中东供应中断与二级制裁外溢的担忧上升并推升风险溢价"
+        },
+        {
+          "step_id": "M002-S4",
+          "index": 4,
+          "text": "原油期货上行"
+        }
+      ],
+      "assets": [
+        "oil"
+      ],
+      "direction": "up"
+    },
+    {
+      "event_id": "E003",
+      "impact_id": "M003",
+      "type": "explicit",
+      "time_lag": "short",
+      "chain": [
+        "美伊核谈判破裂导致外交渠道关闭",
+        "制裁缓和概率下降且地区摩擦风险上升",
+        "伊朗原油增量回归被推迟并抬升航运成本尾部风险",
+        "能源供给预期趋紧推动油价风险溢价上行"
+      ],
+      "chain_steps": [
+        {
+          "step_id": "M003-S1",
+          "index": 1,
+          "text": "美伊核谈判破裂导致外交渠道关闭"
+        },
+        {
+          "step_id": "M003-S2",
+          "index": 2,
+          "text": "制裁缓和概率下降且地区摩擦风险上升"
+        },
+        {
+          "step_id": "M003-S3",
+          "index": 3,
+          "text": "伊朗原油增量回归被推迟并抬升航运成本尾部风险"
+        },
+        {
+          "step_id": "M003-S4",
+          "index": 4,
+          "text": "能源供给预期趋紧推动油价风险溢价上行"
+        }
+      ],
+      "assets": [
+        "oil"
+      ],
+      "direction": "up"
+    },
+    {
+      "event_id": "E004",
+      "impact_id": "M004",
+      "type": "explicit",
+      "time_lag": "short",
+      "chain": [
+        "美以对伊朗的持续打击引发伊朗报复或代理力量在海上与能源设施周边加大行动",
+        "航运与保险成本上升且供应中断风险抬升",
+        "风险厌恶情绪扩散并推动原油风险溢价走阔",
+        "布伦特原油上行并伴随波动率抬升"
+      ],
+      "chain_steps": [
+        {
+          "step_id": "M004-S1",
+          "index": 1,
+          "text": "美以对伊朗的持续打击引发伊朗报复或代理力量在海上与能源设施周边加大行动"
+        },
+        {
+          "step_id": "M004-S2",
+          "index": 2,
+          "text": "航运与保险成本上升且供应中断风险抬升"
+        },
+        {
+          "step_id": "M004-S3",
+          "index": 3,
+          "text": "风险厌恶情绪扩散并推动原油风险溢价走阔"
+        },
+        {
+          "step_id": "M004-S4",
+          "index": 4,
+          "text": "布伦特原油上行并伴随波动率抬升"
+        }
+      ],
+      "assets": [
+        "oil"
+      ],
+      "direction": "volatile"
+    },
+    {
+      "event_id": "E005",
+      "impact_id": "M005",
+      "type": "explicit",
+      "time_lag": "short",
+      "chain": [
+        "伊朗最高决策与指挥体系短期震荡，继任不确定性与报复压力上升",
+        "地区冲突外溢风险上升",
+        "对霍尔木兹周边航运、保险与能源基础设施的供给担忧抬升，原油风险溢价上行",
+        "避险交易强化，原油价格上行"
+      ],
+      "chain_steps": [
+        {
+          "step_id": "M005-S1",
+          "index": 1,
+          "text": "伊朗最高决策与指挥体系短期震荡，继任不确定性与报复压力上升"
+        },
+        {
+          "step_id": "M005-S2",
+          "index": 2,
+          "text": "地区冲突外溢风险上升"
+        },
+        {
+          "step_id": "M005-S3",
+          "index": 3,
+          "text": "对霍尔木兹周边航运、保险与能源基础设施的供给担忧抬升，原油风险溢价上行"
+        },
+        {
+          "step_id": "M005-S4",
+          "index": 4,
+          "text": "避险交易强化，原油价格上行"
+        }
+      ],
+      "assets": [
+        "oil"
+      ],
+      "direction": "up"
+    },
+    {
+      "event_id": "E006",
+      "impact_id": "M006",
+      "type": "explicit",
+      "time_lag": "short",
+      "chain": [
+        "政治压力上升",
+        "报复与升级风险增加",
+        "霍尔木兹海峡周边供给与运输不确定性上升",
+        "风险溢价抬升并支撑原油价格"
+      ],
+      "chain_steps": [
+        {
+          "step_id": "M006-S1",
+          "index": 1,
+          "text": "政治压力上升"
+        },
+        {
+          "step_id": "M006-S2",
+          "index": 2,
+          "text": "报复与升级风险增加"
+        },
+        {
+          "step_id": "M006-S3",
+          "index": 3,
+          "text": "霍尔木兹海峡周边供给与运输不确定性上升"
+        },
+        {
+          "step_id": "M006-S4",
+          "index": 4,
+          "text": "风险溢价抬升并支撑原油价格"
+        }
+      ],
+      "assets": [
+        "oil",
+        "equity"
+      ],
+      "direction": "up"
+    },
+    {
+      "event_id": "E007",
+      "impact_id": "M007",
+      "type": "explicit",
+      "time_lag": "short",
+      "chain": [
+        "导弹击中美国第五舰队相关设施使地区军事风险上升",
+        "航运安全担忧加剧并推升保险费率与潜在绕行成本",
+        "对霍尔木兹周边供应中断的预期强化并抬升风险溢价",
+        "风险溢价上升推动油价上行"
+      ],
+      "chain_steps": [
+        {
+          "step_id": "M007-S1",
+          "index": 1,
+          "text": "导弹击中美国第五舰队相关设施使地区军事风险上升"
+        },
+        {
+          "step_id": "M007-S2",
+          "index": 2,
+          "text": "航运安全担忧加剧并推升保险费率与潜在绕行成本"
+        },
+        {
+          "step_id": "M007-S3",
+          "index": 3,
+          "text": "对霍尔木兹周边供应中断的预期强化并抬升风险溢价"
+        },
+        {
+          "step_id": "M007-S4",
+          "index": 4,
+          "text": "风险溢价上升推动油价上行"
+        }
+      ],
+      "assets": [
+        "oil"
+      ],
+      "direction": "up"
+    },
+    {
+      "event_id": "E008",
+      "impact_id": "M008",
+      "type": "explicit",
+      "time_lag": "short",
+      "chain": [
+        "伊朗打击阿里弗让营地与杰贝阿里港将事件风险推向关键节点受袭",
+        "海湾港口与美军物流枢纽安全受损并推升航运与保险成本",
+        "市场避险情绪抬头",
+        "原油风险溢价扩大并推升油价"
+      ],
+      "chain_steps": [
+        {
+          "step_id": "M008-S1",
+          "index": 1,
+          "text": "伊朗打击阿里弗让营地与杰贝阿里港将事件风险推向关键节点受袭"
+        },
+        {
+          "step_id": "M008-S2",
+          "index": 2,
+          "text": "海湾港口与美军物流枢纽安全受损并推升航运与保险成本"
+        },
+        {
+          "step_id": "M008-S3",
+          "index": 3,
+          "text": "市场避险情绪抬头"
+        },
+        {
+          "step_id": "M008-S4",
+          "index": 4,
+          "text": "原油风险溢价扩大并推升油价"
+        }
+      ],
+      "assets": [
+        "oil"
+      ],
+      "direction": "up"
+    },
+    {
+      "event_id": "E009",
+      "impact_id": "M009",
+      "type": "explicit",
+      "time_lag": "short",
+      "chain": [
+        "Skylight在阿曼海域遭致命袭击",
+        "海峡周边航运与保险风险上升",
+        "部分油轮改道、延误或减少进入高风险水域导致短期可用运力收紧并强化原油供应中断担忧",
+        "风险溢价上升推高原油期货与近月价差"
+      ],
+      "chain_steps": [
+        {
+          "step_id": "M009-S1",
+          "index": 1,
+          "text": "Skylight在阿曼海域遭致命袭击"
+        },
+        {
+          "step_id": "M009-S2",
+          "index": 2,
+          "text": "海峡周边航运与保险风险上升"
+        },
+        {
+          "step_id": "M009-S3",
+          "index": 3,
+          "text": "部分油轮改道、延误或减少进入高风险水域导致短期可用运力收紧并强化原油供应中断担忧"
+        },
+        {
+          "step_id": "M009-S4",
+          "index": 4,
+          "text": "风险溢价上升推高原油期货与近月价差"
+        }
+      ],
+      "assets": [
+        "oil"
+      ],
+      "direction": "up"
+    },
+    {
+      "event_id": "E010",
+      "impact_id": "M010",
+      "type": "explicit",
+      "time_lag": "short",
+      "chain": [
+        "阿联酋海域油轮遇袭事件升级",
+        "航运风险上升并推高保险与安保成本",
+        "区域成品油与船用燃料供给链收紧且油品现货溢价与运费走高",
+        "原油价格风险溢价上升并推动油价上涨"
+      ],
+      "chain_steps": [
+        {
+          "step_id": "M010-S1",
+          "index": 1,
+          "text": "阿联酋海域油轮遇袭事件升级"
+        },
+        {
+          "step_id": "M010-S2",
+          "index": 2,
+          "text": "航运风险上升并推高保险与安保成本"
+        },
+        {
+          "step_id": "M010-S3",
+          "index": 3,
+          "text": "区域成品油与船用燃料供给链收紧且油品现货溢价与运费走高"
+        },
+        {
+          "step_id": "M010-S4",
+          "index": 4,
+          "text": "原油价格风险溢价上升并推动油价上涨"
+        }
+      ],
+      "assets": [
+        "oil"
+      ],
+      "direction": "up"
+    },
+    {
+      "event_id": "E011",
+      "impact_id": "M011",
+      "type": "explicit",
+      "time_lag": "short",
+      "chain": [
+        "油轮遇袭并造成人员死亡被市场定价为海湾航道安全风险上升",
+        "航运公司提高警戒，部分船舶绕行或延迟进港，保险与战争险溢价上调",
+        "短期有效运力收缩，原油交付不确定性上升",
+        "原油现货升水与近月期货风险溢价扩大，油价上行"
+      ],
+      "chain_steps": [
+        {
+          "step_id": "M011-S1",
+          "index": 1,
+          "text": "油轮遇袭并造成人员死亡被市场定价为海湾航道安全风险上升"
+        },
+        {
+          "step_id": "M011-S2",
+          "index": 2,
+          "text": "航运公司提高警戒，部分船舶绕行或延迟进港，保险与战争险溢价上调"
+        },
+        {
+          "step_id": "M011-S3",
+          "index": 3,
+          "text": "短期有效运力收缩，原油交付不确定性上升"
+        },
+        {
+          "step_id": "M011-S4",
+          "index": 4,
+          "text": "原油现货升水与近月期货风险溢价扩大，油价上行"
+        }
+      ],
+      "assets": [
+        "oil"
+      ],
+      "direction": "up"
+    },
+    {
+      "event_id": "E012",
+      "impact_id": "M012",
+      "type": "explicit",
+      "time_lag": "short",
+      "chain": [
+        "空袭事件提升伊朗支持武装对美以与伊拉克境内目标报复风险",
+        "市场对伊拉克安全与潜在供应中断的担忧加剧",
+        "风险溢价上升且交易情绪转向防御",
+        "原油期货计入更高地缘溢价并走高"
+      ],
+      "chain_steps": [
+        {
+          "step_id": "M012-S1",
+          "index": 1,
+          "text": "空袭事件提升伊朗支持武装对美以与伊拉克境内目标报复风险"
+        },
+        {
+          "step_id": "M012-S2",
+          "index": 2,
+          "text": "市场对伊拉克安全与潜在供应中断的担忧加剧"
+        },
+        {
+          "step_id": "M012-S3",
+          "index": 3,
+          "text": "风险溢价上升且交易情绪转向防御"
+        },
+        {
+          "step_id": "M012-S4",
+          "index": 4,
+          "text": "原油期货计入更高地缘溢价并走高"
+        }
+      ],
+      "assets": [
+        "oil"
+      ],
+      "direction": "up"
+    },
+    {
+      "event_id": "E013",
+      "impact_id": "M013",
+      "type": "explicit",
+      "time_lag": "short",
+      "chain": [
+        "巴林港内美国旗油轮遭伊朗拦截导弹碎片击中起火事件引发关注",
+        "市场对海湾港口风险与航运保险成本上升的担忧加剧并放大升级与报复情绪",
+        "原油风险溢价在信息不确定期被抬升且近月合约与中东相关基准更敏感",
+        "油价在短期内呈上行定价"
+      ],
+      "chain_steps": [
+        {
+          "step_id": "M013-S1",
+          "index": 1,
+          "text": "巴林港内美国旗油轮遭伊朗拦截导弹碎片击中起火事件引发关注"
+        },
+        {
+          "step_id": "M013-S2",
+          "index": 2,
+          "text": "市场对海湾港口风险与航运保险成本上升的担忧加剧并放大升级与报复情绪"
+        },
+        {
+          "step_id": "M013-S3",
+          "index": 3,
+          "text": "原油风险溢价在信息不确定期被抬升且近月合约与中东相关基准更敏感"
+        },
+        {
+          "step_id": "M013-S4",
+          "index": 4,
+          "text": "油价在短期内呈上行定价"
+        }
+      ],
+      "assets": [
+        "oil"
+      ],
+      "direction": "up"
+    },
+    {
+      "event_id": "E014",
+      "impact_id": "M014",
+      "type": "explicit",
+      "time_lag": "short",
+      "chain": [
+        "霍尔木兹海峡封锁导致通行受阻",
+        "实物供应与运输能力收缩使海湾原油外运受限",
+        "风险溢价与恐慌情绪上升推高现货升水与近月溢价",
+        "资金涌入能源资产并推动油价在高波动中上行"
+      ],
+      "chain_steps": [
+        {
+          "step_id": "M014-S1",
+          "index": 1,
+          "text": "霍尔木兹海峡封锁导致通行受阻"
+        },
+        {
+          "step_id": "M014-S2",
+          "index": 2,
+          "text": "实物供应与运输能力收缩使海湾原油外运受限"
+        },
+        {
+          "step_id": "M014-S3",
+          "index": 3,
+          "text": "风险溢价与恐慌情绪上升推高现货升水与近月溢价"
+        },
+        {
+          "step_id": "M014-S4",
+          "index": 4,
+          "text": "资金涌入能源资产并推动油价在高波动中上行"
+        }
+      ],
+      "assets": [
+        "oil"
+      ],
+      "direction": "up"
+    },
+    {
+      "event_id": "E015",
+      "impact_id": "M015",
+      "type": "explicit",
+      "time_lag": "short",
+      "chain": [
+        "美以空袭纳坦兹引发军事升级",
+        "伊朗报复与海湾航运受扰风险上升",
+        "原油供应中断概率与风险溢价抬升",
+        "油价上行并压制风险资产"
+      ],
+      "chain_steps": [
+        {
+          "step_id": "M015-S1",
+          "index": 1,
+          "text": "美以空袭纳坦兹引发军事升级"
+        },
+        {
+          "step_id": "M015-S2",
+          "index": 2,
+          "text": "伊朗报复与海湾航运受扰风险上升"
+        },
+        {
+          "step_id": "M015-S3",
+          "index": 3,
+          "text": "原油供应中断概率与风险溢价抬升"
+        },
+        {
+          "step_id": "M015-S4",
+          "index": 4,
+          "text": "油价上行并压制风险资产"
+        }
+      ],
+      "assets": [
+        "oil",
+        "equity"
+      ],
+      "direction": "up"
+    },
+    {
+      "event_id": "E016",
+      "impact_id": "M016",
+      "type": "explicit",
+      "time_lag": "short",
+      "chain": [
+        "海军护航并提供官方政治风险保险背书",
+        "油轮遭袭与无法投保的尾部风险下降、供应链可预期性上升",
+        "原油风险溢价与即期运费上行压力缓和",
+        "油价回吐部分地缘溢价并转为区间震荡"
+      ],
+      "chain_steps": [
+        {
+          "step_id": "M016-S1",
+          "index": 1,
+          "text": "海军护航并提供官方政治风险保险背书"
+        },
+        {
+          "step_id": "M016-S2",
+          "index": 2,
+          "text": "油轮遭袭与无法投保的尾部风险下降、供应链可预期性上升"
+        },
+        {
+          "step_id": "M016-S3",
+          "index": 3,
+          "text": "原油风险溢价与即期运费上行压力缓和"
+        },
+        {
+          "step_id": "M016-S4",
+          "index": 4,
+          "text": "油价回吐部分地缘溢价并转为区间震荡"
+        }
+      ],
+      "assets": [
+        "oil"
+      ],
+      "direction": "down"
+    },
+    {
+      "event_id": "E017",
+      "impact_id": "M017",
+      "type": "explicit",
+      "time_lag": "short",
+      "chain": [
+        "富查伊拉近海遭袭事件被市场解读为霍尔木兹周边海上风险上升并外溢至关键补给港",
+        "航运公司提高警戒，保险费率与绕行概率上升",
+        "交付不确定性与风险溢价上升并加剧投资者避险情绪",
+        "短期内原油地缘溢价抬升，黄金在避险买盘支撑下走强"
+      ],
+      "chain_steps": [
+        {
+          "step_id": "M017-S1",
+          "index": 1,
+          "text": "富查伊拉近海遭袭事件被市场解读为霍尔木兹周边海上风险上升并外溢至关键补给港"
+        },
+        {
+          "step_id": "M017-S2",
+          "index": 2,
+          "text": "航运公司提高警戒，保险费率与绕行概率上升"
+        },
+        {
+          "step_id": "M017-S3",
+          "index": 3,
+          "text": "交付不确定性与风险溢价上升并加剧投资者避险情绪"
+        },
+        {
+          "step_id": "M017-S4",
+          "index": 4,
+          "text": "短期内原油地缘溢价抬升，黄金在避险买盘支撑下走强"
+        }
+      ],
+      "assets": [
+        "oil",
+        "gold"
+      ],
+      "direction": "up"
+    },
+    {
+      "event_id": "E018",
+      "impact_id": "M018",
+      "type": "explicit",
+      "time_lag": "short",
+      "chain": [
+        "Safeen Prestige在霍尔木兹海峡遇袭并弃船导致事件升级",
+        "航运风险与保险成本上升并引发部分船舶延迟或绕行",
+        "短期供应链与能源运输不确定性上升推动市场避险情绪走强",
+        "油价风险溢价抬升并带动黄金走强"
+      ],
+      "chain_steps": [
+        {
+          "step_id": "M018-S1",
+          "index": 1,
+          "text": "Safeen Prestige在霍尔木兹海峡遇袭并弃船导致事件升级"
+        },
+        {
+          "step_id": "M018-S2",
+          "index": 2,
+          "text": "航运风险与保险成本上升并引发部分船舶延迟或绕行"
+        },
+        {
+          "step_id": "M018-S3",
+          "index": 3,
+          "text": "短期供应链与能源运输不确定性上升推动市场避险情绪走强"
+        },
+        {
+          "step_id": "M018-S4",
+          "index": 4,
+          "text": "油价风险溢价抬升并带动黄金走强"
+        }
+      ],
+      "assets": [
+        "oil",
+        "gold"
+      ],
+      "direction": "up"
+    },
+    {
+      "event_id": "E019",
+      "impact_id": "M019",
+      "type": "explicit",
+      "time_lag": "short",
+      "chain": [
+        "伊朗将事件界定为蓄意袭击并实施报复",
+        "海上安全风险上升，航运保险与绕航成本抬升",
+        "市场对印度洋及周边能源运输中断的担忧加剧，风险情绪转向谨慎",
+        "原油因地缘溢价上行"
+      ],
+      "chain_steps": [
+        {
+          "step_id": "M019-S1",
+          "index": 1,
+          "text": "伊朗将事件界定为蓄意袭击并实施报复"
+        },
+        {
+          "step_id": "M019-S2",
+          "index": 2,
+          "text": "海上安全风险上升，航运保险与绕航成本抬升"
+        },
+        {
+          "step_id": "M019-S3",
+          "index": 3,
+          "text": "市场对印度洋及周边能源运输中断的担忧加剧，风险情绪转向谨慎"
+        },
+        {
+          "step_id": "M019-S4",
+          "index": 4,
+          "text": "原油因地缘溢价上行"
+        }
+      ],
+      "assets": [
+        "oil"
+      ],
+      "direction": "up"
+    },
+    {
+      "event_id": "E020",
+      "impact_id": "M020",
+      "type": "explicit",
+      "time_lag": "short",
+      "chain": [
+        "祖拜尔港外油轮遭无人水面艇撞击事件抬升伊拉克南部锚地与近岸航道安全风险评估",
+        "战争险保费上升、船舶等待时间延长、改道概率提高",
+        "短期有效供给与交付节奏受扰并强化“海上能源通道脆弱性”风险溢价",
+        "近月原油期货与相关裂解价差走强"
+      ],
+      "chain_steps": [
+        {
+          "step_id": "M020-S1",
+          "index": 1,
+          "text": "祖拜尔港外油轮遭无人水面艇撞击事件抬升伊拉克南部锚地与近岸航道安全风险评估"
+        },
+        {
+          "step_id": "M020-S2",
+          "index": 2,
+          "text": "战争险保费上升、船舶等待时间延长、改道概率提高"
+        },
+        {
+          "step_id": "M020-S3",
+          "index": 3,
+          "text": "短期有效供给与交付节奏受扰并强化“海上能源通道脆弱性”风险溢价"
+        },
+        {
+          "step_id": "M020-S4",
+          "index": 4,
+          "text": "近月原油期货与相关裂解价差走强"
+        }
+      ],
+      "assets": [
+        "oil"
+      ],
+      "direction": "up"
+    },
+    {
+      "event_id": "E021",
+      "impact_id": "M021",
+      "type": "explicit",
+      "time_lag": "short",
+      "chain": [
+        "美以对德黑兰核心城区打击强度上升",
+        "伊朗报复与误判风险增加并推升地区安全供给不确定性",
+        "投资者情绪转向避险且航运与保险成本上行",
+        "原油风险溢价抬升并压制全球股指风险偏好"
+      ],
+      "chain_steps": [
+        {
+          "step_id": "M021-S1",
+          "index": 1,
+          "text": "美以对德黑兰核心城区打击强度上升"
+        },
+        {
+          "step_id": "M021-S2",
+          "index": 2,
+          "text": "伊朗报复与误判风险增加并推升地区安全供给不确定性"
+        },
+        {
+          "step_id": "M021-S3",
+          "index": 3,
+          "text": "投资者情绪转向避险且航运与保险成本上行"
+        },
+        {
+          "step_id": "M021-S4",
+          "index": 4,
+          "text": "原油风险溢价抬升并压制全球股指风险偏好"
+        }
+      ],
+      "assets": [
+        "oil",
+        "equity"
+      ],
+      "direction": "up"
+    },
+    {
+      "event_id": "E022",
+      "impact_id": "M022",
+      "type": "explicit",
+      "time_lag": "short",
+      "chain": [
+        "冲突升级",
+        "救援与通行风险上升",
+        "航运与保险成本抬升、部分船舶绕行或延迟装运",
+        "市场担忧原油与成品油供应链受扰并计入风险溢价"
+      ],
+      "chain_steps": [
+        {
+          "step_id": "M022-S1",
+          "index": 1,
+          "text": "冲突升级"
+        },
+        {
+          "step_id": "M022-S2",
+          "index": 2,
+          "text": "救援与通行风险上升"
+        },
+        {
+          "step_id": "M022-S3",
+          "index": 3,
+          "text": "航运与保险成本抬升、部分船舶绕行或延迟装运"
+        },
+        {
+          "step_id": "M022-S4",
+          "index": 4,
+          "text": "市场担忧原油与成品油供应链受扰并计入风险溢价"
+        }
+      ],
+      "assets": [
+        "oil",
+        "gold"
+      ],
+      "direction": "up"
+    },
+    {
+      "event_id": "E023",
+      "impact_id": "M023",
+      "type": "explicit",
+      "time_lag": "short",
+      "chain": [
+        "伊朗迅速任命莫吉塔巴·哈梅内伊并强化战时集中决策",
+        "市场重新评估报复行动与海湾航运中断风险并上调对原油出口与保险成本的供给冲击预期",
+        "风险情绪转向防御并推动原油风险溢价上行",
+        "原油价格上行"
+      ],
+      "chain_steps": [
+        {
+          "step_id": "M023-S1",
+          "index": 1,
+          "text": "伊朗迅速任命莫吉塔巴·哈梅内伊并强化战时集中决策"
+        },
+        {
+          "step_id": "M023-S2",
+          "index": 2,
+          "text": "市场重新评估报复行动与海湾航运中断风险并上调对原油出口与保险成本的供给冲击预期"
+        },
+        {
+          "step_id": "M023-S3",
+          "index": 3,
+          "text": "风险情绪转向防御并推动原油风险溢价上行"
+        },
+        {
+          "step_id": "M023-S4",
+          "index": 4,
+          "text": "原油价格上行"
+        }
+      ],
+      "assets": [
+        "oil"
+      ],
+      "direction": "up"
+    },
+    {
+      "event_id": "E024",
+      "impact_id": "M024",
+      "type": "explicit",
+      "time_lag": "short",
+      "chain": [
+        "市场对霍尔木兹海峡周边通行受限与误判升级的担忧上升",
+        "航运保险与运费走高，部分油轮与商船绕行或减速等待",
+        "短期供给与交付节奏不确定性上升",
+        "原油风险溢价抬升推动原油价格上行"
+      ],
+      "chain_steps": [
+        {
+          "step_id": "M024-S1",
+          "index": 1,
+          "text": "市场对霍尔木兹海峡周边通行受限与误判升级的担忧上升"
+        },
+        {
+          "step_id": "M024-S2",
+          "index": 2,
+          "text": "航运保险与运费走高，部分油轮与商船绕行或减速等待"
+        },
+        {
+          "step_id": "M024-S3",
+          "index": 3,
+          "text": "短期供给与交付节奏不确定性上升"
+        },
+        {
+          "step_id": "M024-S4",
+          "index": 4,
+          "text": "原油风险溢价抬升推动原油价格上行"
+        }
+      ],
+      "assets": [
+        "oil"
+      ],
+      "direction": "up"
+    },
+    {
+      "event_id": "E025",
+      "impact_id": "M025",
+      "type": "explicit",
+      "time_lag": "short",
+      "chain": [
+        "美以提交第51条信函将对伊朗空袭推向可持续冲突框架的法律与外交对抗",
+        "市场上调对冲突延宕与报复升级的风险评估并加深对中东供应链与航运保险成本的担忧",
+        "风险情绪转弱导致资金流向避险资产并压制风险资产估值",
+        "原油风险溢价抬升且全球股指面临更明显的风险溢价扩张"
+      ],
+      "chain_steps": [
+        {
+          "step_id": "M025-S1",
+          "index": 1,
+          "text": "美以提交第51条信函将对伊朗空袭推向可持续冲突框架的法律与外交对抗"
+        },
+        {
+          "step_id": "M025-S2",
+          "index": 2,
+          "text": "市场上调对冲突延宕与报复升级的风险评估并加深对中东供应链与航运保险成本的担忧"
+        },
+        {
+          "step_id": "M025-S3",
+          "index": 3,
+          "text": "风险情绪转弱导致资金流向避险资产并压制风险资产估值"
+        },
+        {
+          "step_id": "M025-S4",
+          "index": 4,
+          "text": "原油风险溢价抬升且全球股指面临更明显的风险溢价扩张"
+        }
+      ],
+      "assets": [
+        "oil",
+        "equity"
+      ],
+      "direction": "volatile"
+    },
+    {
+      "event_id": "E026",
+      "impact_id": "M026",
+      "type": "explicit",
+      "time_lag": "short",
+      "chain": [
+        "迪拜近海集装箱船遭抛射物击中强化市场对海湾航道安全恶化的认知",
+        "航运保险与运费上行并出现潜在绕航与延误的供给侧摩擦",
+        "地缘不确定性情绪上升触发风险偏好下降与避险需求上升",
+        "资金流向黄金与美元等防御资产并对相关股票板块形成压力"
+      ],
+      "chain_steps": [
+        {
+          "step_id": "M026-S1",
+          "index": 1,
+          "text": "迪拜近海集装箱船遭抛射物击中强化市场对海湾航道安全恶化的认知"
+        },
+        {
+          "step_id": "M026-S2",
+          "index": 2,
+          "text": "航运保险与运费上行并出现潜在绕航与延误的供给侧摩擦"
+        },
+        {
+          "step_id": "M026-S3",
+          "index": 3,
+          "text": "地缘不确定性情绪上升触发风险偏好下降与避险需求上升"
+        },
+        {
+          "step_id": "M026-S4",
+          "index": 4,
+          "text": "资金流向黄金与美元等防御资产并对相关股票板块形成压力"
+        }
+      ],
+      "assets": [
+        "gold",
+        "usd"
+      ],
+      "direction": "up"
+    },
+    {
+      "event_id": "E027",
+      "impact_id": "M027",
+      "type": "explicit",
+      "time_lag": "short",
+      "chain": [
+        "波斯湾近距离对抗从警告驱离升级为实弹交火",
+        "市场上调霍尔木兹周边供应中断与航运受阻的风险溢价",
+        "交易情绪转向避险并推动海运与炼化链条风险对冲需求增加",
+        "原油期货跳涨并带动期限结构走强"
+      ],
+      "chain_steps": [
+        {
+          "step_id": "M027-S1",
+          "index": 1,
+          "text": "波斯湾近距离对抗从警告驱离升级为实弹交火"
+        },
+        {
+          "step_id": "M027-S2",
+          "index": 2,
+          "text": "市场上调霍尔木兹周边供应中断与航运受阻的风险溢价"
+        },
+        {
+          "step_id": "M027-S3",
+          "index": 3,
+          "text": "交易情绪转向避险并推动海运与炼化链条风险对冲需求增加"
+        },
+        {
+          "step_id": "M027-S4",
+          "index": 4,
+          "text": "原油期货跳涨并带动期限结构走强"
+        }
+      ],
+      "assets": [
+        "oil"
+      ],
+      "direction": "up"
+    },
+    {
+      "event_id": "E028",
+      "impact_id": "M028",
+      "type": "explicit",
+      "time_lag": "short",
+      "chain": [
+        "武装组织宣称击落美军KC-135高价值支援平台",
+        "市场上调对美军报复与地区升级的风险预期并强化对空域安全与能源运输脆弱性的担忧",
+        "风险溢价与避险情绪上升，资金流向避险资产",
+        "黄金与美元走强"
+      ],
+      "chain_steps": [
+        {
+          "step_id": "M028-S1",
+          "index": 1,
+          "text": "武装组织宣称击落美军KC-135高价值支援平台"
+        },
+        {
+          "step_id": "M028-S2",
+          "index": 2,
+          "text": "市场上调对美军报复与地区升级的风险预期并强化对空域安全与能源运输脆弱性的担忧"
+        },
+        {
+          "step_id": "M028-S3",
+          "index": 3,
+          "text": "风险溢价与避险情绪上升，资金流向避险资产"
+        },
+        {
+          "step_id": "M028-S4",
+          "index": 4,
+          "text": "黄金与美元走强"
+        }
+      ],
+      "assets": [
+        "gold",
+        "usd"
+      ],
+      "direction": "up"
+    },
+    {
+      "event_id": "E029",
+      "impact_id": "M029",
+      "type": "explicit",
+      "time_lag": "short",
+      "chain": [
+        "美军空袭哈尔克岛军事基础设施提高伊朗报复与海上冲突升级风险",
+        "霍尔木兹海峡地缘风险溢价与航运保险成本上升",
+        "市场对原油供应中断的担忧上升并带动避险情绪",
+        "原油价格上行"
+      ],
+      "chain_steps": [
+        {
+          "step_id": "M029-S1",
+          "index": 1,
+          "text": "美军空袭哈尔克岛军事基础设施提高伊朗报复与海上冲突升级风险"
+        },
+        {
+          "step_id": "M029-S2",
+          "index": 2,
+          "text": "霍尔木兹海峡地缘风险溢价与航运保险成本上升"
+        },
+        {
+          "step_id": "M029-S3",
+          "index": 3,
+          "text": "市场对原油供应中断的担忧上升并带动避险情绪"
+        },
+        {
+          "step_id": "M029-S4",
+          "index": 4,
+          "text": "原油价格上行"
+        }
+      ],
+      "assets": [
+        "oil"
+      ],
+      "direction": "up"
+    },
+    {
+      "event_id": "E030",
+      "impact_id": "M030",
+      "type": "explicit",
+      "time_lag": "short",
+      "chain": [
+        "南帕尔斯设施遭袭导致部分产能停摆并提高后续再度打击概率",
+        "中东能源基础设施供给与安全风险上升",
+        "市场上调地缘风险溢价并推升避险情绪",
+        "风险偏好下降使股市承压"
+      ],
+      "chain_steps": [
+        {
+          "step_id": "M030-S1",
+          "index": 1,
+          "text": "南帕尔斯设施遭袭导致部分产能停摆并提高后续再度打击概率"
+        },
+        {
+          "step_id": "M030-S2",
+          "index": 2,
+          "text": "中东能源基础设施供给与安全风险上升"
+        },
+        {
+          "step_id": "M030-S3",
+          "index": 3,
+          "text": "市场上调地缘风险溢价并推升避险情绪"
+        },
+        {
+          "step_id": "M030-S4",
+          "index": 4,
+          "text": "风险偏好下降使股市承压"
+        }
+      ],
+      "assets": [
+        "equity"
+      ],
+      "direction": "down"
+    },
+    {
+      "event_id": "E031",
+      "impact_id": "M031",
+      "type": "explicit",
+      "time_lag": "short",
+      "chain": [
+        "拉斯拉凡液化设施受损导致LNG可交付供给收紧17%",
+        "海湾能源设施安全风险上升推高航运与保险成本并恶化市场情绪",
+        "买家提前锁定货源与对冲推动近月天然气与LNG相关价格曲线上移、气价波动率上升",
+        "能源密集型行业与相关股指承压，整体风险偏好转向谨慎"
+      ],
+      "chain_steps": [
+        {
+          "step_id": "M031-S1",
+          "index": 1,
+          "text": "拉斯拉凡液化设施受损导致LNG可交付供给收紧17%"
+        },
+        {
+          "step_id": "M031-S2",
+          "index": 2,
+          "text": "海湾能源设施安全风险上升推高航运与保险成本并恶化市场情绪"
+        },
+        {
+          "step_id": "M031-S3",
+          "index": 3,
+          "text": "买家提前锁定货源与对冲推动近月天然气与LNG相关价格曲线上移、气价波动率上升"
+        },
+        {
+          "step_id": "M031-S4",
+          "index": 4,
+          "text": "能源密集型行业与相关股指承压，整体风险偏好转向谨慎"
+        }
+      ],
+      "assets": [
+        "equity"
+      ],
+      "direction": "down"
+    },
+    {
+      "event_id": "E032",
+      "impact_id": "M032",
+      "type": "explicit",
+      "time_lag": "short",
+      "chain": [
+        "冲突升级预期上升",
+        "航运与军事设施风险上升",
+        "风险偏好下降与避险情绪升温",
+        "风险资产承压且波动率抬升，避险资产受益"
+      ],
+      "chain_steps": [
+        {
+          "step_id": "M032-S1",
+          "index": 1,
+          "text": "冲突升级预期上升"
+        },
+        {
+          "step_id": "M032-S2",
+          "index": 2,
+          "text": "航运与军事设施风险上升"
+        },
+        {
+          "step_id": "M032-S3",
+          "index": 3,
+          "text": "风险偏好下降与避险情绪升温"
+        },
+        {
+          "step_id": "M032-S4",
+          "index": 4,
+          "text": "风险资产承压且波动率抬升，避险资产受益"
+        }
+      ],
+      "assets": [
+        "equity",
+        "gold"
+      ],
+      "direction": "down"
+    },
+    {
+      "event_id": "E033",
+      "impact_id": "M033",
+      "type": "explicit",
+      "time_lag": "short",
+      "chain": [
+        "胡塞以弹道导弹与巡航导弹群打击以色列南部",
+        "投资者上调对红海航运中断与冲突外溢的地缘风险预期",
+        "风险溢价上升并压制全球股市风险偏好、带动避险需求",
+        "油价短线上行且权益市场回撤"
+      ],
+      "chain_steps": [
+        {
+          "step_id": "M033-S1",
+          "index": 1,
+          "text": "胡塞以弹道导弹与巡航导弹群打击以色列南部"
+        },
+        {
+          "step_id": "M033-S2",
+          "index": 2,
+          "text": "投资者上调对红海航运中断与冲突外溢的地缘风险预期"
+        },
+        {
+          "step_id": "M033-S3",
+          "index": 3,
+          "text": "风险溢价上升并压制全球股市风险偏好、带动避险需求"
+        },
+        {
+          "step_id": "M033-S4",
+          "index": 4,
+          "text": "油价短线上行且权益市场回撤"
+        }
+      ],
+      "assets": [
+        "oil",
+        "equity"
+      ],
+      "direction": "volatile"
+    },
+    {
+      "event_id": "E034",
+      "impact_id": "M034",
+      "type": "explicit",
+      "time_lag": "short",
+      "chain": [
+        "伊朗展示穿透区域防空并打击高价值美军平台的能力",
+        "地区冲突升级与误判风险上升，海湾与红海周边安全供给受扰预期增强",
+        "投资者情绪转向防御，能源运输与产供担忧推升油价风险溢价",
+        "油价上行"
+      ],
+      "chain_steps": [
+        {
+          "step_id": "M034-S1",
+          "index": 1,
+          "text": "伊朗展示穿透区域防空并打击高价值美军平台的能力"
+        },
+        {
+          "step_id": "M034-S2",
+          "index": 2,
+          "text": "地区冲突升级与误判风险上升，海湾与红海周边安全供给受扰预期增强"
+        },
+        {
+          "step_id": "M034-S3",
+          "index": 3,
+          "text": "投资者情绪转向防御，能源运输与产供担忧推升油价风险溢价"
+        },
+        {
+          "step_id": "M034-S4",
+          "index": 4,
+          "text": "油价上行"
+        }
+      ],
+      "assets": [
+        "oil"
+      ],
+      "direction": "up"
+    },
+    {
+      "event_id": "E035",
+      "impact_id": "M035",
+      "type": "explicit",
+      "time_lag": "short",
+      "chain": [
+        "迪拜核心港口内发生油轮无人机袭击",
+        "市场对海湾港口与油轮靠泊安全担忧上升，保险费率与绕航意愿增加",
+        "潜在供给中断风险上升，原油风险溢价走阔且近月合约走强",
+        "原油价格上行"
+      ],
+      "chain_steps": [
+        {
+          "step_id": "M035-S1",
+          "index": 1,
+          "text": "迪拜核心港口内发生油轮无人机袭击"
+        },
+        {
+          "step_id": "M035-S2",
+          "index": 2,
+          "text": "市场对海湾港口与油轮靠泊安全担忧上升，保险费率与绕航意愿增加"
+        },
+        {
+          "step_id": "M035-S3",
+          "index": 3,
+          "text": "潜在供给中断风险上升，原油风险溢价走阔且近月合约走强"
+        },
+        {
+          "step_id": "M035-S4",
+          "index": 4,
+          "text": "原油价格上行"
+        }
+      ],
+      "assets": [
+        "oil"
+      ],
+      "direction": "up"
+    },
+    {
+      "event_id": "E036",
+      "impact_id": "M036",
+      "type": "explicit",
+      "time_lag": "short",
+      "chain": [
+        "Aqua 1号遇袭起火被市场视为海上袭击升级信号",
+        "航运与保险风险上升且部分运力趋于谨慎",
+        "现货供应预期收紧并带动风险溢价抬升",
+        "原油价格短期上行"
+      ],
+      "chain_steps": [
+        {
+          "step_id": "M036-S1",
+          "index": 1,
+          "text": "Aqua 1号遇袭起火被市场视为海上袭击升级信号"
+        },
+        {
+          "step_id": "M036-S2",
+          "index": 2,
+          "text": "航运与保险风险上升且部分运力趋于谨慎"
+        },
+        {
+          "step_id": "M036-S3",
+          "index": 3,
+          "text": "现货供应预期收紧并带动风险溢价抬升"
+        },
+        {
+          "step_id": "M036-S4",
+          "index": 4,
+          "text": "原油价格短期上行"
+        }
+      ],
+      "assets": [
+        "oil"
+      ],
+      "direction": "up"
+    },
+    {
+      "event_id": "E037",
+      "impact_id": "M037",
+      "type": "explicit",
+      "time_lag": "short",
+      "chain": [
+        "美伊接受巴基斯坦斡旋的两周停火降低短期军事升级概率",
+        "冲突降温压缩原油地缘风险溢价并缓解供应与航运中断担忧",
+        "市场情绪从防御转向观望偏积极",
+        "油价阶段性回落或高位震荡"
+      ],
+      "chain_steps": [
+        {
+          "step_id": "M037-S1",
+          "index": 1,
+          "text": "美伊接受巴基斯坦斡旋的两周停火降低短期军事升级概率"
+        },
+        {
+          "step_id": "M037-S2",
+          "index": 2,
+          "text": "冲突降温压缩原油地缘风险溢价并缓解供应与航运中断担忧"
+        },
+        {
+          "step_id": "M037-S3",
+          "index": 3,
+          "text": "市场情绪从防御转向观望偏积极"
+        },
+        {
+          "step_id": "M037-S4",
+          "index": 4,
+          "text": "油价阶段性回落或高位震荡"
+        }
+      ],
+      "assets": [
+        "oil"
+      ],
+      "direction": "down"
+    },
+    {
+      "event_id": "E038",
+      "impact_id": "M038",
+      "type": "explicit",
+      "time_lag": "short",
+      "chain": [
+        "美伊谈判破裂引发外交降温",
+        "制裁与对抗预期上升",
+        "海湾航运与供应中断风险溢价抬升",
+        "原油因地缘风险溢价走高"
+      ],
+      "chain_steps": [
+        {
+          "step_id": "M038-S1",
+          "index": 1,
+          "text": "美伊谈判破裂引发外交降温"
+        },
+        {
+          "step_id": "M038-S2",
+          "index": 2,
+          "text": "制裁与对抗预期上升"
+        },
+        {
+          "step_id": "M038-S3",
+          "index": 3,
+          "text": "海湾航运与供应中断风险溢价抬升"
+        },
+        {
+          "step_id": "M038-S4",
+          "index": 4,
+          "text": "原油因地缘风险溢价走高"
+        }
+      ],
+      "assets": [
+        "oil"
+      ],
+      "direction": "up"
+    },
+    {
+      "event_id": "E039",
+      "impact_id": "M039",
+      "type": "explicit",
+      "time_lag": "short",
+      "chain": [
+        "“反向封锁”预期继续发酵并披露更多执行细节",
+        "中东航运与保险成本上升，现货供应与库存补充担忧加剧",
+        "风险溢价上升、避险情绪增强，原油远近月结构更趋紧",
+        "油价在高位维持并再度上冲"
+      ],
+      "chain_steps": [
+        {
+          "step_id": "M039-S1",
+          "index": 1,
+          "text": "“反向封锁”预期继续发酵并披露更多执行细节"
+        },
+        {
+          "step_id": "M039-S2",
+          "index": 2,
+          "text": "中东航运与保险成本上升，现货供应与库存补充担忧加剧"
+        },
+        {
+          "step_id": "M039-S3",
+          "index": 3,
+          "text": "风险溢价上升、避险情绪增强，原油远近月结构更趋紧"
+        },
+        {
+          "step_id": "M039-S4",
+          "index": 4,
+          "text": "油价在高位维持并再度上冲"
+        }
+      ],
+      "assets": [
+        "oil"
+      ],
+      "direction": "up"
+    },
+    {
+      "event_id": "E040",
+      "impact_id": "M040",
+      "type": "explicit",
+      "time_lag": "short",
+      "chain": [
+        "海上封锁与登检扣押授权提高霍尔木兹周边通行不确定性与合规成本",
+        "航运供给收缩预期强化，保险与运费上升并伴随交付延迟风险预期",
+        "能源相关风险溢价上升并压制全球风险偏好",
+        "避险情绪升温导致股市承压"
+      ],
+      "chain_steps": [
+        {
+          "step_id": "M040-S1",
+          "index": 1,
+          "text": "海上封锁与登检扣押授权提高霍尔木兹周边通行不确定性与合规成本"
+        },
+        {
+          "step_id": "M040-S2",
+          "index": 2,
+          "text": "航运供给收缩预期强化，保险与运费上升并伴随交付延迟风险预期"
+        },
+        {
+          "step_id": "M040-S3",
+          "index": 3,
+          "text": "能源相关风险溢价上升并压制全球风险偏好"
+        },
+        {
+          "step_id": "M040-S4",
+          "index": 4,
+          "text": "避险情绪升温导致股市承压"
+        }
+      ],
+      "assets": [
+        "equity",
+        "oil"
+      ],
+      "direction": "down"
+    }
+  ],
+  "links": [
+    {
+      "source": "E001",
+      "target": "N001-1",
+      "kind": "event_to_narrative"
+    },
+    {
+      "source": "E001",
+      "target": "N001-2",
+      "kind": "event_to_narrative"
+    },
+    {
+      "source": "E001",
+      "target": "N001-3",
+      "kind": "event_to_narrative"
+    },
+    {
+      "source": "E002",
+      "target": "N002-1",
+      "kind": "event_to_narrative"
+    },
+    {
+      "source": "E002",
+      "target": "N002-2",
+      "kind": "event_to_narrative"
+    },
+    {
+      "source": "E002",
+      "target": "N002-3",
+      "kind": "event_to_narrative"
+    },
+    {
+      "source": "E003",
+      "target": "NE003-1",
+      "kind": "event_to_narrative"
+    },
+    {
+      "source": "E003",
+      "target": "NE003-2",
+      "kind": "event_to_narrative"
+    },
+    {
+      "source": "E003",
+      "target": "NE003-3",
+      "kind": "event_to_narrative"
+    },
+    {
+      "source": "E004",
+      "target": "N004-1",
+      "kind": "event_to_narrative"
+    },
+    {
+      "source": "E004",
+      "target": "N004-2",
+      "kind": "event_to_narrative"
+    },
+    {
+      "source": "E004",
+      "target": "N004-3",
+      "kind": "event_to_narrative"
+    },
+    {
+      "source": "E005",
+      "target": "N005-1",
+      "kind": "event_to_narrative"
+    },
+    {
+      "source": "E005",
+      "target": "N005-2",
+      "kind": "event_to_narrative"
+    },
+    {
+      "source": "E005",
+      "target": "N005-3",
+      "kind": "event_to_narrative"
+    },
+    {
+      "source": "E006",
+      "target": "NE006-1",
+      "kind": "event_to_narrative"
+    },
+    {
+      "source": "E006",
+      "target": "NE006-2",
+      "kind": "event_to_narrative"
+    },
+    {
+      "source": "E006",
+      "target": "NE006-3",
+      "kind": "event_to_narrative"
+    },
+    {
+      "source": "E007",
+      "target": "N007-1",
+      "kind": "event_to_narrative"
+    },
+    {
+      "source": "E007",
+      "target": "N007-2",
+      "kind": "event_to_narrative"
+    },
+    {
+      "source": "E007",
+      "target": "N007-3",
+      "kind": "event_to_narrative"
+    },
+    {
+      "source": "E008",
+      "target": "N008-1",
+      "kind": "event_to_narrative"
+    },
+    {
+      "source": "E008",
+      "target": "N008-2",
+      "kind": "event_to_narrative"
+    },
+    {
+      "source": "E008",
+      "target": "N008-3",
+      "kind": "event_to_narrative"
+    },
+    {
+      "source": "E009",
+      "target": "N009-1",
+      "kind": "event_to_narrative"
+    },
+    {
+      "source": "E009",
+      "target": "N009-2",
+      "kind": "event_to_narrative"
+    },
+    {
+      "source": "E009",
+      "target": "N009-3",
+      "kind": "event_to_narrative"
+    },
+    {
+      "source": "E010",
+      "target": "NE010-1",
+      "kind": "event_to_narrative"
+    },
+    {
+      "source": "E010",
+      "target": "NE010-2",
+      "kind": "event_to_narrative"
+    },
+    {
+      "source": "E010",
+      "target": "NE010-3",
+      "kind": "event_to_narrative"
+    },
+    {
+      "source": "E011",
+      "target": "N011-1",
+      "kind": "event_to_narrative"
+    },
+    {
+      "source": "E011",
+      "target": "N011-2",
+      "kind": "event_to_narrative"
+    },
+    {
+      "source": "E011",
+      "target": "N011-3",
+      "kind": "event_to_narrative"
+    },
+    {
+      "source": "E012",
+      "target": "N012-1",
+      "kind": "event_to_narrative"
+    },
+    {
+      "source": "E012",
+      "target": "N012-2",
+      "kind": "event_to_narrative"
+    },
+    {
+      "source": "E012",
+      "target": "N012-3",
+      "kind": "event_to_narrative"
+    },
+    {
+      "source": "E013",
+      "target": "NE013-1",
+      "kind": "event_to_narrative"
+    },
+    {
+      "source": "E013",
+      "target": "NE013-2",
+      "kind": "event_to_narrative"
+    },
+    {
+      "source": "E013",
+      "target": "NE013-3",
+      "kind": "event_to_narrative"
+    },
+    {
+      "source": "E014",
+      "target": "N014-1",
+      "kind": "event_to_narrative"
+    },
+    {
+      "source": "E014",
+      "target": "N014-2",
+      "kind": "event_to_narrative"
+    },
+    {
+      "source": "E014",
+      "target": "N014-3",
+      "kind": "event_to_narrative"
+    },
+    {
+      "source": "E015",
+      "target": "N015-1",
+      "kind": "event_to_narrative"
+    },
+    {
+      "source": "E015",
+      "target": "N015-2",
+      "kind": "event_to_narrative"
+    },
+    {
+      "source": "E015",
+      "target": "N015-3",
+      "kind": "event_to_narrative"
+    },
+    {
+      "source": "E016",
+      "target": "N016-1",
+      "kind": "event_to_narrative"
+    },
+    {
+      "source": "E016",
+      "target": "N016-2",
+      "kind": "event_to_narrative"
+    },
+    {
+      "source": "E016",
+      "target": "N016-3",
+      "kind": "event_to_narrative"
+    },
+    {
+      "source": "E017",
+      "target": "N017-1",
+      "kind": "event_to_narrative"
+    },
+    {
+      "source": "E017",
+      "target": "N017-2",
+      "kind": "event_to_narrative"
+    },
+    {
+      "source": "E017",
+      "target": "N017-3",
+      "kind": "event_to_narrative"
+    },
+    {
+      "source": "E018",
+      "target": "N018-1",
+      "kind": "event_to_narrative"
+    },
+    {
+      "source": "E018",
+      "target": "N018-2",
+      "kind": "event_to_narrative"
+    },
+    {
+      "source": "E018",
+      "target": "N018-3",
+      "kind": "event_to_narrative"
+    },
+    {
+      "source": "E019",
+      "target": "N019-1",
+      "kind": "event_to_narrative"
+    },
+    {
+      "source": "E019",
+      "target": "N019-2",
+      "kind": "event_to_narrative"
+    },
+    {
+      "source": "E019",
+      "target": "N019-3",
+      "kind": "event_to_narrative"
+    },
+    {
+      "source": "E020",
+      "target": "N020-1",
+      "kind": "event_to_narrative"
+    },
+    {
+      "source": "E020",
+      "target": "N020-2",
+      "kind": "event_to_narrative"
+    },
+    {
+      "source": "E020",
+      "target": "N020-3",
+      "kind": "event_to_narrative"
+    },
+    {
+      "source": "E021",
+      "target": "N021-1",
+      "kind": "event_to_narrative"
+    },
+    {
+      "source": "E021",
+      "target": "N021-2",
+      "kind": "event_to_narrative"
+    },
+    {
+      "source": "E021",
+      "target": "N021-3",
+      "kind": "event_to_narrative"
+    },
+    {
+      "source": "E022",
+      "target": "N022-1",
+      "kind": "event_to_narrative"
+    },
+    {
+      "source": "E022",
+      "target": "N022-2",
+      "kind": "event_to_narrative"
+    },
+    {
+      "source": "E022",
+      "target": "N022-3",
+      "kind": "event_to_narrative"
+    },
+    {
+      "source": "E023",
+      "target": "N023-1",
+      "kind": "event_to_narrative"
+    },
+    {
+      "source": "E023",
+      "target": "N023-2",
+      "kind": "event_to_narrative"
+    },
+    {
+      "source": "E023",
+      "target": "N023-3",
+      "kind": "event_to_narrative"
+    },
+    {
+      "source": "E024",
+      "target": "N024-1",
+      "kind": "event_to_narrative"
+    },
+    {
+      "source": "E024",
+      "target": "N024-2",
+      "kind": "event_to_narrative"
+    },
+    {
+      "source": "E024",
+      "target": "N024-3",
+      "kind": "event_to_narrative"
+    },
+    {
+      "source": "E025",
+      "target": "N025-1",
+      "kind": "event_to_narrative"
+    },
+    {
+      "source": "E025",
+      "target": "N025-2",
+      "kind": "event_to_narrative"
+    },
+    {
+      "source": "E025",
+      "target": "N025-3",
+      "kind": "event_to_narrative"
+    },
+    {
+      "source": "E026",
+      "target": "N026-1",
+      "kind": "event_to_narrative"
+    },
+    {
+      "source": "E026",
+      "target": "N026-2",
+      "kind": "event_to_narrative"
+    },
+    {
+      "source": "E026",
+      "target": "N026-3",
+      "kind": "event_to_narrative"
+    },
+    {
+      "source": "E027",
+      "target": "N027-1",
+      "kind": "event_to_narrative"
+    },
+    {
+      "source": "E027",
+      "target": "N027-2",
+      "kind": "event_to_narrative"
+    },
+    {
+      "source": "E027",
+      "target": "N027-3",
+      "kind": "event_to_narrative"
+    },
+    {
+      "source": "E028",
+      "target": "N028-1",
+      "kind": "event_to_narrative"
+    },
+    {
+      "source": "E028",
+      "target": "N028-2",
+      "kind": "event_to_narrative"
+    },
+    {
+      "source": "E028",
+      "target": "N028-3",
+      "kind": "event_to_narrative"
+    },
+    {
+      "source": "E029",
+      "target": "N029-1",
+      "kind": "event_to_narrative"
+    },
+    {
+      "source": "E029",
+      "target": "N029-2",
+      "kind": "event_to_narrative"
+    },
+    {
+      "source": "E029",
+      "target": "N029-3",
+      "kind": "event_to_narrative"
+    },
+    {
+      "source": "E030",
+      "target": "N030-1",
+      "kind": "event_to_narrative"
+    },
+    {
+      "source": "E030",
+      "target": "N030-2",
+      "kind": "event_to_narrative"
+    },
+    {
+      "source": "E030",
+      "target": "N030-3",
+      "kind": "event_to_narrative"
+    },
+    {
+      "source": "E031",
+      "target": "N031-1",
+      "kind": "event_to_narrative"
+    },
+    {
+      "source": "E031",
+      "target": "N031-2",
+      "kind": "event_to_narrative"
+    },
+    {
+      "source": "E031",
+      "target": "N031-3",
+      "kind": "event_to_narrative"
+    },
+    {
+      "source": "E032",
+      "target": "N032-1",
+      "kind": "event_to_narrative"
+    },
+    {
+      "source": "E032",
+      "target": "N032-2",
+      "kind": "event_to_narrative"
+    },
+    {
+      "source": "E032",
+      "target": "N032-3",
+      "kind": "event_to_narrative"
+    },
+    {
+      "source": "E033",
+      "target": "N033-1",
+      "kind": "event_to_narrative"
+    },
+    {
+      "source": "E033",
+      "target": "N033-2",
+      "kind": "event_to_narrative"
+    },
+    {
+      "source": "E033",
+      "target": "N033-3",
+      "kind": "event_to_narrative"
+    },
+    {
+      "source": "E034",
+      "target": "N034-1",
+      "kind": "event_to_narrative"
+    },
+    {
+      "source": "E034",
+      "target": "N034-2",
+      "kind": "event_to_narrative"
+    },
+    {
+      "source": "E034",
+      "target": "N034-3",
+      "kind": "event_to_narrative"
+    },
+    {
+      "source": "E035",
+      "target": "N035-1",
+      "kind": "event_to_narrative"
+    },
+    {
+      "source": "E035",
+      "target": "N035-2",
+      "kind": "event_to_narrative"
+    },
+    {
+      "source": "E035",
+      "target": "N035-3",
+      "kind": "event_to_narrative"
+    },
+    {
+      "source": "E036",
+      "target": "N036-1",
+      "kind": "event_to_narrative"
+    },
+    {
+      "source": "E036",
+      "target": "N036-2",
+      "kind": "event_to_narrative"
+    },
+    {
+      "source": "E036",
+      "target": "N036-3",
+      "kind": "event_to_narrative"
+    },
+    {
+      "source": "E037",
+      "target": "N037-1",
+      "kind": "event_to_narrative"
+    },
+    {
+      "source": "E037",
+      "target": "N037-2",
+      "kind": "event_to_narrative"
+    },
+    {
+      "source": "E037",
+      "target": "N037-3",
+      "kind": "event_to_narrative"
+    },
+    {
+      "source": "E038",
+      "target": "N038-1",
+      "kind": "event_to_narrative"
+    },
+    {
+      "source": "E038",
+      "target": "N038-2",
+      "kind": "event_to_narrative"
+    },
+    {
+      "source": "E038",
+      "target": "N038-3",
+      "kind": "event_to_narrative"
+    },
+    {
+      "source": "E039",
+      "target": "N039-1",
+      "kind": "event_to_narrative"
+    },
+    {
+      "source": "E039",
+      "target": "N039-2",
+      "kind": "event_to_narrative"
+    },
+    {
+      "source": "E039",
+      "target": "N039-3",
+      "kind": "event_to_narrative"
+    },
+    {
+      "source": "E040",
+      "target": "N040-1",
+      "kind": "event_to_narrative"
+    },
+    {
+      "source": "E040",
+      "target": "N040-2",
+      "kind": "event_to_narrative"
+    },
+    {
+      "source": "E040",
+      "target": "N040-3",
+      "kind": "event_to_narrative"
+    },
+    {
+      "source": "N001-1",
+      "target": "M001-S1",
+      "kind": "narrative_to_market"
+    },
+    {
+      "source": "N001-2",
+      "target": "M001-S1",
+      "kind": "narrative_to_market"
+    },
+    {
+      "source": "N001-3",
+      "target": "M001-S1",
+      "kind": "narrative_to_market"
+    },
+    {
+      "source": "M001-S1",
+      "target": "M001-S2",
+      "kind": "market_chain_step"
+    },
+    {
+      "source": "M001-S2",
+      "target": "M001-S3",
+      "kind": "market_chain_step"
+    },
+    {
+      "source": "M001-S3",
+      "target": "M001-S4",
+      "kind": "market_chain_step"
+    },
+    {
+      "source": "N002-1",
+      "target": "M002-S1",
+      "kind": "narrative_to_market"
+    },
+    {
+      "source": "N002-2",
+      "target": "M002-S1",
+      "kind": "narrative_to_market"
+    },
+    {
+      "source": "N002-3",
+      "target": "M002-S1",
+      "kind": "narrative_to_market"
+    },
+    {
+      "source": "M002-S1",
+      "target": "M002-S2",
+      "kind": "market_chain_step"
+    },
+    {
+      "source": "M002-S2",
+      "target": "M002-S3",
+      "kind": "market_chain_step"
+    },
+    {
+      "source": "M002-S3",
+      "target": "M002-S4",
+      "kind": "market_chain_step"
+    },
+    {
+      "source": "NE003-1",
+      "target": "M003-S1",
+      "kind": "narrative_to_market"
+    },
+    {
+      "source": "NE003-2",
+      "target": "M003-S1",
+      "kind": "narrative_to_market"
+    },
+    {
+      "source": "NE003-3",
+      "target": "M003-S1",
+      "kind": "narrative_to_market"
+    },
+    {
+      "source": "M003-S1",
+      "target": "M003-S2",
+      "kind": "market_chain_step"
+    },
+    {
+      "source": "M003-S2",
+      "target": "M003-S3",
+      "kind": "market_chain_step"
+    },
+    {
+      "source": "M003-S3",
+      "target": "M003-S4",
+      "kind": "market_chain_step"
+    },
+    {
+      "source": "N004-1",
+      "target": "M004-S1",
+      "kind": "narrative_to_market"
+    },
+    {
+      "source": "N004-2",
+      "target": "M004-S1",
+      "kind": "narrative_to_market"
+    },
+    {
+      "source": "N004-3",
+      "target": "M004-S1",
+      "kind": "narrative_to_market"
+    },
+    {
+      "source": "M004-S1",
+      "target": "M004-S2",
+      "kind": "market_chain_step"
+    },
+    {
+      "source": "M004-S2",
+      "target": "M004-S3",
+      "kind": "market_chain_step"
+    },
+    {
+      "source": "M004-S3",
+      "target": "M004-S4",
+      "kind": "market_chain_step"
+    },
+    {
+      "source": "N005-1",
+      "target": "M005-S1",
+      "kind": "narrative_to_market"
+    },
+    {
+      "source": "N005-2",
+      "target": "M005-S1",
+      "kind": "narrative_to_market"
+    },
+    {
+      "source": "N005-3",
+      "target": "M005-S1",
+      "kind": "narrative_to_market"
+    },
+    {
+      "source": "M005-S1",
+      "target": "M005-S2",
+      "kind": "market_chain_step"
+    },
+    {
+      "source": "M005-S2",
+      "target": "M005-S3",
+      "kind": "market_chain_step"
+    },
+    {
+      "source": "M005-S3",
+      "target": "M005-S4",
+      "kind": "market_chain_step"
+    },
+    {
+      "source": "NE006-1",
+      "target": "M006-S1",
+      "kind": "narrative_to_market"
+    },
+    {
+      "source": "NE006-2",
+      "target": "M006-S1",
+      "kind": "narrative_to_market"
+    },
+    {
+      "source": "NE006-3",
+      "target": "M006-S1",
+      "kind": "narrative_to_market"
+    },
+    {
+      "source": "M006-S1",
+      "target": "M006-S2",
+      "kind": "market_chain_step"
+    },
+    {
+      "source": "M006-S2",
+      "target": "M006-S3",
+      "kind": "market_chain_step"
+    },
+    {
+      "source": "M006-S3",
+      "target": "M006-S4",
+      "kind": "market_chain_step"
+    },
+    {
+      "source": "N007-1",
+      "target": "M007-S1",
+      "kind": "narrative_to_market"
+    },
+    {
+      "source": "N007-2",
+      "target": "M007-S1",
+      "kind": "narrative_to_market"
+    },
+    {
+      "source": "N007-3",
+      "target": "M007-S1",
+      "kind": "narrative_to_market"
+    },
+    {
+      "source": "M007-S1",
+      "target": "M007-S2",
+      "kind": "market_chain_step"
+    },
+    {
+      "source": "M007-S2",
+      "target": "M007-S3",
+      "kind": "market_chain_step"
+    },
+    {
+      "source": "M007-S3",
+      "target": "M007-S4",
+      "kind": "market_chain_step"
+    },
+    {
+      "source": "N008-1",
+      "target": "M008-S1",
+      "kind": "narrative_to_market"
+    },
+    {
+      "source": "N008-2",
+      "target": "M008-S1",
+      "kind": "narrative_to_market"
+    },
+    {
+      "source": "N008-3",
+      "target": "M008-S1",
+      "kind": "narrative_to_market"
+    },
+    {
+      "source": "M008-S1",
+      "target": "M008-S2",
+      "kind": "market_chain_step"
+    },
+    {
+      "source": "M008-S2",
+      "target": "M008-S3",
+      "kind": "market_chain_step"
+    },
+    {
+      "source": "M008-S3",
+      "target": "M008-S4",
+      "kind": "market_chain_step"
+    },
+    {
+      "source": "N009-1",
+      "target": "M009-S1",
+      "kind": "narrative_to_market"
+    },
+    {
+      "source": "N009-2",
+      "target": "M009-S1",
+      "kind": "narrative_to_market"
+    },
+    {
+      "source": "N009-3",
+      "target": "M009-S1",
+      "kind": "narrative_to_market"
+    },
+    {
+      "source": "M009-S1",
+      "target": "M009-S2",
+      "kind": "market_chain_step"
+    },
+    {
+      "source": "M009-S2",
+      "target": "M009-S3",
+      "kind": "market_chain_step"
+    },
+    {
+      "source": "M009-S3",
+      "target": "M009-S4",
+      "kind": "market_chain_step"
+    },
+    {
+      "source": "NE010-1",
+      "target": "M010-S1",
+      "kind": "narrative_to_market"
+    },
+    {
+      "source": "NE010-2",
+      "target": "M010-S1",
+      "kind": "narrative_to_market"
+    },
+    {
+      "source": "NE010-3",
+      "target": "M010-S1",
+      "kind": "narrative_to_market"
+    },
+    {
+      "source": "M010-S1",
+      "target": "M010-S2",
+      "kind": "market_chain_step"
+    },
+    {
+      "source": "M010-S2",
+      "target": "M010-S3",
+      "kind": "market_chain_step"
+    },
+    {
+      "source": "M010-S3",
+      "target": "M010-S4",
+      "kind": "market_chain_step"
+    },
+    {
+      "source": "N011-1",
+      "target": "M011-S1",
+      "kind": "narrative_to_market"
+    },
+    {
+      "source": "N011-2",
+      "target": "M011-S1",
+      "kind": "narrative_to_market"
+    },
+    {
+      "source": "N011-3",
+      "target": "M011-S1",
+      "kind": "narrative_to_market"
+    },
+    {
+      "source": "M011-S1",
+      "target": "M011-S2",
+      "kind": "market_chain_step"
+    },
+    {
+      "source": "M011-S2",
+      "target": "M011-S3",
+      "kind": "market_chain_step"
+    },
+    {
+      "source": "M011-S3",
+      "target": "M011-S4",
+      "kind": "market_chain_step"
+    },
+    {
+      "source": "N012-1",
+      "target": "M012-S1",
+      "kind": "narrative_to_market"
+    },
+    {
+      "source": "N012-2",
+      "target": "M012-S1",
+      "kind": "narrative_to_market"
+    },
+    {
+      "source": "N012-3",
+      "target": "M012-S1",
+      "kind": "narrative_to_market"
+    },
+    {
+      "source": "M012-S1",
+      "target": "M012-S2",
+      "kind": "market_chain_step"
+    },
+    {
+      "source": "M012-S2",
+      "target": "M012-S3",
+      "kind": "market_chain_step"
+    },
+    {
+      "source": "M012-S3",
+      "target": "M012-S4",
+      "kind": "market_chain_step"
+    },
+    {
+      "source": "NE013-1",
+      "target": "M013-S1",
+      "kind": "narrative_to_market"
+    },
+    {
+      "source": "NE013-2",
+      "target": "M013-S1",
+      "kind": "narrative_to_market"
+    },
+    {
+      "source": "NE013-3",
+      "target": "M013-S1",
+      "kind": "narrative_to_market"
+    },
+    {
+      "source": "M013-S1",
+      "target": "M013-S2",
+      "kind": "market_chain_step"
+    },
+    {
+      "source": "M013-S2",
+      "target": "M013-S3",
+      "kind": "market_chain_step"
+    },
+    {
+      "source": "M013-S3",
+      "target": "M013-S4",
+      "kind": "market_chain_step"
+    },
+    {
+      "source": "N014-1",
+      "target": "M014-S1",
+      "kind": "narrative_to_market"
+    },
+    {
+      "source": "N014-2",
+      "target": "M014-S1",
+      "kind": "narrative_to_market"
+    },
+    {
+      "source": "N014-3",
+      "target": "M014-S1",
+      "kind": "narrative_to_market"
+    },
+    {
+      "source": "M014-S1",
+      "target": "M014-S2",
+      "kind": "market_chain_step"
+    },
+    {
+      "source": "M014-S2",
+      "target": "M014-S3",
+      "kind": "market_chain_step"
+    },
+    {
+      "source": "M014-S3",
+      "target": "M014-S4",
+      "kind": "market_chain_step"
+    },
+    {
+      "source": "N015-1",
+      "target": "M015-S1",
+      "kind": "narrative_to_market"
+    },
+    {
+      "source": "N015-2",
+      "target": "M015-S1",
+      "kind": "narrative_to_market"
+    },
+    {
+      "source": "N015-3",
+      "target": "M015-S1",
+      "kind": "narrative_to_market"
+    },
+    {
+      "source": "M015-S1",
+      "target": "M015-S2",
+      "kind": "market_chain_step"
+    },
+    {
+      "source": "M015-S2",
+      "target": "M015-S3",
+      "kind": "market_chain_step"
+    },
+    {
+      "source": "M015-S3",
+      "target": "M015-S4",
+      "kind": "market_chain_step"
+    },
+    {
+      "source": "N016-1",
+      "target": "M016-S1",
+      "kind": "narrative_to_market"
+    },
+    {
+      "source": "N016-2",
+      "target": "M016-S1",
+      "kind": "narrative_to_market"
+    },
+    {
+      "source": "N016-3",
+      "target": "M016-S1",
+      "kind": "narrative_to_market"
+    },
+    {
+      "source": "M016-S1",
+      "target": "M016-S2",
+      "kind": "market_chain_step"
+    },
+    {
+      "source": "M016-S2",
+      "target": "M016-S3",
+      "kind": "market_chain_step"
+    },
+    {
+      "source": "M016-S3",
+      "target": "M016-S4",
+      "kind": "market_chain_step"
+    },
+    {
+      "source": "N017-1",
+      "target": "M017-S1",
+      "kind": "narrative_to_market"
+    },
+    {
+      "source": "N017-2",
+      "target": "M017-S1",
+      "kind": "narrative_to_market"
+    },
+    {
+      "source": "N017-3",
+      "target": "M017-S1",
+      "kind": "narrative_to_market"
+    },
+    {
+      "source": "M017-S1",
+      "target": "M017-S2",
+      "kind": "market_chain_step"
+    },
+    {
+      "source": "M017-S2",
+      "target": "M017-S3",
+      "kind": "market_chain_step"
+    },
+    {
+      "source": "M017-S3",
+      "target": "M017-S4",
+      "kind": "market_chain_step"
+    },
+    {
+      "source": "N018-1",
+      "target": "M018-S1",
+      "kind": "narrative_to_market"
+    },
+    {
+      "source": "N018-2",
+      "target": "M018-S1",
+      "kind": "narrative_to_market"
+    },
+    {
+      "source": "N018-3",
+      "target": "M018-S1",
+      "kind": "narrative_to_market"
+    },
+    {
+      "source": "M018-S1",
+      "target": "M018-S2",
+      "kind": "market_chain_step"
+    },
+    {
+      "source": "M018-S2",
+      "target": "M018-S3",
+      "kind": "market_chain_step"
+    },
+    {
+      "source": "M018-S3",
+      "target": "M018-S4",
+      "kind": "market_chain_step"
+    },
+    {
+      "source": "N019-1",
+      "target": "M019-S1",
+      "kind": "narrative_to_market"
+    },
+    {
+      "source": "N019-2",
+      "target": "M019-S1",
+      "kind": "narrative_to_market"
+    },
+    {
+      "source": "N019-3",
+      "target": "M019-S1",
+      "kind": "narrative_to_market"
+    },
+    {
+      "source": "M019-S1",
+      "target": "M019-S2",
+      "kind": "market_chain_step"
+    },
+    {
+      "source": "M019-S2",
+      "target": "M019-S3",
+      "kind": "market_chain_step"
+    },
+    {
+      "source": "M019-S3",
+      "target": "M019-S4",
+      "kind": "market_chain_step"
+    },
+    {
+      "source": "N020-1",
+      "target": "M020-S1",
+      "kind": "narrative_to_market"
+    },
+    {
+      "source": "N020-2",
+      "target": "M020-S1",
+      "kind": "narrative_to_market"
+    },
+    {
+      "source": "N020-3",
+      "target": "M020-S1",
+      "kind": "narrative_to_market"
+    },
+    {
+      "source": "M020-S1",
+      "target": "M020-S2",
+      "kind": "market_chain_step"
+    },
+    {
+      "source": "M020-S2",
+      "target": "M020-S3",
+      "kind": "market_chain_step"
+    },
+    {
+      "source": "M020-S3",
+      "target": "M020-S4",
+      "kind": "market_chain_step"
+    },
+    {
+      "source": "N021-1",
+      "target": "M021-S1",
+      "kind": "narrative_to_market"
+    },
+    {
+      "source": "N021-2",
+      "target": "M021-S1",
+      "kind": "narrative_to_market"
+    },
+    {
+      "source": "N021-3",
+      "target": "M021-S1",
+      "kind": "narrative_to_market"
+    },
+    {
+      "source": "M021-S1",
+      "target": "M021-S2",
+      "kind": "market_chain_step"
+    },
+    {
+      "source": "M021-S2",
+      "target": "M021-S3",
+      "kind": "market_chain_step"
+    },
+    {
+      "source": "M021-S3",
+      "target": "M021-S4",
+      "kind": "market_chain_step"
+    },
+    {
+      "source": "N022-1",
+      "target": "M022-S1",
+      "kind": "narrative_to_market"
+    },
+    {
+      "source": "N022-2",
+      "target": "M022-S1",
+      "kind": "narrative_to_market"
+    },
+    {
+      "source": "N022-3",
+      "target": "M022-S1",
+      "kind": "narrative_to_market"
+    },
+    {
+      "source": "M022-S1",
+      "target": "M022-S2",
+      "kind": "market_chain_step"
+    },
+    {
+      "source": "M022-S2",
+      "target": "M022-S3",
+      "kind": "market_chain_step"
+    },
+    {
+      "source": "M022-S3",
+      "target": "M022-S4",
+      "kind": "market_chain_step"
+    },
+    {
+      "source": "N023-1",
+      "target": "M023-S1",
+      "kind": "narrative_to_market"
+    },
+    {
+      "source": "N023-2",
+      "target": "M023-S1",
+      "kind": "narrative_to_market"
+    },
+    {
+      "source": "N023-3",
+      "target": "M023-S1",
+      "kind": "narrative_to_market"
+    },
+    {
+      "source": "M023-S1",
+      "target": "M023-S2",
+      "kind": "market_chain_step"
+    },
+    {
+      "source": "M023-S2",
+      "target": "M023-S3",
+      "kind": "market_chain_step"
+    },
+    {
+      "source": "M023-S3",
+      "target": "M023-S4",
+      "kind": "market_chain_step"
+    },
+    {
+      "source": "N024-1",
+      "target": "M024-S1",
+      "kind": "narrative_to_market"
+    },
+    {
+      "source": "N024-2",
+      "target": "M024-S1",
+      "kind": "narrative_to_market"
+    },
+    {
+      "source": "N024-3",
+      "target": "M024-S1",
+      "kind": "narrative_to_market"
+    },
+    {
+      "source": "M024-S1",
+      "target": "M024-S2",
+      "kind": "market_chain_step"
+    },
+    {
+      "source": "M024-S2",
+      "target": "M024-S3",
+      "kind": "market_chain_step"
+    },
+    {
+      "source": "M024-S3",
+      "target": "M024-S4",
+      "kind": "market_chain_step"
+    },
+    {
+      "source": "N025-1",
+      "target": "M025-S1",
+      "kind": "narrative_to_market"
+    },
+    {
+      "source": "N025-2",
+      "target": "M025-S1",
+      "kind": "narrative_to_market"
+    },
+    {
+      "source": "N025-3",
+      "target": "M025-S1",
+      "kind": "narrative_to_market"
+    },
+    {
+      "source": "M025-S1",
+      "target": "M025-S2",
+      "kind": "market_chain_step"
+    },
+    {
+      "source": "M025-S2",
+      "target": "M025-S3",
+      "kind": "market_chain_step"
+    },
+    {
+      "source": "M025-S3",
+      "target": "M025-S4",
+      "kind": "market_chain_step"
+    },
+    {
+      "source": "N026-1",
+      "target": "M026-S1",
+      "kind": "narrative_to_market"
+    },
+    {
+      "source": "N026-2",
+      "target": "M026-S1",
+      "kind": "narrative_to_market"
+    },
+    {
+      "source": "N026-3",
+      "target": "M026-S1",
+      "kind": "narrative_to_market"
+    },
+    {
+      "source": "M026-S1",
+      "target": "M026-S2",
+      "kind": "market_chain_step"
+    },
+    {
+      "source": "M026-S2",
+      "target": "M026-S3",
+      "kind": "market_chain_step"
+    },
+    {
+      "source": "M026-S3",
+      "target": "M026-S4",
+      "kind": "market_chain_step"
+    },
+    {
+      "source": "N027-1",
+      "target": "M027-S1",
+      "kind": "narrative_to_market"
+    },
+    {
+      "source": "N027-2",
+      "target": "M027-S1",
+      "kind": "narrative_to_market"
+    },
+    {
+      "source": "N027-3",
+      "target": "M027-S1",
+      "kind": "narrative_to_market"
+    },
+    {
+      "source": "M027-S1",
+      "target": "M027-S2",
+      "kind": "market_chain_step"
+    },
+    {
+      "source": "M027-S2",
+      "target": "M027-S3",
+      "kind": "market_chain_step"
+    },
+    {
+      "source": "M027-S3",
+      "target": "M027-S4",
+      "kind": "market_chain_step"
+    },
+    {
+      "source": "N028-1",
+      "target": "M028-S1",
+      "kind": "narrative_to_market"
+    },
+    {
+      "source": "N028-2",
+      "target": "M028-S1",
+      "kind": "narrative_to_market"
+    },
+    {
+      "source": "N028-3",
+      "target": "M028-S1",
+      "kind": "narrative_to_market"
+    },
+    {
+      "source": "M028-S1",
+      "target": "M028-S2",
+      "kind": "market_chain_step"
+    },
+    {
+      "source": "M028-S2",
+      "target": "M028-S3",
+      "kind": "market_chain_step"
+    },
+    {
+      "source": "M028-S3",
+      "target": "M028-S4",
+      "kind": "market_chain_step"
+    },
+    {
+      "source": "N029-1",
+      "target": "M029-S1",
+      "kind": "narrative_to_market"
+    },
+    {
+      "source": "N029-2",
+      "target": "M029-S1",
+      "kind": "narrative_to_market"
+    },
+    {
+      "source": "N029-3",
+      "target": "M029-S1",
+      "kind": "narrative_to_market"
+    },
+    {
+      "source": "M029-S1",
+      "target": "M029-S2",
+      "kind": "market_chain_step"
+    },
+    {
+      "source": "M029-S2",
+      "target": "M029-S3",
+      "kind": "market_chain_step"
+    },
+    {
+      "source": "M029-S3",
+      "target": "M029-S4",
+      "kind": "market_chain_step"
+    },
+    {
+      "source": "N030-1",
+      "target": "M030-S1",
+      "kind": "narrative_to_market"
+    },
+    {
+      "source": "N030-2",
+      "target": "M030-S1",
+      "kind": "narrative_to_market"
+    },
+    {
+      "source": "N030-3",
+      "target": "M030-S1",
+      "kind": "narrative_to_market"
+    },
+    {
+      "source": "M030-S1",
+      "target": "M030-S2",
+      "kind": "market_chain_step"
+    },
+    {
+      "source": "M030-S2",
+      "target": "M030-S3",
+      "kind": "market_chain_step"
+    },
+    {
+      "source": "M030-S3",
+      "target": "M030-S4",
+      "kind": "market_chain_step"
+    },
+    {
+      "source": "N031-1",
+      "target": "M031-S1",
+      "kind": "narrative_to_market"
+    },
+    {
+      "source": "N031-2",
+      "target": "M031-S1",
+      "kind": "narrative_to_market"
+    },
+    {
+      "source": "N031-3",
+      "target": "M031-S1",
+      "kind": "narrative_to_market"
+    },
+    {
+      "source": "M031-S1",
+      "target": "M031-S2",
+      "kind": "market_chain_step"
+    },
+    {
+      "source": "M031-S2",
+      "target": "M031-S3",
+      "kind": "market_chain_step"
+    },
+    {
+      "source": "M031-S3",
+      "target": "M031-S4",
+      "kind": "market_chain_step"
+    },
+    {
+      "source": "N032-1",
+      "target": "M032-S1",
+      "kind": "narrative_to_market"
+    },
+    {
+      "source": "N032-2",
+      "target": "M032-S1",
+      "kind": "narrative_to_market"
+    },
+    {
+      "source": "N032-3",
+      "target": "M032-S1",
+      "kind": "narrative_to_market"
+    },
+    {
+      "source": "M032-S1",
+      "target": "M032-S2",
+      "kind": "market_chain_step"
+    },
+    {
+      "source": "M032-S2",
+      "target": "M032-S3",
+      "kind": "market_chain_step"
+    },
+    {
+      "source": "M032-S3",
+      "target": "M032-S4",
+      "kind": "market_chain_step"
+    },
+    {
+      "source": "N033-1",
+      "target": "M033-S1",
+      "kind": "narrative_to_market"
+    },
+    {
+      "source": "N033-2",
+      "target": "M033-S1",
+      "kind": "narrative_to_market"
+    },
+    {
+      "source": "N033-3",
+      "target": "M033-S1",
+      "kind": "narrative_to_market"
+    },
+    {
+      "source": "M033-S1",
+      "target": "M033-S2",
+      "kind": "market_chain_step"
+    },
+    {
+      "source": "M033-S2",
+      "target": "M033-S3",
+      "kind": "market_chain_step"
+    },
+    {
+      "source": "M033-S3",
+      "target": "M033-S4",
+      "kind": "market_chain_step"
+    },
+    {
+      "source": "N034-1",
+      "target": "M034-S1",
+      "kind": "narrative_to_market"
+    },
+    {
+      "source": "N034-2",
+      "target": "M034-S1",
+      "kind": "narrative_to_market"
+    },
+    {
+      "source": "N034-3",
+      "target": "M034-S1",
+      "kind": "narrative_to_market"
+    },
+    {
+      "source": "M034-S1",
+      "target": "M034-S2",
+      "kind": "market_chain_step"
+    },
+    {
+      "source": "M034-S2",
+      "target": "M034-S3",
+      "kind": "market_chain_step"
+    },
+    {
+      "source": "M034-S3",
+      "target": "M034-S4",
+      "kind": "market_chain_step"
+    },
+    {
+      "source": "N035-1",
+      "target": "M035-S1",
+      "kind": "narrative_to_market"
+    },
+    {
+      "source": "N035-2",
+      "target": "M035-S1",
+      "kind": "narrative_to_market"
+    },
+    {
+      "source": "N035-3",
+      "target": "M035-S1",
+      "kind": "narrative_to_market"
+    },
+    {
+      "source": "M035-S1",
+      "target": "M035-S2",
+      "kind": "market_chain_step"
+    },
+    {
+      "source": "M035-S2",
+      "target": "M035-S3",
+      "kind": "market_chain_step"
+    },
+    {
+      "source": "M035-S3",
+      "target": "M035-S4",
+      "kind": "market_chain_step"
+    },
+    {
+      "source": "N036-1",
+      "target": "M036-S1",
+      "kind": "narrative_to_market"
+    },
+    {
+      "source": "N036-2",
+      "target": "M036-S1",
+      "kind": "narrative_to_market"
+    },
+    {
+      "source": "N036-3",
+      "target": "M036-S1",
+      "kind": "narrative_to_market"
+    },
+    {
+      "source": "M036-S1",
+      "target": "M036-S2",
+      "kind": "market_chain_step"
+    },
+    {
+      "source": "M036-S2",
+      "target": "M036-S3",
+      "kind": "market_chain_step"
+    },
+    {
+      "source": "M036-S3",
+      "target": "M036-S4",
+      "kind": "market_chain_step"
+    },
+    {
+      "source": "N037-1",
+      "target": "M037-S1",
+      "kind": "narrative_to_market"
+    },
+    {
+      "source": "N037-2",
+      "target": "M037-S1",
+      "kind": "narrative_to_market"
+    },
+    {
+      "source": "N037-3",
+      "target": "M037-S1",
+      "kind": "narrative_to_market"
+    },
+    {
+      "source": "M037-S1",
+      "target": "M037-S2",
+      "kind": "market_chain_step"
+    },
+    {
+      "source": "M037-S2",
+      "target": "M037-S3",
+      "kind": "market_chain_step"
+    },
+    {
+      "source": "M037-S3",
+      "target": "M037-S4",
+      "kind": "market_chain_step"
+    },
+    {
+      "source": "N038-1",
+      "target": "M038-S1",
+      "kind": "narrative_to_market"
+    },
+    {
+      "source": "N038-2",
+      "target": "M038-S1",
+      "kind": "narrative_to_market"
+    },
+    {
+      "source": "N038-3",
+      "target": "M038-S1",
+      "kind": "narrative_to_market"
+    },
+    {
+      "source": "M038-S1",
+      "target": "M038-S2",
+      "kind": "market_chain_step"
+    },
+    {
+      "source": "M038-S2",
+      "target": "M038-S3",
+      "kind": "market_chain_step"
+    },
+    {
+      "source": "M038-S3",
+      "target": "M038-S4",
+      "kind": "market_chain_step"
+    },
+    {
+      "source": "N039-1",
+      "target": "M039-S1",
+      "kind": "narrative_to_market"
+    },
+    {
+      "source": "N039-2",
+      "target": "M039-S1",
+      "kind": "narrative_to_market"
+    },
+    {
+      "source": "N039-3",
+      "target": "M039-S1",
+      "kind": "narrative_to_market"
+    },
+    {
+      "source": "M039-S1",
+      "target": "M039-S2",
+      "kind": "market_chain_step"
+    },
+    {
+      "source": "M039-S2",
+      "target": "M039-S3",
+      "kind": "market_chain_step"
+    },
+    {
+      "source": "M039-S3",
+      "target": "M039-S4",
+      "kind": "market_chain_step"
+    },
+    {
+      "source": "N040-1",
+      "target": "M040-S1",
+      "kind": "narrative_to_market"
+    },
+    {
+      "source": "N040-2",
+      "target": "M040-S1",
+      "kind": "narrative_to_market"
+    },
+    {
+      "source": "N040-3",
+      "target": "M040-S1",
+      "kind": "narrative_to_market"
+    },
+    {
+      "source": "M040-S1",
+      "target": "M040-S2",
+      "kind": "market_chain_step"
+    },
+    {
+      "source": "M040-S2",
+      "target": "M040-S3",
+      "kind": "market_chain_step"
+    },
+    {
+      "source": "M040-S3",
+      "target": "M040-S4",
+      "kind": "market_chain_step"
+    }
+  ],
+  "warnings": []
+}

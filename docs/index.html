@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>War Causal Visualization</title>
+    <link rel="stylesheet" href="./css/main.css" />
+  </head>
+  <body>
+    <header class="header">
+      <h1>战争事件-叙事-市场 三层因果图</h1>
+      <div class="controls">
+        <input id="search-input" type="text" placeholder="输入 event_id，如 E017" />
+        <button id="search-btn" type="button">定位事件</button>
+        <button id="reset-btn" type="button">重置高亮</button>
+      </div>
+    </header>
+    <section class="narrative-strip">
+      <h2>Narratives</h2>
+      <div id="narrative-list" class="narrative-list">点击左侧事件后显示对应 narrative 全文</div>
+    </section>
+
+    <main class="layout">
+      <aside class="event-panel">
+        <h2>事件时间轴</h2>
+        <div id="event-list" class="event-list"></div>
+      </aside>
+      <section class="canvas">
+        <div class="scroll-wrap">
+          <svg id="graph" xmlns="http://www.w3.org/2000/svg">
+            <defs>
+              <marker
+                id="arrow-end"
+                viewBox="0 0 10 10"
+                refX="8.5"
+                refY="5"
+                markerWidth="7"
+                markerHeight="7"
+                orient="auto"
+              >
+                <path d="M 0 0 L 10 5 L 0 10 z" fill="#94a3b8" />
+              </marker>
+            </defs>
+            <g id="edges-layer"></g>
+            <g id="nodes-layer"></g>
+          </svg>
+        </div>
+      </section>
+      <aside class="panel">
+        <h2>节点详情</h2>
+        <div id="detail">点击节点查看详情</div>
+        <h3>图例</h3>
+        <ul>
+          <li><span class="dot event"></span> Event</li>
+          <li><span class="dot report"></span> Narrative-report</li>
+          <li><span class="dot prediction"></span> Narrative-prediction</li>
+          <li><span class="dot market"></span> Market chain step</li>
+        </ul>
+      </aside>
+    </main>
+
+    <div id="tooltip" class="tooltip hidden"></div>
+    <script type="module" src="./js/app.js"></script>
+  </body>
+</html>
+
